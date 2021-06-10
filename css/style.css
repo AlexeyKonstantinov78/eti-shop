@@ -188,4 +188,25 @@ ymaps {
   font-size: 1.4rem;
   margin: 0 2rem;
 }
+
+@media screen and (max-width: 768px) {
+  .header-section .header-section_item picture img {
+    width: 150px;
+  }
+  .header-section .header-section_item h1 {
+    font-size: 5rem;
+  }
+}
+
+@media screen and (max-width: 570px) {
+  .header-section .header-section_item picture img {
+    width: 100px;
+  }
+  .header-section .header-section_item h1 {
+    font-size: 3rem;
+  }
+  .main-content {
+    margin: 3rem 2rem;
+  }
+}
 /*# sourceMappingURL=style.css.map */
