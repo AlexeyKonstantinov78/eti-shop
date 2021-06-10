@@ -1,0 +1,170 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap");
+@font-face {
+  font-family: MateSC-Reular;
+  src: url("../font/MateSC-Regular.ttf");
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Play', sans-serif;
+}
+
+.header {
+  background: #cad0d0;
+  background: -webkit-gradient(linear, left top, left bottom, from(#cad0d0), color-stop(32%, #f8fafa), to(white));
+  background: linear-gradient(180deg, #cad0d0 0%, #f8fafa 32%, white 100%);
+}
+
+.header ul li a {
+  font-size: 2rem;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding: 0.5rem 2rem;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show > .nav-link {
+  font-weight: bold;
+}
+
+.header-section {
+  position: relative;
+}
+
+.header-section_item {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  width: 100%;
+}
+
+.header-section_item picture {
+  left: 2rem;
+  margin: 1rem;
+}
+
+.header-section_item h1 {
+  font-size: 6rem;
+  width: 100%;
+  text-align: center;
+}
+
+.header-section-time p {
+  margin: 1rem 0;
+  font-size: 1.8rem;
+  text-align: center;
+}
+
+.header-section-time p a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.main {
+  margin: 3rem 0;
+}
+
+.main-content {
+  margin: 5rem 2rem;
+  text-align: center;
+}
+
+.item {
+  cursor: pointer;
+  overflow: hidden;
+  border: 1px solid #b3b3b3;
+  border-radius: 6px;
+  width: 100%;
+  height: 220px;
+  -webkit-transition: 1s ease box-shadow;
+  transition: 1s ease box-shadow;
+}
+
+.item a {
+  text-decoration: none;
+  color: black;
+}
+
+.item:hover {
+  -webkit-box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.5);
+          box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.5);
+}
+
+.item:hover .item-img {
+  -webkit-transform: scale(1.5);
+          transform: scale(1.5);
+}
+
+.item-img {
+  text-align: center;
+  -webkit-transition: 1s ease transform;
+  transition: 1s ease transform;
+}
+
+.item-title {
+  text-align: center;
+  padding: 1rem;
+}
+
+.footer {
+  padding: 2rem 0;
+  background: white;
+  background: -webkit-gradient(linear, left top, left bottom, from(white), color-stop(45%, #e7eaea), to(#ccd2d2));
+  background: linear-gradient(180deg, white 0%, #e7eaea 45%, #ccd2d2 100%);
+}
+
+.footer .container-maps {
+  width: 100%;
+  margin: 0 0;
+}
+
+.footer a {
+  text-decoration: none;
+  color: black;
+}
+
+.footer .footer-persdata {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.footer .footer-dogovor-oferta {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.pd_footer_title {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.pd_footer_title h2 {
+  font-size: 4rem;
+  font-weight: bold;
+  margin-bottom: 3rem;
+}
+
+.pd_footer_text2 {
+  font-size: 1.6rem;
+}
+
+ymaps {
+  margin: auto;
+}
+
+.politika {
+  margin: 2rem 0;
+}
+
+.copypast {
+  text-align: center;
+  font-size: 1.4rem;
+  margin: 0 2rem;
+}
+/*# sourceMappingURL=style.css.map */
