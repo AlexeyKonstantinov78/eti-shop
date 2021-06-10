@@ -17,6 +17,10 @@ body {
     font-family: 'Play', sans-serif;    
 }
 
+hr{
+    margin: 0;
+}
+
 .header{
     background: rgb(202,208,208);
     background: linear-gradient(180deg, rgba(202,208,208,1) 0%, rgba(248,250,250,1) 32%, rgba(255,255,255,1) 100%);
@@ -54,6 +58,7 @@ body {
     font-size: 6rem;
     width: 100%;
     text-align: center;
+    margin: auto;
 }
 
 .header-section-time p {
@@ -76,15 +81,18 @@ body {
     text-align: center;
 }
 
+.main .container {
+    max-width: 100%;
+}
+
 .item {
-    cursor: pointer;
-    overflow: hidden;
+    cursor: pointer;    
     border: 1px solid rgb(179, 179, 179);
     border-radius: 6px;
     width: 100%;
-    height: 220px;
+    height: 250px;
     transition: 1s ease box-shadow;
-    
+    margin: 1rem 0;
 }
 
 .item a {
@@ -93,21 +101,33 @@ body {
 }
 
 .item:hover {
-    box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.5);        
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.5);        
 }
 
-.item:hover .item-img {
-    transform: scale(1.5);
-}
-
-.item-img {    
+.item-img {
+    overflow: hidden;    
     text-align: center;
+    height: 65%;
+}
+
+.item img {
+    max-width: 132px;
+    max-height: 132px;
+    padding: 5px;
     transition: 1s ease transform;
+}
+
+.item:hover img {
+    transform: scale(1.5);
 }
 
 .item-title{
     text-align: center;
-    padding: 1rem;
+    padding: 1rem;    
+}
+
+.item-title h3{
+    font-size: 16px;
 }
 
 .footer {
