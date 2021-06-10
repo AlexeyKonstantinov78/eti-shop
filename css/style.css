@@ -193,6 +193,21 @@ ymaps {
   margin: 0 2rem;
 }
 
+.bottomUpArrow {
+  display: none;
+}
+
+.bottomUpArrow img {
+  width: 40px;
+  position: fixed;
+  right: 20px;
+  top: 93vh;
+}
+
+.bottomActiv {
+  display: block;
+}
+
 @media screen and (max-width: 1200px) {
   .main-content {
     margin: 2rem 2rem;

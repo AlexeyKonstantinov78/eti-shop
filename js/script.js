@@ -1,5 +1,21 @@
 'use strict';
 
+let bottomUpArrow = document.querySelector('.bottomUpArrow');
 
-fetch('https://www.smart-shop.pro/')
-    .then(response => console.log(response.status));
+const bottomToggle = () => {
+    bottomUpArrow.classList.toggle('bottomActiv');
+};
+
+document.addEventListener('scroll', () => {
+    // console.log(window.scrollY);
+    if (window.scrollY >= 500) {
+
+        if (!bottomUpArrow.classList.contains('bottomActiv')) {
+            bottomToggle();
+        }
+    } else {
+        if (bottomUpArrow.classList.contains('bottomActiv')) {
+            bottomToggle();
+        }
+    }
+});
