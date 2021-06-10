@@ -84,6 +84,10 @@ hr {
   max-width: 100%;
 }
 
+.carousel-inner {
+  height: 250px;
+}
+
 .item {
   cursor: pointer;
   border: 1px solid #b3b3b3;
@@ -189,6 +193,15 @@ ymaps {
   margin: 0 2rem;
 }
 
+@media screen and (max-width: 1200px) {
+  .main-content {
+    margin: 2rem 2rem;
+  }
+  .carousel-inner {
+    height: 210px;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .header-section .header-section_item picture img {
     width: 150px;
@@ -206,7 +219,16 @@ ymaps {
     font-size: 3rem;
   }
   .main-content {
-    margin: 3rem 2rem;
+    margin: 1rem 2rem;
+  }
+  .carousel-inner {
+    height: 175px;
+  }
+}
+
+@media screen and (max-width: 415px) {
+  .carousel-inner {
+    height: 150px;
   }
 }
 /*# sourceMappingURL=style.css.map */
