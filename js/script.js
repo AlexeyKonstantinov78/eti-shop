@@ -19,3 +19,14 @@ document.addEventListener('scroll', () => {
         }
     }
 });
+
+bottomUpArrow.addEventListener('click', function (e) {
+    e.preventDefault();
+
+    const blockID = 'sumb';
+
+    document.getElementById(blockID).scrollIntoView({
+        behavior: 'smooth',
+        block: 'start'
+    });
+});
