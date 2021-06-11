@@ -220,6 +220,15 @@ ymaps {
 }
 
 @media screen and (max-width: 768px) {
+  .header-section-time p {
+    margin: 0rem 0;
+  }
+  .main {
+    margin: 0rem 0;
+  }
+  .main-content {
+    margin: 1rem 2rem;
+  }
   .header-section .header-section_item picture img {
     width: 150px;
   }
