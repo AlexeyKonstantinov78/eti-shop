@@ -177,6 +177,7 @@ hr {
 
 .pd_footer_text2 {
   font-size: 1.6rem;
+  margin-left: calc(100%/4);
 }
 
 ymaps {
@@ -223,6 +224,9 @@ ymaps {
   }
   .header-section .header-section_item h1 {
     font-size: 5rem;
+  }
+  .pd_footer_text2 {
+    margin-left: calc(100%/10);
   }
 }
 
