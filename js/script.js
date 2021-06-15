@@ -1,6 +1,8 @@
 'use strict';
 
 let bottomUpArrow = document.querySelector('.bottomUpArrow');
+let dataArry = {};
+
 
 const bottomToggle = () => {
     bottomUpArrow.classList.toggle('bottomActiv');
@@ -30,3 +32,20 @@ bottomUpArrow.addEventListener('click', function (e) {
         block: 'start'
     });
 });
+
+async function getJson() {
+    let response = await fetch('/db/db.json');
+
+    let data = await response.json();
+
+    dataArry = data;
+
+    return dataArry;
+}
+
+
+console.log(getJson());
+
+
+
+
