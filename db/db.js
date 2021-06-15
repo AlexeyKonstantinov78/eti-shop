@@ -37,7 +37,31 @@ const dataDb = {
                 "name": "Кабель, провод для слаботочных систем",
                 "img": "/image/kabel-provod-dlya-slabotochnix-system.jpg",
                 "items": [
-
+                    {
+                        "name": "Кабель коаксиальный",
+                        "img": "/image/kabel-koksealny.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000027/EC000019"
+                    },
+                    {
+                        "name": "Кабель для связи и передачи данных (медь)",
+                        "img": "/image/kabel-svyazi.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000027/EC003249"
+                    },
+                    {
+                        "name": "Кабель оптоволоконный",
+                        "img": "/image/kabel-optovolokno.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000027/EC000034"
+                    },
+                    {
+                        "name": "Кабель связи акустический",
+                        "img": "/image/kabel-svazy-acustichesky.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000027/EC000065"
+                    },
+                    {
+                        "name": "Кабель специальный комбинированный",
+                        "img": "/image/kabel-special.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000027/EC001579"
+                    }
                 ]
             },
             "shina": {

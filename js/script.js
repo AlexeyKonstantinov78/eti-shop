@@ -31,6 +31,7 @@ const render = (naimId) => {
         breadCrumsContent = arr.contentP;
         dbLoop = dataDb[arr.classP]['items'][naimId]['items'];
         dbLoopTitle = dataDb[arr.classP]['items'][naimId]['name'];
+
     } else {
         dbLoop = dataDb[naimId]['items'];
         dbLoopTitle = dataDb[naimId]['name'];
