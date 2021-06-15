@@ -85,6 +85,10 @@ hr{
     max-width: 100%;
 }
 
+.main .container p{
+    font-size: 1.5rem;
+}
+
 .carousel-inner {
     height: 250px;
 }
@@ -110,15 +114,23 @@ hr{
 }
 
 .item-img {
-    overflow: hidden;    
-    text-align: center;
+    position: relative;
+    overflow: hidden;        
     height: 65%;
+    // text-align: center;
+    // display:block;
 }
 
 .item img {
     max-width: 132px;
     max-height: 132px;
-    padding: 5px;
+    padding: 5px;        
+    position: absolute;
+    margin: auto;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
     transition: 1s ease transform;
 }
 
