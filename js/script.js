@@ -2,7 +2,8 @@
 
 let bottomUpArrow = document.querySelector('.bottomUpArrow'),
     main = document.querySelector('.main'),
-    itemCard = main.querySelectorAll('.item-card');
+    itemCard = main.querySelectorAll('.item-card'),
+    arr = [];
 
 const bottomToggle = () => {
     bottomUpArrow.classList.toggle('bottomActiv');
@@ -14,18 +15,19 @@ const searchElemP = () => {
     if (p) {
         let classP = p.className,
             contentP = p.textContent;
+
         return { classP, contentP };
     }
 };
 
 // рендер входит до 3 вложения дальше ошибка
-const render = (naimId) => {
+const render = (naimId, sbros = false) => {
     let dbLoop = '',
         dbLoopTitle = '',
         ahref = '#',
         breadCrumsContent = '';
 
-    if (searchElemP()) {
+    if (searchElemP() && sbros != true) {
 
         let arr = searchElemP();
         breadCrumsContent = arr.contentP;
@@ -83,6 +85,7 @@ const render = (naimId) => {
     conteainer.append(row);
     main.append(conteainer);
     if (ahref === '#') addEventCart();
+    addEventP();
 };
 
 // СОБЫТИЯ 
@@ -119,12 +122,35 @@ function addEventCart() {
 
     itemCard.forEach(item => {
         item.addEventListener('click', (event) => {
-            event.preventDefault();
-            let naimId = item.querySelector('.item').id;
-            render(naimId);
+            if (item.querySelector('.item').id) {
+                event.preventDefault();
+                let naimId = item.querySelector('.item').id;
+                render(naimId);
+            }
 
         });
     });
-};
+}
+
+function addEventP() {
+    let paragrof = main.querySelector('.container>p');
+
+    if (paragrof) {
+        arr.push(paragrof.className);
+
+        // console.log(paragrof.className);
+
+    } else {
+        arr = [];
+    }
+
+    if (arr.length > 1) {
+        paragrof.addEventListener('click', (e) => {
+            e.preventDefault();
+            render(arr[0], true);
+        });
+    }
+
+}
 
 addEventCart();

@@ -68,14 +68,52 @@ const dataDb = {
                 "name": "Шина",
                 "img": "/image/shina.jpg",
                 "items": [
-
+                    {
+                        "name": "Сборная шина",
+                        "img": "/image/sbornaya-shina.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000003/EC001522"
+                    },
+                    {
+                        "name": "Шина гибкая",
+                        "img": "/image/shina-gibkaya.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000003/EC001898"
+                    },
+                    {
+                        "name": "Элемент подвода питания для сборной шины",
+                        "img": "/image/element-podvoda-pitania-dlya-sbornoy-shiny.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000003/EC000122"
+                    },
                 ]
             },
             "shino-provod": {
                 "name": "Шинопровод",
                 "img": "/image/shino-provod.jpg",
                 "items": [
-
+                    {
+                        "name": "Шинопровод (канал сборной шины)",
+                        "img": "/image/shinoprovod.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000004/EC000091"
+                    },
+                    {
+                        "name": "Секция шинопровода поворотная/ угловая/ разветвительная",
+                        "img": "/image/sectcia-shinoprovoda-povorotnaya-uglovaya-razvetvitelnaya.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000004/EC002561"
+                    },
+                    {
+                        "name": "Комплектующие для сборных шин (шинопровода)",
+                        "img": "/image/komplecktuyushie-dlya-sbornich-shin.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000004/EC002270"
+                    },
+                    {
+                        "name": "Монтажный элемент для шинопровода",
+                        "img": "/image/Montazhnyj-jelement-dlja-shinoprovoda.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000004/EC000071"
+                    },
+                    {
+                        "name": "Комплектующие для ответвления шины",
+                        "img": "/image/Komplektujushhie-dlja-otvetvlenija-shiny.png",
+                        "URL": "https://etipro.ru/catalogs/SG000004/EC002269"
+                    },
                 ]
             }
         }
