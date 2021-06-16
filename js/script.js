@@ -35,6 +35,7 @@ const render = (naimId, sbros = false) => {
         dbLoopTitle = dataDb[arr.classP]['items'][naimId]['name'];
 
     } else {
+        arr = [];
         dbLoop = dataDb[naimId]['items'];
         dbLoopTitle = dataDb[naimId]['name'];
     }
@@ -116,7 +117,7 @@ bottomUpArrow.addEventListener('click', function (e) {
     });
 });
 
-// функция запуска слушателя
+// функция запуска слушателя на карточку
 function addEventCart() {
     itemCard = main.querySelectorAll('.item-card');
 
@@ -127,30 +128,32 @@ function addEventCart() {
                 let naimId = item.querySelector('.item').id;
                 render(naimId);
             }
-
         });
     });
 }
 
+// функция запуска слушателя на на наличие p тега хлебных крох
 function addEventP() {
     let paragrof = main.querySelector('.container>p');
 
     if (paragrof) {
         arr.push(paragrof.className);
 
-        // console.log(paragrof.className);
-
     } else {
         arr = [];
     }
 
     if (arr.length > 1) {
+        paragrof.style.cursor = "pointer";
         paragrof.addEventListener('click', (e) => {
             e.preventDefault();
+            // arr.pop();
             render(arr[0], true);
-        });
-    }
 
+        });
+    } else {
+        paragrof.style.cursor = "";
+    }
 }
 
 addEventCart();
