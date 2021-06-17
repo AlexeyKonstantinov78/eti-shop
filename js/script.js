@@ -3,7 +3,8 @@
 let bottomUpArrow = document.querySelector('.bottomUpArrow'),
     main = document.querySelector('.main'),
     itemCard = main.querySelectorAll('.item-card'),
-    arr = [];
+    arr = [],
+    titleHome = document.title;
 
 const bottomToggle = () => {
     bottomUpArrow.classList.toggle('bottomActiv');
@@ -26,6 +27,8 @@ const render = (naimId, sbros = false) => {
         dbLoopTitle = '',
         ahref = '#',
         breadCrumsContent = '';
+
+    console.log(document.title);
 
     if (searchElemP() && sbros != true) {
 
@@ -56,8 +59,10 @@ const render = (naimId, sbros = false) => {
 
     if (breadCrumsContent) {
         breadCrums.textContent = breadCrumsContent + ` > ` + dbLoopTitle;
+        document.title = breadCrumsContent + ` ` + dbLoopTitle + " " + titleHome;
     } else {
         breadCrums.textContent = dbLoopTitle;
+        document.title = dbLoopTitle + " " + titleHome;
     }
 
 
