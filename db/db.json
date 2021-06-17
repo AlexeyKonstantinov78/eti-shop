@@ -1,116 +1,21 @@
-{
-    "kabel-provod-shina-shinoprovod": {
-        "nameitems": "Кабель, провод, шина, шинопровод",
-        "items": [
-            {
-                "name": "Кабель и провод", 
-                "img":"/image/kabel-provod.png",
-                "items": [
-                    {
-                        "name": "Кабель и провод силовой для стационарной установки (до 1 кВ)", 
-                        "img": "/image/kab1.jpg",
-                        "URL": "https://etipro.ru/catalogs/EG000001/EC003248"
-                    },
-                    {
-                        "name": "Кабель и провод силовой для нестационарной установки (до 1 кВ)", 
-                        "img": "/image/kab2.jpg",
-                        "URL": "https://etipro.ru/catalogs/EG000001/EC003250"
-                    },
-                    {
-                        "name": "Кабель/провод силовой для воздушных линий электропередач (ЛЭП)", 
-                        "img": "/image/kab3.jpg",
-                        "URL": "https://etipro.ru/catalogs/EG000001/EC001139"
-                    },
-                    {
-                        "name": "Кабель силовой для стационарной установки (больше 1 кВ)", 
-                        "img": "/image/kab4.jpg",
-                        "URL": "https://etipro.ru/catalogs/EG000001/EC003251"
-                    },
-                    {
-                        "name": "Кабель спиральный", 
-                        "img": "/image/kab5.jpg",
-                        "URL": "https://etipro.ru/catalogs/EG000001/EC000247"
-                    }
-                ]
-            },
-            {
-                "name": "Кабель, провод для слаботочных систем",
-                "img":"/image/kabel-provod-dlya-slabotochnix-system.jpg",
-                "items": [
-
-                ]
-            },  
-            {
-                "name": "Шина",
-                "img":"/image/shina.jpg",
-                "items": [
-
-                ]
-            },
-            {
-                "name": "Шинопровод",
-                "img":"/image/shino-provod.jpg",
-                "items": [
-
-                ]
-            }
-        ]
-    },
-    "kabel-provod-shina-shinoprovod2": {
-        "nameitems": "Кабель, провод, шина, шинопровод",
-        "items": [
-            {
-                "name": "Кабель и провод", 
-                "img":"/image/kabel-provod.png",
-                "items": [
-                    {
-                        "name": "Кабель и провод силовой для стационарной установки (до 1 кВ)", 
-                        "img": "/image/kab1.jpg",
-                        "URL": "https://etipro.ru/catalogs/EG000001/EC003248"
-                    },
-                    {
-                        "name": "Кабель и провод силовой для нестационарной установки (до 1 кВ)", 
-                        "img": "/image/kab2.jpg",
-                        "URL": "https://etipro.ru/catalogs/EG000001/EC003250"
-                    },
-                    {
-                        "name": "Кабель/провод силовой для воздушных линий электропередач (ЛЭП)", 
-                        "img": "/image/kab3.jpg",
-                        "URL": "https://etipro.ru/catalogs/EG000001/EC001139"
-                    },
-                    {
-                        "name": "Кабель силовой для стационарной установки (больше 1 кВ)", 
-                        "img": "/image/kab4.jpg",
-                        "URL": "https://etipro.ru/catalogs/EG000001/EC003251"
-                    },
-                    {
-                        "name": "Кабель спиральный", 
-                        "img": "/image/kab5.jpg",
-                        "URL": "https://etipro.ru/catalogs/EG000001/EC000247"
-                    }
-                ]
-            },
-            {
-                "name": "Кабель, провод для слаботочных систем",
-                "img":"/image/kabel-provod-dlya-slabotochnix-system.jpg",
-                "items": [
-
-                ]
-            },  
-            {
-                "name": "Шина",
-                "img":"/image/shina.jpg",
-                "items": [
-
-                ]
-            },
-            {
-                "name": "Шинопровод",
-                "img":"/image/shino-provod.jpg",
-                "items": [
-
-                ]
-            }
-        ]
-    }
-}
+[{
+    "name": "Кабель-канал перфорированный",
+    "nameTranslit": "kabel-kanal-perforirovannyy",
+    "img": "https://vendor-catalog.smart-shop.pro/storage/EG000007/EC000012/photos/86b054c3af2ce64835b91a7640413764.jpg",
+    "URL": "https://etipro.ru/catalogs/EG000007/EC000012"
+}, {
+    "name": "Крышка перфорированного кабель-канала",
+    "nameTranslit": "kryshka-perforirovannogo-kabel-kanala",
+    "img": "https://vendor-catalog.smart-shop.pro/storage/EG000007/EC000727/photos/8793b275ad7d9f32d1c1fb0435a12d2e.png",
+    "URL": "https://etipro.ru/catalogs/EG000007/EC000727"
+}, {
+    "name": "Зажим/ держатель/ фиксатор кабеля для перфорированного кабель-канала",
+    "nameTranslit": "zazhim-derzhatel-fiksator-kabelya-dlya-perforirovannogo-kabel-kanala",
+    "img": "https://vendor-catalog.smart-shop.pro/storage/EG000007/EC001018/photos/c5bf141c95f17a9ead203f0b27adc48a.jpg",
+    "URL": "https://etipro.ru/catalogs/EG000007/EC001018"
+}, {
+    "name": "Торцевая пластина/ заглушка для перфорированного кабель-канала",
+    "nameTranslit": "torcevaya-plastina-zaglushka-dlya-perforirovannogo-kabel-kanala",
+    "img": "https://vendor-catalog.smart-shop.pro/storage/EG000007/EC000726/photos/f06b94340295201143f01d055a10ea69.jpg",
+    "URL": "https://etipro.ru/catalogs/EG000007/EC000726"
+}]

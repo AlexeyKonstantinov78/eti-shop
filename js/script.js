@@ -7,8 +7,6 @@ let bottomUpArrow = document.querySelector('.bottomUpArrow'),
     titleHome = document.title,
     the_description = document.querySelector('meta[name="description"]');
 
-console.log(the_description.getAttribute("content"));
-
 const bottomToggle = () => {
     bottomUpArrow.classList.toggle('bottomActiv');
 };
