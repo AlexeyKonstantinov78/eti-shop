@@ -4,7 +4,10 @@ let bottomUpArrow = document.querySelector('.bottomUpArrow'),
     main = document.querySelector('.main'),
     itemCard = main.querySelectorAll('.item-card'),
     arr = [],
-    titleHome = document.title;
+    titleHome = document.title,
+    the_description = document.querySelector('meta[name="description"]');
+
+console.log(the_description.getAttribute("content"));
 
 const bottomToggle = () => {
     bottomUpArrow.classList.toggle('bottomActiv');
@@ -26,9 +29,8 @@ const render = (naimId, sbros = false) => {
     let dbLoop = '',
         dbLoopTitle = '',
         ahref = '#',
-        breadCrumsContent = '';
-
-    console.log(document.title);
+        breadCrumsContent = '',
+        descriptionName = '';
 
     if (searchElemP() && sbros != true) {
 
@@ -59,10 +61,10 @@ const render = (naimId, sbros = false) => {
 
     if (breadCrumsContent) {
         breadCrums.textContent = breadCrumsContent + ` > ` + dbLoopTitle;
-        document.title = breadCrumsContent + ` ` + dbLoopTitle + " " + titleHome;
+        document.title = breadCrumsContent + ` ` + dbLoopTitle + " " + titleHome;  // устонавлитваем новый title 
     } else {
         breadCrums.textContent = dbLoopTitle;
-        document.title = dbLoopTitle + " " + titleHome;
+        document.title = dbLoopTitle + " " + titleHome; // устонавлитваем новый title 
     }
 
 
@@ -90,7 +92,11 @@ const render = (naimId, sbros = false) => {
                 </div>            
             </div>
             `;
+
+        descriptionName += dbLoop[key].name + " "; // сбор дескриптора 
     }
+
+    the_description.setAttribute("content", descriptionName); // установка на страницу discriptora 
 
     conteainer.append(breadCrums);
     conteainer.append(row);
