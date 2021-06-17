@@ -80,6 +80,21 @@ hr {
   text-align: center;
 }
 
+.breadcrumbs-home {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+  -webkit-transition: 0.5s ease text-shadow;
+  transition: 0.5s ease text-shadow;
+}
+
+.breadcrumbs-home:hover {
+  text-shadow: 1px 1px;
+}
+
+.breadcrumbs-home a {
+  text-decoration: none;
+}
+
 .main .container {
   max-width: 100%;
 }

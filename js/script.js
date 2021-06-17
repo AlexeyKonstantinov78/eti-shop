@@ -10,7 +10,7 @@ const bottomToggle = () => {
 };
 
 const searchElemP = () => {
-    let p = main.querySelector('.container>p');
+    let p = main.querySelector('.container>h2');
 
     if (p) {
         let classP = p.className,
@@ -43,10 +43,15 @@ const render = (naimId, sbros = false) => {
     main.textContent = '';
     main = document.querySelector('.main');
 
+    let breadCrumsHome = document.createElement('div');
+    breadCrumsHome.innerHTML = `
+            <div class="breadcrumbs-home container"><a href="/index.html">Все товары</a></div>
+            `;
+
     let conteainer = document.createElement('div');
     conteainer.classList.add('container');
 
-    let breadCrums = document.createElement('p');
+    let breadCrums = document.createElement('h2');
     breadCrums.classList.add(naimId);
 
     if (breadCrumsContent) {
@@ -84,6 +89,7 @@ const render = (naimId, sbros = false) => {
 
     conteainer.append(breadCrums);
     conteainer.append(row);
+    main.append(breadCrumsHome);
     main.append(conteainer);
     if (ahref === '#') addEventCart();
     addEventP();
@@ -134,7 +140,7 @@ function addEventCart() {
 
 // функция запуска слушателя на на наличие p тега хлебных крох
 function addEventP() {
-    let paragrof = main.querySelector('.container>p');
+    let paragrof = main.querySelector('.container>h2');
 
     if (paragrof) {
         arr.push(paragrof.className);
