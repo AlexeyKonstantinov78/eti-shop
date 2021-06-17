@@ -491,11 +491,55 @@ const dataDb = {
                 "img": "/image/Kabelnye-vvody.jpg",
                 "items": [
                     {
-                        "name": "",
-                        "img": "/image/",
-                        "URL": ""
+                        "name": "Резьбовой уплотнительный кабельный ввод (сальник/гермоввод)",
+                        "img": "/image/Rezbovoj-uplotnitelnyj-kabelnyj-vvod-salnik-germovvod.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000009/EC000441"
                     },
-
+                    {
+                        "name": "Контргайка для уплотнительного кабельного ввода (гермоввода)",
+                        "img": "/image/Kontrgajka-dlja-uplotnitelnogo-kabelnogo-vvoda-germovvoda.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000009/EC000940"
+                    },
+                    {
+                        "name": "Кабельный ввод с эластичным уплотнением / сальник ступенчатый мембранный",
+                        "img": "/image/Kabelnyj-vvod-s-jelastichnym-uplotneniem-salnik-stupenchatyj-membrannyj.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000009/EC000451"
+                    },
+                    {
+                        "name": "Переходник резьбовой (с большего на меньший размер)",
+                        "img": "/image/Perehodnik-rezbovoj-s-bolshego-na-menshij-razmer.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000009/EC000938"
+                    },
+                    {
+                        "name": "Уплотнительное кольцо",
+                        "img": "/image/Uplotnitelnoe-kolco.gif",
+                        "URL": "https://etipro.ru/catalogs/EG000009/EC001181"
+                    },
+                    {
+                        "name": "Проходная кабельная втулка",
+                        "img": "/image/Prohodnaja-kabelnaja-vtulka.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000009/EC000879"
+                    },
+                    {
+                        "name": "Заглушка для резьбового кабельного ввода",
+                        "img": "/image/Zaglushka-dlja-rezbovogo-kabelnogo-vvoda.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000009/EC000032"
+                    },
+                    {
+                        "name": "Уплотнительное кольцо (прокладка) с разрезом для кабельного ввода",
+                        "img": "/image/Uplotnitelnoe-kolco-prokladka-s-razrezom-dlja-kabelnogo-vvoda.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000009/EC002318"
+                    },
+                    {
+                        "name": "Заглушка/уплотнительный диск для резьбового ввода кабеля",
+                        "img": "/image/Zaglushka-uplotnitelnyj-disk-dlja-rezbovogo-vvoda-kabelja.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000009/EC002316"
+                    },
+                    {
+                        "name": "Шайба заземления для резьбового сальника",
+                        "img": "/image/Shajba-zazemlenija-dlja-rezbovogo-salnika.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000009/EC002317"
+                    },
                 ]
             },
             "Truby-dlja-prokladki-kabelja": {
@@ -503,11 +547,95 @@ const dataDb = {
                 "img": "/image/Truby-dlja-prokladki-kabelja.jpg",
                 "items": [
                     {
-                        "name": "",
-                        "img": "/image/",
-                        "URL": ""
+                        "name": "Труба пластиковая установочная",
+                        "img": "/image/Truba-plastikovaja-ustanovochnaja.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000002/EC001174"
                     },
-
+                    {
+                        "name": "Труба металлическая установочная",
+                        "img": "/image/Truba-metallicheskaja-ustanovochnaja.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000002/EC001173"
+                    },
+                    {
+                        "name": "Труба защитная кабельная для подземной прокладки",
+                        "img": "/image/Truba-zashhitnaja-kabelnaja-dlja-podzemnoj-prokladki.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000002/EC000253"
+                    },
+                    {
+                        "name": "Колено/отвод/поворот для установочной трубы",
+                        "img": "/image/Koleno-otvod-povorot-dlja-ustanovochnoj-truby.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000002/EC000936"
+                    },
+                    {
+                        "name": "Соединительная муфта для установочной трубы",
+                        "img": "/image/Soedinitelnaja-mufta-dlja-ustanovochnoj-truby.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000002/EC000939"
+                    },
+                    {
+                        "name": "Соединительная муфта для защитной кабельной трубы",
+                        "img": "/image/Soedinitelnaja-mufta-dlja-zashhitnoj-kabelnoj-truby.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000002/EC001492"
+                    },
+                    {
+                        "name": "Тройник для защитной кабельной трубы",
+                        "img": "/image/Trojnik-dlja-zashhitnoj-kabelnoj-truby.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000002/EC002266"
+                    },
+                    {
+                        "name": "Защитный кожух для кабеля/трубы",
+                        "img": "/image/Zashhitnyj-kozhuh-dlja-kabelja-truby.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000002/EC000250"
+                    },
+                    {
+                        "name": "Заглушка для установочной трубы",
+                        "img": "/image/Zaglushka-dlja-ustanovochnoj-truby.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000002/EC001491"
+                    },
+                    {
+                        "name": "Соединительный патрубок-муфта для установочных труб",
+                        "img": "/image/Soedinitelnyj-patrubok-mufta-dlja-ustanovochnyh-trub.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000002/EC002263"
+                    },
+                    {
+                        "name": "Муфта концевая для установочной трубы",
+                        "img": "/image/Mufta-koncevaja-dlja-ustanovochnoj-truby.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000002/EC000937"
+                    },
+                    {
+                        "name": "Муфта монтажная для защитной кабельной трубы",
+                        "img": "/image/Mufta-montazhnaja-dlja-zashhitnoj-kabelnoj-truby.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000002/EC002261"
+                    },
+                    {
+                        "name": "Монтажная пластина для защитной кабельной трубы",
+                        "img": "/image/Montazhnaja-plastina-dlja-zashhitnoj-kabelnoj-truby.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000002/EC002262"
+                    },
+                    {
+                        "name": "Переходник (с уменьшением размера) для установочной трубы",
+                        "img": "/image/Perehodnik-s-umensheniem-razmera-dlja-ustanovochnoj-truby.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000002/EC002264"
+                    },
+                    {
+                        "name": "Колено/отвод/поворот для защитной кабельной трубы",
+                        "img": "/image/Koleno-otvod-povorot-dlja-zashhitnoj-kabelnoj-truby.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000002/EC001493"
+                    },
+                    {
+                        "name": "Вывод кабеля для защитной кабельной трубы",
+                        "img": "/image/Vyvod-kabelja-dlja-zashhitnoj-kabelnoj-truby.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000002/EC002259"
+                    },
+                    {
+                        "name": "Держатель расстояния для защитной кабельной трубы",
+                        "img": "/image/Derzhatel-rasstojanija-dlja-zashhitnoj-kabelnoj-truby.png",
+                        "URL": "https://etipro.ru/catalogs/EG000002/EC001494"
+                    },
+                    {
+                        "name": "Защитный наконечник для защитной кабельной трубы",
+                        "img": "/image/Zashhitnyj-nakonechnik-dlja-zashhitnoj-kabelnoj-truby.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000002/EC002265"
+                    },
                 ]
             },
             "Jenergeticheskie-stojki-kolonny": {
@@ -515,11 +643,35 @@ const dataDb = {
                 "img": "/image/Jenergeticheskie-stojki-kolonny.jpg",
                 "items": [
                     {
-                        "name": "",
-                        "img": "/image/",
-                        "URL": ""
+                        "name": "Стойка сервисная/ колонна монтажная",
+                        "img": "/image/Stojka-servisnaja-kolonna-montazhnaja.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000008/EC001941"
                     },
-
+                    {
+                        "name": "Модуль расширения для энергетической стойки",
+                        "img": "/image/Modul-rasshirenija-dlja-jenergeticheskoj-stojki.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000008/EC000795"
+                    },
+                    {
+                        "name": "Крышка/накладка для энергетической стойки",
+                        "img": "/image/Kryshka-nakladka-dlja-jenergeticheskoj-stojki.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000008/EC000461"
+                    },
+                    {
+                        "name": "Основание энергетической стойки",
+                        "img": "/image/Osnovanie-jenergeticheskoj-stojki.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000008/EC002454"
+                    },
+                    {
+                        "name": "Аксессуары для установки колонки/столба",
+                        "img": "/image/Aksessuary-dlja-ustanovki-kolonki-stolba.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000008/EC002980"
+                    },
+                    {
+                        "name": "Потолочное соединение/крепление энергетической стойки",
+                        "img": "/image/Potolochnoe-soedinenie-kreplenie-jenergeticheskoj-stojki.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000008/EC002452"
+                    }
                 ]
             },
             "Sistemy-prokladki-kabelja-pod-polom": {
@@ -527,11 +679,135 @@ const dataDb = {
                 "img": "/image/Sistemy-prokladki-kabelja-pod-polom.jpg",
                 "items": [
                     {
-                        "name": "",
-                        "img": "/image/",
-                        "URL": ""
+                        "name": "Монтажная коробка/люк для установки в пол",
+                        "img": "/image/Montazhnaja-korobka-ljuk-dlja-ustanovki-v-pol.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC000024"
                     },
-
+                    {
+                        "name": "Монтажная коробка для прокладки кабеля под полом",
+                        "img": "/image/Montazhnaja-korobka-dlja-prokladki-kabelja-pod-polom.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC000119"
+                    },
+                    {
+                        "name": "Накладка для монтажных блоков",
+                        "img": "/image/Nakladka-dlja-montazhnyh-blokov.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC000006"
+                    },
+                    {
+                        "name": "Сервисная коробка для установки под полом",
+                        "img": "/image/Servisnaja-korobka-dlja-ustanovki-pod-polom.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC000893"
+                    },
+                    {
+                        "name": "Кабель-канал подпольный для установки под стяжку",
+                        "img": "/image/Kabel-kanal-podpolnyj-dlja-ustanovki-pod-stjazhku.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC000118"
+                    },
+                    {
+                        "name": "Аксессуары для напольного кабель-канала",
+                        "img": "/image/Aksessuary-dlja-napolnogo-kabel-kanala.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC002469"
+                    },
+                    {
+                        "name": "Соединитель для подпольного кабель-канала",
+                        "img": "/image/Soedinitel-dlja-podpolnogo-kabel-kanal.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC000750"
+                    },
+                    {
+                        "name": "Монтажная крышка кабельного колодца, устанавливаемого в пол",
+                        "img": "/image/Montazhnaja-kryshka-kabelnogo-kolodca-ustanavlivaemogo-v-pol.png",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC001906"
+                    },
+                    {
+                        "name": "Аксессуары для систем подпольных кабель-каналов",
+                        "img": "/image/Aksessuary-dlja-sistem-podpolnyh-kabel-kanalov.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC002420"
+                    },
+                    {
+                        "name": "Трубчатый вывод кабеля",
+                        "img": "/image/Trubchatyj-vyvod-kabelja.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC001914"
+                    },
+                    {
+                        "name": "Вертикальный отвод для систем подпольных кабель-каналов",
+                        "img": "/image/Vertikalnyj-otvod-dlja-sistem-podpolnyh-kabel-kanalov.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC000749"
+                    },
+                    {
+                        "name": "Вставка распределительной коробки для установки в пол",
+                        "img": "/image/Vstavka-raspredelitelnoj-korobki-dlja-ustanovki-v-pol.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC001903"
+                    },
+                    {
+                        "name": "Комплектующие для напольного бокса",
+                        "img": "/image/Komplektujushhie-dlja-napolnogo-boksa.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC002419"
+                    },
+                    {
+                        "name": "Концевая заглушка для подпольного кабель-канала",
+                        "img": "/image/Koncevaja-zaglushka-dlja-podpolnogo-kabel-kanala.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC001014"
+                    },
+                    {
+                        "name": "Основание для монтажа напольного кабель-канала",
+                        "img": "/image/Osnovanie-dlja-montazha-napolnogo-kabel-kanala.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC000120"
+                    },
+                    {
+                        "name": "Компенсатор натяжения монтажной коробки",
+                        "img": "/image/Kompensator-natjazhenija-montazhnoj-korobki.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC001922"
+                    },
+                    {
+                        "name": "Кассетная рама с кассетой",
+                        "img": "/image/Kassetnaja-rama-s-kassetoj.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC001908"
+                    },
+                    {
+                        "name": "Распределительная коробка для монтажа под полом",
+                        "img": "/image/Raspredelitelnaja-korobka-dlja-montazha-pod-polom.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC000114"
+                    },
+                    {
+                        "name": "Корпус напольного бокса",
+                        "img": "/image/Korpus-napolnogo-boksa.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC000121"
+                    },
+                    {
+                        "name": "Разделительная пластина для монтажа кабель-канала (установка вровень с полом)",
+                        "img": "/image/Razdelitelnaja-plastina-dlja-montazha-kabel-kanala-ustanovka-vroven-s-polom.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC001013"
+                    },
+                    {
+                        "name": "Коробка в пол для вывода кабеля",
+                        "img": "/image/Korobka-v-pol-dlja-vyvoda-kabelja.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC001915"
+                    },
+                    {
+                        "name": "Распределительная система для фальшпола",
+                        "img": "/image/Raspredelitelnaja-sistema-dlja-falshpola.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC001916"
+                    },
+                    {
+                        "name": "Разветвит. блок для подпольного открытого кабель-канала (вровень с полом)",
+                        "img": "/image/Razvetvit-blok-dlja-podpolnogo-otkrytogo-kabel-kanala-vroven-s-polom.png",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC001926"
+                    },
+                    {
+                        "name": "Регулируемый по высоте люк (кольцо/рама) для установки в подпольном канале",
+                        "img": "/image/Reguliruemyj-po-vysote-ljuk-kolco-rama-dlja-ustanovki-v-podpolnom-kanale.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC002421"
+                    },
+                    {
+                        "name": "Регулируемая по высоте кассетная рамка для монтажа кабель-канала под/внутри пола",
+                        "img": "/image/Reguliruemaja-po-vysote-kassetnaja-ramka-dlja-montazha-kabel-kanala-pod-vnutri-pola.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC002603"
+                    },
+                    {
+                        "name": "Распределительная коробка для монтажа системы напольных кабель-каналов",
+                        "img": "/image/Raspredelitelnaja-korobka-dlja-montazha-sistemy-napolnyh-kabel-kanalov.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000005/EC002739"
+                    },
                 ]
             },
         }
