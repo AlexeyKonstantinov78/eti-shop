@@ -4480,7 +4480,112 @@ const dataDb = {
                 "nameTranslit": "rele",
                 "img": "/image/rele.jpg",
                 "items": [
-
+                    {
+                        "name": "Промежуточное реле",
+                        "nameTranslit": "promezhutochnoe-rele",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000019/EC001437/photos/1c1e76200a9471cea5b59a09064c0b9b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000019/EC001437"
+                    }, {
+                        "name": "Реле контроля напряжения",
+                        "nameTranslit": "rele-kontrolya-napryazheniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000019/EC001438/photos/d3e4932957ae7e41c09f2e62909a5bf0.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000019/EC001438"
+                    }, {
+                        "name": "Реле Времени",
+                        "nameTranslit": "rele-vremeni",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000019/EC001439/photos/deb15ebd397ba560e0c7d6c48d76fc0e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000019/EC001439"
+                    }, {
+                        "name": "Реле контроля тока",
+                        "nameTranslit": "rele-kontrolya-toka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000019/EC001440/photos/35ec2cf13d8a475746191b54ecbfd024.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000019/EC001440"
+                    }, {
+                        "name": "Реле контроля фаз",
+                        "nameTranslit": "rele-kontrolya-faz",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000019/EC001441/photos/8828e2d1416dbcd4ea69b0f8217e1eff.png",
+                        "URL": "https://etipro.ru/catalogs/EG000019/EC001441"
+                    }, {
+                        "name": "Реле контроля частоты",
+                        "nameTranslit": "rele-kontrolya-chastoty",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000019/EC001442/photos/2a3e1f01fe375453ef1bc2b215401daf.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000019/EC001442"
+                    }, {
+                        "name": "Реле контроля мощности (cos ф)",
+                        "nameTranslit": "rele-kontrolya-moschnosti-cos-f",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000019/EC001443/photos/65981754e9b4b719f432e0010002e88e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000019/EC001443"
+                    }, {
+                        "name": "Реле контроля сопротивления изоляции и замыкания на землю",
+                        "nameTranslit": "rele-kontrolya-soprotivleniya-izolyacii-i-zamykaniya-na-zemlyu",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000019/EC001444/photos/ca0304845317ae2ef891be9a3dd14ad6.png",
+                        "URL": "https://etipro.ru/catalogs/EG000019/EC001444"
+                    }, {
+                        "name": "Реле контроля температуры",
+                        "nameTranslit": "rele-kontrolya-temperatury",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000019/EC001446/photos/7d44e17d8cc9bb3b8e453d6f2dc01cd5.png",
+                        "URL": "https://etipro.ru/catalogs/EG000019/EC001446"
+                    }, {
+                        "name": "Реле контроля уровня (наполнения)",
+                        "nameTranslit": "rele-kontrolya-urovnya-napolneniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000019/EC001447/photos/0b4ee8e131da6e77cc442c11de2fa8b6.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000019/EC001447"
+                    }, {
+                        "name": "Реле контроля скорости",
+                        "nameTranslit": "rele-kontrolya-skorosti",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000019/EC001448/photos/8557eb71fddb78649d287315f4b61aa1.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000019/EC001448"
+                    }, {
+                        "name": "Реле безопасности (устройство для контроля безопасности цепей)",
+                        "nameTranslit": "rele-bezopasnosti-ustroystvo-dlya-kontrolya-bezopasnosti-cepey",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000019/EC001449/photos/b0242a471b6c467e19fbd63a414e37e4.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000019/EC001449"
+                    }, {
+                        "name": "Реле контроля устройств с двуручным управлением",
+                        "nameTranslit": "rele-kontrolya-ustroystv-s-dvuruchnym-upravleniem",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000019/EC001452/photos/e36dc7204d66439265f3d34ef508c843.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG000019/EC001452"
+                    }, {
+                        "name": "Релейный разъем (розетка/цоколь для реле)",
+                        "nameTranslit": "releynyy-razem-rozetka-cokol-dlya-rele",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000019/EC001456/photos/bb4326e37a835883686d84a3b98e96aa.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000019/EC001456"
+                    }, {
+                        "name": "Оптическое соединение",
+                        "nameTranslit": "opticheskoe-soedinenie",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000019/EC001504/photos/fb0e00737e2d3e6d234b5cd85693aeba.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000019/EC001504"
+                    }, {
+                        "name": "Твердотельное реле",
+                        "nameTranslit": "tverdotelnoe-rele",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000019/EC002055/photos/d18ed4ec0f3227e2f06b2786124e81e3.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000019/EC002055"
+                    }, {
+                        "name": "Охлаждающий элемент для твердотельного реле",
+                        "nameTranslit": "ohlazhdayuschiy-element-dlya-tverdotelnogo-rele",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000019/EC002056/photos/c53d43e2521134ef8b779e26b9c64150.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000019/EC002056"
+                    }, {
+                        "name": "Реле контроля питания",
+                        "nameTranslit": "rele-kontrolya-pitaniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000019/EC002057/photos/16515abd9844b1bc334f535cfd178dc5.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000019/EC002057"
+                    }, {
+                        "name": "Временной блок",
+                        "nameTranslit": "vremennoy-blok",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000019/EC002060/photos/7265b74b5ba6d71a86431b58c8da40b5.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000019/EC002060"
+                    }, {
+                        "name": "Реле контроля жидкости/газа",
+                        "nameTranslit": "rele-kontrolya-zhidkosti-gaza",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000019/EC002580/photos/b739df9efc42fedfab57d09392817895.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG000019/EC002580"
+                    }, {
+                        "name": "Аксессуары для промежуточных реле",
+                        "nameTranslit": "aksessuary-dlya-promezhutochnyh-rele",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000019/EC002586/photos/99a6427bf2936334136a5efbab4eee43.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000019/EC002586"
+                    }
                 ],
             },
             "programmiruemye-logicheskie-kontrollery-plk": {
@@ -4488,7 +4593,152 @@ const dataDb = {
                 "nameTranslit": "programmiruemye-logicheskie-kontrollery-plk",
                 "img": "/image/programmiruemye-logicheskie-kontrollery-plk.jpg",
                 "items": [
-
+                    {
+                        "name": "Карта памяти ПЛК",
+                        "nameTranslit": "karta-pamyati-plk",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC000192/photos/1ec9ff3e511fbd3df2ce932bf4bbfbed.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC000192"
+                    }, {
+                        "name": "Модуль центрального процессора ПЛК",
+                        "nameTranslit": "modul-centralnogo-processora-plk",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC000236/photos/884fc2ad22d35715e271da06b0746a79.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC000236"
+                    }, {
+                        "name": "Соединительный кабель ПЛК",
+                        "nameTranslit": "soedinitelnyy-kabel-plk",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC000237/photos/b6be45011431dca8b004d8333c1f88d6.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC000237"
+                    }, {
+                        "name": "Блок электропитания ПЛК",
+                        "nameTranslit": "blok-elektropitaniya-plk",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC000599/photos/cc22a20ac1fa29469e24a05071f43f6c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC000599"
+                    }, {
+                        "name": "Программное и техническое обеспечение",
+                        "nameTranslit": "programmnoe-i-tehnicheskoe-obespechenie",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC000809/photos/8bbc2a49a8601f655d809e099d9c85f1.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC000809"
+                    }, {
+                        "name": "Монтажная стойка ПЛК",
+                        "nameTranslit": "montazhnaya-stoyka-plk",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC000810/photos/b224228b26068beb5d570a3841c6abe3.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC000810"
+                    }, {
+                        "name": "Графическая панель",
+                        "nameTranslit": "graficheskaya-panel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC001412/photos/624d152918ab60e5177c1907ff7a9fb8.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC001412"
+                    }, {
+                        "name": "Программные средства визуализации",
+                        "nameTranslit": "programmnye-sredstva-vizualizacii",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC001416/photos/a900145aa0778f3f6dec396ab84f3d8f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC001416"
+                    }, {
+                        "name": "Логический модуль",
+                        "nameTranslit": "logicheskiy-modul",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC001417/photos/22c91764848dbe66577898b0604b2557.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC001417"
+                    }, {
+                        "name": "Устройство программирования ПЛК",
+                        "nameTranslit": "ustroystvo-programmirovaniya-plk",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC001418/photos/15ecd07cc0af810c07a1568904984f50.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC001418"
+                    }, {
+                        "name": "Цифров. модуль ввода/вывода ПЛК",
+                        "nameTranslit": "cifrov-modul-vvoda-vyvoda-plk",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC001419/photos/e5ff06bbc3fd1efd17f2ae8e854a030d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC001419"
+                    }, {
+                        "name": "Аналог. модуль ввода/вывода ПЛК",
+                        "nameTranslit": "analog-modul-vvoda-vyvoda-plk",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC001420/photos/4e8702bcaa1ccbde9f03b46783893911.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC001420"
+                    }, {
+                        "name": "Функционально-технологический модуль ПЛК",
+                        "nameTranslit": "funkcionalno-tehnologicheskiy-modul-plk",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC001422/photos/b382121c01c1e08ae14456832971365f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC001422"
+                    }, {
+                        "name": "Блок передачи данных ПЛК",
+                        "nameTranslit": "blok-peredachi-dannyh-plk",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC001423/photos/86d442f965a148efcfa6c7e11301325d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC001423"
+                    }, {
+                        "name": "Текстовая панель",
+                        "nameTranslit": "tekstovaya-panel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC001426/photos/4d2310ed18b95d182ffc6c4c6ff89313.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC001426"
+                    }, {
+                        "name": "Монитор скрытого монтажа (встраиваемый)",
+                        "nameTranslit": "monitor-skrytogo-montazha-vstraivaemyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC001428/photos/6063917f10370681d7a33fe858474f01.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC001428"
+                    }, {
+                        "name": "Программное обеспечение для автоматизации, прочее",
+                        "nameTranslit": "programmnoe-obespechenie-dlya-avtomatizacii-prochee",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC001435/photos/3271661df98669a60687a1af4afda545.png",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC001435"
+                    }, {
+                        "name": "Полевая шина, децентрализованная периферия - аналог. модуль ввода/вывода",
+                        "nameTranslit": "polevaya-shina-decentralizovannaya-periferiya-analog-modul-vvoda-vyvoda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC001596/photos/39ea9add6b28663a06e6700821c21137.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC001596"
+                    }, {
+                        "name": "Полевая шина, децентрализованн. периферия - аналог./цифров. блок ввода/вывода",
+                        "nameTranslit": "polevaya-shina-decentralizovann-periferiya-analog-cifrov-blok-vvoda-vyvoda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC001597/photos/57ccd5fc07436b3a7dd5876a8c1c92e0.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC001597"
+                    }, {
+                        "name": "Полевая шина, децентрализованная периферия - монтажный каркас",
+                        "nameTranslit": "polevaya-shina-decentralizovannaya-periferiya-montazhnyy-karkas",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC001598/photos/af922f80ad79933d540af44519128ed4.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC001598"
+                    }, {
+                        "name": "Полевая шина, децентрализованная периферия - цифров. модуль ввода/вывода",
+                        "nameTranslit": "polevaya-shina-decentralizovannaya-periferiya-cifrov-modul-vvoda-vyvoda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC001604/photos/baec3804014c5c7b00a807a3a97a1456.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC001599"
+                    }, {
+                        "name": "Полевая шина, децентрализов. периферия - функционал.-технологический модуль",
+                        "nameTranslit": "polevaya-shina-decentralizov-periferiya-funkcional-tehnologicheskiy-modul",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC001601/photos/4bf613320277cdb618f12d1d084ddb25.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC001601"
+                    }, {
+                        "name": "Полевая шина, децентрализованная периферия - основное применение",
+                        "nameTranslit": "polevaya-shina-decentralizovannaya-periferiya-osnovnoe-primenenie",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC001603/photos/f4bfcf5f98b5ccdbd3bbed317ed3bab0.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC001603"
+                    }, {
+                        "name": "Полевая шина, децентрализованная периферия - коммуникационный модуль",
+                        "nameTranslit": "polevaya-shina-decentralizovannaya-periferiya-kommunikacionnyy-modul",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC001604/photos/0e44ab736fd1f5e474bb67ec77f9a6a0.png",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC001604"
+                    }, {
+                        "name": "Настраиваемые компоненты управления",
+                        "nameTranslit": "nastraivaemye-komponenty-upravleniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC002538/photos/7c3b832cd9641cd68ce7dfaca566fbdf.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC002538"
+                    }, {
+                        "name": "Полевая шина, децентрализованная периферия - модуль энергоснабжения",
+                        "nameTranslit": "polevaya-shina-decentralizovannaya-periferiya-modul-energosnabzheniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC002583/photos/51214b5e06c6aa82b173d6ce5f480945.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC002583"
+                    }, {
+                        "name": "Аксессуары для систем управления",
+                        "nameTranslit": "aksessuary-dlya-sistem-upravleniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000052/EC000163/photos/6b6c40424071deab06b1caccd1cc2ba8.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC002584"
+                    }, {
+                        "name": "Слот ПЛК (управление на базе ПК)",
+                        "nameTranslit": "slot-plk-upravlenie-na-baze-pk",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC002631/photos/60cc620d23602ec6efc7403dbdd07604.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC002631"
+                    }, {
+                        "name": "Модуль интерфейса",
+                        "nameTranslit": "modul-interfeysa",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC002780/photos/682b227d1a86b8dcb8ea7fc774aa5b10.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000024/EC002780"
+                    }
                 ],
             },
             "datchiki-sensory": {
@@ -4496,7 +4746,142 @@ const dataDb = {
                 "nameTranslit": "datchiki-sensory",
                 "img": "/image/datchiki-sensory.jpg",
                 "items": [
-
+                    {
+                        "name": "Концевой выключатель/переключатель",
+                        "nameTranslit": "koncevoy-vyklyuchatel-pereklyuchatel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC000030/photos/3759ef13bbc23435b05ee645503f3a49.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC000030"
+                    }, {
+                        "name": "Головка привода для позиционных/шарнирных переключателей",
+                        "nameTranslit": "golovka-privoda-dlya-pozicionnyh-sharnirnyh-pereklyuchateley",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC001483/photos/0cd413c0cfac7dba3203d102c4393c4e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC001483"
+                    }, {
+                        "name": "Датчик поворота",
+                        "nameTranslit": "datchik-povorota",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC001486/photos/98ffd760b4bae1204d4e7708952c52ae.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC001486"
+                    }, {
+                        "name": "Привод для позиционного переключателя с отдельным исполнительным механизмом",
+                        "nameTranslit": "privod-dlya-pozicionnogo-pereklyuchatelya-s-otdelnym-ispolnitelnym-mehanizmom",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC001487/photos/e75166254bdfc6b88699cfcd753727a3.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC001487"
+                    }, {
+                        "name": "Датчик контраста",
+                        "nameTranslit": "datchik-kontrasta",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC001820/photos/670ed412e60b098dc55941492ccabf74.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC001820"
+                    }, {
+                        "name": "Оптический сканер, мощный",
+                        "nameTranslit": "opticheskiy-skaner-moschnyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC001821/photos/f4aa124e862a5ba29f555a92c63a2082.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC001821"
+                    }, {
+                        "name": "Многолучевая световая завеса",
+                        "nameTranslit": "mnogoluchevaya-svetovaya-zavesa",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC001832/photos/f18812429814445a363acbbeb50815b6.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC001832"
+                    }, {
+                        "name": "Ультразвуковой датчик приближения",
+                        "nameTranslit": "ultrazvukovoy-datchik-priblizheniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC001849/photos/a13e65951fa8097596f1480e31958adb.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC001849"
+                    }, {
+                        "name": "Коммутационный шнур сенсор-привод",
+                        "nameTranslit": "kommutacionnyy-shnur-sensor-privod",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC001855/photos/13d41b616beda5aa80504181e43045a1.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC001855"
+                    }, {
+                        "name": "Отражатель для световой завесы",
+                        "nameTranslit": "otrazhatel-dlya-svetovoy-zavesy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC002467/photos/6b327489c06d961f3b9b81f7a8a4086e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC002467"
+                    }, {
+                        "name": "Преобразователь текущего значения",
+                        "nameTranslit": "preobrazovatel-tekuschego-znacheniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC002475/photos/105e62db1881fb75ae33a219ffae71b5.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC002475"
+                    }, {
+                        "name": "Лазерный сканер",
+                        "nameTranslit": "lazernyy-skaner",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC002550/photos/72d9a319f7b8767722a76abd8cd3a8c4.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC002550"
+                    }, {
+                        "name": "Пассивный разветвитель \"датчик - исполнительное устройство (привод)\"",
+                        "nameTranslit": "passivnyy-razvetvitel-datchik-ispolnitelnoe-ustroystvo-privod",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC002585/photos/d1e6375c0105b7f6d52c9d724dbe5665.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC002585"
+                    }, {
+                        "name": "Позиционный выключатель с отдельным приводом",
+                        "nameTranslit": "pozicionnyy-vyklyuchatel-s-otdelnym-privodom",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC002592/photos/aab05df2a38950af906ac236d2d4148d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC002592"
+                    }, {
+                        "name": "Позиционный выключатель с блокировкой",
+                        "nameTranslit": "pozicionnyy-vyklyuchatel-s-blokirovkoy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC002593/photos/f15f17fe37106f8b79697c686bb4d3fa.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC002593"
+                    }, {
+                        "name": "Аксессуары для позиционных переключателей",
+                        "nameTranslit": "aksessuary-dlya-pozicionnyh-pereklyuchateley",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC002594/photos/b49be45ae94add67500541aff76b4511.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC002594"
+                    }, {
+                        "name": "Температурное реле",
+                        "nameTranslit": "temperaturnoe-rele",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC002616/photos/698c518dbad3b263475bcbf2d5ca8f94.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC002616"
+                    }, {
+                        "name": "Волоконно-оптический датчик / волоконно-оптический усилитель",
+                        "nameTranslit": "volokonno-opticheskiy-datchik-volokonno-opticheskiy-usilitel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC002651/photos/028d1fc1bc9eec1cee1d71d01b44980a.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC002651"
+                    }, {
+                        "name": "Изолирующий усилитель",
+                        "nameTranslit": "izoliruyuschiy-usilitel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC002653/photos/3f1bf66cd6709a05dd14d4fdeb729a78.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC002653"
+                    }, {
+                        "name": "Датчик предельных значений сигнала (ограничительный)",
+                        "nameTranslit": "datchik-predelnyh-znacheniy-signala-ogranichitelnyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC002654/photos/f450802374efad0f67131c736a70f06f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC002654"
+                    }, {
+                        "name": "Индуктивный датчик",
+                        "nameTranslit": "induktivnyy-datchik",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC002714/photos/4b8ce4302a84bb5e56bd5f99c61b6461.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC002714"
+                    }, {
+                        "name": "Емкостной датчик приближения",
+                        "nameTranslit": "emkostnoy-datchik-priblizheniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC002715/photos/71fcc10b545678c56d5ef595620aee20.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC002715"
+                    }, {
+                        "name": "Односторонний световой барьер",
+                        "nameTranslit": "odnostoronniy-svetovoy-barer",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC002716/photos/0d2914825dd5c42bf430653b05c10237.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC002716"
+                    }, {
+                        "name": "Отражающая световая защита",
+                        "nameTranslit": "otrazhayuschaya-svetovaya-zaschita",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC002717/photos/3538e069a1b40e1e4d7ec1c036abb908.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC002717"
+                    }, {
+                        "name": "Световой сканер с скрытым фоном",
+                        "nameTranslit": "svetovoy-skaner-s-skrytym-fonom",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC002719/photos/571e5c8af7846cf9b028be1378a72ad2.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC002719"
+                    }, {
+                        "name": "Вилочный световой затвор (световая защита)",
+                        "nameTranslit": "vilochnyy-svetovoy-zatvor-svetovaya-zaschita",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC002720/photos/0fcc484406c16a660a73e172c168723e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC002720"
+                    }, {
+                        "name": "Аксессуары для сенсорной техники",
+                        "nameTranslit": "aksessuary-dlya-sensornoy-tehniki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC003015/photos/432259ebbb8e29f97083c03d272e961c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000026/EC003015"
+                    }
                 ],
             },
             "shtekkery-dlya-podklyucheniya-elektropitaniya": {
@@ -4504,7 +4889,22 @@ const dataDb = {
                 "nameTranslit": "shtekkery-dlya-podklyucheniya-elektropitaniya",
                 "img": "/image/shtekkery-dlya-podklyucheniya-elektropitaniya.jpg",
                 "items": [
-
+                    {
+                        "name": "Штекерный разъём (соединитель) для подключения в зданиях",
+                        "nameTranslit": "shtekernyy-razem-soedinitel-dlya-podklyucheniya-v-zdaniyah",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000057/EC002560/photos/011c3113d3fe985c7d0a7afbc43eb646.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000057/EC002560"
+                    }, {
+                        "name": "Приборный штекерный разъём для подключения в зданиях",
+                        "nameTranslit": "pribornyy-shtekernyy-razem-dlya-podklyucheniya-v-zdaniyah",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000057/EC002566/photos/24b697caf357e6257963427a02dc5674.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000057/EC002566"
+                    }, {
+                        "name": "Штеккерный шнур (патч-корд) для коммутации устройств в зданиях",
+                        "nameTranslit": "shtekkernyy-shnur-patch-kord-dlya-kommutacii-ustroystv-v-zdaniyah",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000057/EC002587/photos/acdcfafaf60a63d272c73a8ed9c8b744.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000057/EC002587"
+                    }
                 ],
             },
             "razemy-shtekernye-promyshlennye": {
@@ -4512,31 +4912,107 @@ const dataDb = {
                 "nameTranslit": "razemy-shtekernye-promyshlennye",
                 "img": "/image/razemy-shtekernye-promyshlennye.jpg",
                 "items": [
-
+                    {
+                        "name": "Корпус для промышленных штекерного разъема",
+                        "nameTranslit": "korpus-dlya-promyshlennyh-shtekernogo-razema",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000058/EC000437/photos/7105e9c679fa1c62f25ae59b84a0852e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000058/EC000437"
+                    }, {
+                        "name": "Контактный вкладыш для промышленных разъемов",
+                        "nameTranslit": "kontaktnyy-vkladysh-dlya-promyshlennyh-razemov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000058/EC000438/photos/5cf1605cebd676a5b638887ef25a0d8e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000058/EC000438"
+                    }, {
+                        "name": "Контакт для штекерных промышленных разъемов",
+                        "nameTranslit": "kontakt-dlya-shtekernyh-promyshlennyh-razemov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000058/EC000796/photos/3e3b4c3d2001bd076468681b05cfcd80.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000058/EC000796"
+                    }, {
+                        "name": "Соединительная плата/адаптер для промышленных разъемов",
+                        "nameTranslit": "soedinitelnaya-plata-adapter-dlya-promyshlennyh-razemov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000058/EC002309/photos/3a8785d3d09ca3998d0a02fb5c2fe236.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000058/EC002309"
+                    }, {
+                        "name": "Рама монтажная (каркас) для крепления промышленных разъемов",
+                        "nameTranslit": "rama-montazhnaya-karkas-dlya-krepleniya-promyshlennyh-razemov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000058/EC002310/photos/8f24f3cbffb06a21a8109e6e199ef0c7.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000058/EC002310"
+                    }, {
+                        "name": "Кодировка для промышленных разъемов",
+                        "nameTranslit": "kodirovka-dlya-promyshlennyh-razemov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000058/EC002311/photos/745af536cc4cd3c53802c585d61b682d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000058/EC002311"
+                    }, {
+                        "name": "Держатель контактного вкладыша для промышленных разъемов",
+                        "nameTranslit": "derzhatel-kontaktnogo-vkladysha-dlya-promyshlennyh-razemov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000058/EC002312/photos/d1a8b70f728f14968d288c4300e6f555.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000058/EC002312"
+                    }, {
+                        "name": "Защитная крышка/колпачок/заглушка для промышленного разъема",
+                        "nameTranslit": "zaschitnaya-kryshka-kolpachok-zaglushka-dlya-promyshlennogo-razema",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000058/EC002314/photos/f86ec8019e03ec69e5cc49618b156da0.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000058/EC002314"
+                    }, {
+                        "name": "Круглый штекерный промышленный разъем",
+                        "nameTranslit": "kruglyy-shtekernyy-promyshlennyy-razem",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000058/EC002635/photos/51d696ae444848efbc8bbf09969b5002.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000058/EC002635"
+                    }, {
+                        "name": "Прямоугольный штекерный промышленный разъем",
+                        "nameTranslit": "pryamougolnyy-shtekernyy-promyshlennyy-razem",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000058/EC002636/photos/9bae0271ab5299ffaf366a8db532c6f2.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG000058/EC002636"
+                    }, {
+                        "name": "Соединитель для печатной платы",
+                        "nameTranslit": "soedinitel-dlya-pechatnoy-platy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000058/EC002637/photos/50656626c77135ae03d993245cbe0f06.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000058/EC002637"
+                    }, {
+                        "name": "Кабельный разъем для печатных плат",
+                        "nameTranslit": "kabelnyy-razem-dlya-pechatnyh-plat",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000058/EC002638/photos/fdf65fffa873945ee5c2b74d53a9fec1.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000058/EC002638"
+                    }, {
+                        "name": "Модульный соединитель (промышленный разъем)",
+                        "nameTranslit": "modulnyy-soedinitel-promyshlennyy-razem",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000058/EC002641/photos/5b3a6abf2ac20cd26b322469d05c8d76.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000058/EC002641"
+                    }, {
+                        "name": "Аксессуары для промышленных разъемов",
+                        "nameTranslit": "aksessuary-dlya-promyshlennyh-razemov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000058/EC002943/photos/976b5fbf05d52f36917a6b48a8ea2c99.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000058/EC002943"
+                    }, {
+                        "name": "Круглый PCB коннектор",
+                        "nameTranslit": "kruglyy-pcb-konnektor",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000058/EC003568/photos/c08a7bb2be2fae0babdda71f6d40f2d0.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000058/EC003568"
+                    }
                 ],
             },
             "upravlenie-obrabotkoy-signalov": {
                 "name": "Управление обработкой сигналов",
                 "nameTranslit": "upravlenie-obrabotkoy-signalov",
                 "img": "/image/upravlenie-obrabotkoy-signalov.jpg",
-                "items": [
-
-                ],
+                "items": [],
             },
             "aksessuary-dlya-izmeritelnyh-i-kontrolnyh-priborov": {
                 "name": "Аксессуары для измерительных и контрольных приборов",
                 "nameTranslit": "aksessuary-dlya-izmeritelnyh-i-kontrolnyh-priborov",
                 "img": "/image/aksessuary-dlya-izmeritelnyh-i-kontrolnyh-priborov.jpg",
-                "items": [
-
-                ],
+                "items": [],
             },
             "zapasnye-chasti-dlya-izmeritelnyh-i-kontrolnyh-priborov": {
-                "name": "zapasnye-chasti-dlya-izmeritelnyh-i-kontrolnyh-priborov",
+                "name": "Запасные части для измерительных и контрольных приборов",
                 "nameTranslit": "zapasnye-chasti-dlya-izmeritelnyh-i-kontrolnyh-priborov",
                 "img": "/image/zapasnye-chasti-dlya-izmeritelnyh-i-kontrolnyh-priborov.jpg",
                 "items": [
-
+                    {
+                        "name": "Погружная трубка",
+                        "nameTranslit": "pogruzhnaya-trubka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015880/EC010502/photos/c2835f67ffcd1c8c95eba5ece3ccbc77.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015880/EC010502"
+                    }
                 ],
             },
             "oborudovanie-svyazi": {
@@ -4544,20 +5020,1115 @@ const dataDb = {
                 "nameTranslit": "oborudovanie-svyazi",
                 "img": "/image/oborudovanie-svyazi.jpg",
                 "items": [
-
                 ],
             },
             "peredacha-signalov": {
                 "name": "Передача сигналов",
                 "nameTranslit": "peredacha-signalov",
                 "img": "/image/peredacha-signalov.jpg",
+                "items": [],
+            },
+        },
+    },
+    "Welding-equipment-and-consumables": {
+        "name": "Сварочное оборудование и расходные материалы",
+        "items": {
+            "svarochnye-materialy": {
+                "name": "Сварочные материалы",
+                "nameTranslit": "svarochnye-materialy",
+                "img": "/image/svarochnye-materialy.png",
                 "items": [
-
+                    {
+                        "name": "Электродная проволока/сварочная проволока",
+                        "nameTranslit": "elektrodnaya-provoloka-svarochnaya-provoloka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000005/EC011096/photos/d9aa95473f5df82c614ef7e214440a89.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000005/EC011096"
+                    }, {
+                        "name": "Сварочный электрод",
+                        "nameTranslit": "svarochnyy-elektrod",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000005/EC011097/photos/5c4a5aff491429dec4f98148b253d29e.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000005/EC011097"
+                    }, {
+                        "name": "Сварочный пруток",
+                        "nameTranslit": "svarochnyy-prutok",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000005/EC010673/photos/c26cc097743c75d74d7f0a20f71dd6d7.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000005/EC010673"
+                    }
+                ],
+            },
+            "sredstva-zaschity": {
+                "name": "Средства защиты",
+                "nameTranslit": "sredstva-zaschity",
+                "img": "/image/sredstva-zaschity.jpg",
+                "items": [
+                    {
+                        "name": "Сварочный шлем / Сварочная маска",
+                        "img": "/image/Svarochnyj-shlem-Svarochnaja-maska.png",
+                        "URL": "https://etipro.ru/catalogs/SG000006/EC011098"
+                    },
+                ],
+            },
+            "komplektuyuschie-i-aksessuary": {
+                "name": "Комплектующие и аксессуары",
+                "nameTranslit": "komplektuyuschie-i-aksessuary",
+                "img": "/image/komplektuyuschie-i-aksessuary.png",
+                "items": [
+                    {
+                        "name": "Зажим заземления электросварки",
+                        "nameTranslit": "zazhim-zazemleniya-elektrosvarki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000061/EC011044/photos/6de085548800d343050318c661d06092.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000007/EC011044"
+                    }, {
+                        "name": "Держатель электрода",
+                        "nameTranslit": "derzhatel-elektroda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000061/EC011071/photos/8342f53ee15c790d22ef56dc8784bad3.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000007/EC011071"
+                    }, {
+                        "name": "Аксессуары для сварочного оборудования",
+                        "nameTranslit": "aksessuary-dlya-svarochnogo-oborudovaniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000061/EC011984/photos/533acf5002241313fdddd1292b610735.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000007/EC011984"
+                    }
+                ],
+            },
+            "svarochnoe-oborudovanie": {
+                "name": "Сварочное оборудование",
+                "nameTranslit": "svarochnoe-oborudovanie",
+                "img": "/image/svarochnoe-oborudovanie.jpg",
+                "items": [
+                    {
+                        "name": "Сварочный аппарат инверторный (трансформатор)",
+                        "img": "/image/Svarochnyj-apparat-invertornyj-transformator.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000061/EC011104"
+                    }
                 ],
             },
         },
     },
+    "Industrial-and-engineering-equipment": {
+        "name": "Промышленное и инженерное оборудование",
+        "items": {
+            "elektrodvigateli-privody-ventilyacionnoe-oborudovanie": {
+                "name": "Электродвигатели, приводы, вентиляционное оборудование",
+                "nameTranslit": "elektrodvigateli-privody-ventilyacionnoe-oborudovanie",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG000034/photos/f2b9a969f933722cd8ed2788ea719d9f.png",
+                "items": [
+                    {
+                        "name": "Электродвигатель",
+                        "nameTranslit": "elektrodvigatel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000034/EC001851/photos/f2b9a969f933722cd8ed2788ea719d9f.png",
+                        "URL": "https://etipro.ru/catalogs/EG000034/EC001851"
+                    }, {
+                        "name": "Подшипник",
+                        "nameTranslit": "podshipnik",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG014000/EC012129/photos/651ad19d7daae274b476fc26143deb93.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000034/EC012129"
+                    }, {
+                        "name": "Вентилятор для малых помещений",
+                        "nameTranslit": "ventilyator-dlya-malyh-pomescheniy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000034/EC001144/photos/d546bdb400817428fe0528f872480500.png",
+                        "URL": "https://etipro.ru/catalogs/EG000034/EC001144"
+                    }, {
+                        "name": "Вентилятор для оборудования",
+                        "nameTranslit": "ventilyator-dlya-oborudovaniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000034/EC001143/photos/e4f88559809657a97c6d4f84ee772171.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000034/EC001143"
+                    }, {
+                        "name": "Вентилятор промышленный",
+                        "nameTranslit": "ventilyator-promyshlennyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000034/EC001151/photos/156de7755288bde1f5671dffa4a4a79c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000034/EC001151"
+                    }, {
+                        "name": "Датчик освещенности/сумеречное реле для привода рольставней/жалюзи",
+                        "nameTranslit": "datchik-osveschennosti-sumerechnoe-rele-dlya-privoda-rolstavney-zhalyuzi",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000034/EC000435/photos/a254e9d581398eab01af48e639a12906.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000034/EC000435"
+                    }, {
+                        "name": "Центробежный вентилятор",
+                        "nameTranslit": "centrobezhnyy-ventilyator",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000034/EC010994/photos/705050bb4ef10aa11a95502647a918b8.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000034/EC010994"
+                    }, {
+                        "name": "Аксессуары для вентилятора",
+                        "nameTranslit": "aksessuary-dlya-ventilyatora",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000034/EC011606/photos/dfa9a2aa535128c19341d06d5444e4a8.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000034/EC011606"
+                    }, {
+                        "name": "Вентилятор для установки в прямоугольных каналах",
+                        "nameTranslit": "ventilyator-dlya-ustanovki-v-pryamougolnyh-kanalah",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000034/EC001148/photos/c4aa4cd35d07ea580432286f54386362.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000034/EC001148"
+                    }
+                ]
+            },
+            "nasosy-uvelichenie-umenshenie-davleniya": {
+                "name": "Насосы. Увеличение / уменьшение давления",
+                "nameTranslit": "nasosy-uvelichenie-umenshenie-davleniya",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015260/photos/74d02b8e1d3cd1e4b6a57f1a492ac035.png",
+                "items": [
+                    {
+                        "name": "Скважинный насос",
+                        "nameTranslit": "skvazhinnyy-nasos",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015260/EC010343/photos/2e18f9427caf1a26a1c2a0ac0e7d40cc.png",
+                        "URL": "https://etipro.ru/catalogs/EG015260/EC010343"
+                    }, {
+                        "name": "Погружной насос",
+                        "nameTranslit": "pogruzhnoy-nasos",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015260/EC010733/photos/1e8c3c7510d0fb5efd58d32e5a0cdf02.png",
+                        "URL": "https://etipro.ru/catalogs/EG015260/EC010733"
+                    }, {
+                        "name": "Встроенный циркуляционный насос",
+                        "nameTranslit": "vstroennyy-cirkulyacionnyy-nasos",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015260/EC010980/photos/c58c61ebee7ba8b10b32a153e143c274.png",
+                        "URL": "https://etipro.ru/catalogs/EG015260/EC010980"
+                    }, {
+                        "name": "Погружной насос для фекалий",
+                        "nameTranslit": "pogruzhnoy-nasos-dlya-fekaliy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015260/EC010055/photos/433ca5947c6c173c3e7565a02ee3121a.png",
+                        "URL": "https://etipro.ru/catalogs/EG015260/EC010055"
+                    }, {
+                        "name": "Самовсасывающий насос горизонтальный",
+                        "nameTranslit": "samovsasyvayuschiy-nasos-gorizontalnyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015260/EC010326/photos/e35dc14e0d9ff798b4252436f57e7fa6.png",
+                        "URL": "https://etipro.ru/catalogs/EG015260/EC010326"
+                    }, {
+                        "name": "Система управления насосом",
+                        "nameTranslit": "sistema-upravleniya-nasosom",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015260/EC010327/photos/0796d6fa2a04fc854d085b1791a3f256.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015260/EC010327"
+                    }, {
+                        "name": "Блок-насос",
+                        "nameTranslit": "blok-nasos",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015260/EC010732/photos/74d02b8e1d3cd1e4b6a57f1a492ac035.png",
+                        "URL": "https://etipro.ru/catalogs/EG015260/EC010732"
+                    }, {
+                        "name": "Насос со стандартным двигателем (фекальный)",
+                        "nameTranslit": "nasos-so-standartnym-dvigatelem-fekalnyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015260/EC011009/photos/61cf24561f35c8fdf794da61acaa7840.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015260/EC011009"
+                    }, {
+                        "name": "Аксессуары для насоса",
+                        "nameTranslit": "aksessuary-dlya-nasosa",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015260/EC011651/photos/c38182beec85b2419c957d4349a0ffff.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015260/EC011651"
+                    }, {
+                        "name": "Конденсатный водяной насос",
+                        "nameTranslit": "kondensatnyy-vodyanoy-nasos",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015260/EC011712/photos/1f4de092e5dc3e5d44b017b54e8412f7.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015260/EC011712"
+                    }, {
+                        "name": "Блок повышения давления",
+                        "nameTranslit": "blok-povysheniya-davleniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015260/EC010737/photos/1b8f0c7c0bb359713dc4cf708fbb66e7.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015260/EC010737"
+                    }
+                ]
+            },
+            "elektricheskie-i-pnevmaticheskie-datchiki": {
+                "name": "Электрические и пневматические датчики",
+                "nameTranslit": "elektricheskie-i-pnevmaticheskie-datchiki",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015820/photos/561863dc8418fc1984dd4354faa8daed.png",
+                "items": [
+                    {
+                        "name": "Канальный датчик температуры активен",
+                        "nameTranslit": "kanalnyy-datchik-temperatury-aktiven",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015820/EC011498/photos/e432fb1b92dee03adda762d2a265fb9f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015820/EC011498"
+                    }, {
+                        "name": "Комнатный датчик относительной влажности/температуры",
+                        "nameTranslit": "komnatnyy-datchik-otnositelnoy-vlazhnosti-temperatury",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015820/EC010174/photos/c6991c37929063a92b2931e87a8c5173.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015820/EC010174"
+                    }, {
+                        "name": "Датчик температуры наружного воздуха",
+                        "nameTranslit": "datchik-temperatury-naruzhnogo-vozduha",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015820/EC010185/photos/524c59475fd33e554d28a3c4025f9f23.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015820/EC010185"
+                    }, {
+                        "name": "Кабель датчика температуры",
+                        "nameTranslit": "kabel-datchika-temperatury",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015820/EC010900/photos/75ef23a2c515d5374cb77e070b036482.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015820/EC010900"
+                    }, {
+                        "name": "Датчик относительной влажности/температуры активный",
+                        "nameTranslit": "datchik-otnositelnoy-vlazhnosti-temperatury-aktivnyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015820/EC010091/photos/78dca5aeb1da0adf53435b88f945ff62.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015820/EC010091"
+                    }, {
+                        "name": "Аксессуары для датчиков уровня",
+                        "nameTranslit": "aksessuary-dlya-datchikov-urovnya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015820/EC011665/photos/567cae5da98d3d7084c76e5c20a2fe69.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015820/EC011665"
+                    }
+                ]
+            },
+            "klapany-krany-upravlenie": {
+                "name": "Клапаны / краны / управление",
+                "nameTranslit": "klapany-krany-upravlenie",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015610/photos/f5def687d55be1517648ba702510c532.jpg",
+                "items": [
+                    {
+                        "name": "Соленоидный клапан",
+                        "img": "/image/Solenoidnyj-klapan.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015610/EC010261"
+                    }
+                ]
+            },
+            "filtry-separatory": {
+                "name": "Фильтры / сепараторы",
+                "nameTranslit": "filtry-separatory",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015140/photos/848e4f1b68799a06ff9c4ecd3ea1b476.jpg",
+                "items": [
+                    {
+                        "name": "Конический фильтр воздуховода",
+                        "nameTranslit": "konicheskiy-filtr-vozduhovoda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015140/EC010580/photos/929524a32e8a07143b1436aa60cef526.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015140/EC010580"
+                    }, {
+                        "name": "Картриджный воздушный фильтр",
+                        "nameTranslit": "kartridzhnyy-vozdushnyy-filtr",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015140/EC011238/photos/42b2e8efba4385b809105379e2c8cb9c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015140/EC011238"
+                    }
+                ]
+            },
+            "izmeritelnye-i-kontrolnye-pribory": {
+                "name": "Измерительные и контрольные приборы",
+                "nameTranslit": "izmeritelnye-i-kontrolnye-pribory",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015810/photos/03f4cab43f87bdc7487ab6b391f077ad.jpg",
+                "items": [
+                    {
+                        "name": "Счетчик воды",
+                        "nameTranslit": "schetchik-vody",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015810/EC010586/photos/cb438b1d35c6502e88c9b5fd562c32a8.png",
+                        "URL": "https://etipro.ru/catalogs/EG015810/EC010586"
+                    }, {
+                        "name": "Счетчик газа",
+                        "nameTranslit": "schetchik-gaza",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015810/EC011718/photos/be15a16f5eb50a6216746405933c6a2a.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015810/EC011718"
+                    }, {
+                        "name": "Теплосчетчик",
+                        "nameTranslit": "teploschetchik",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015810/EC011754/photos/5abe94502151e1631be66f0327fc0aef.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015810/EC011754"
+                    }
+                ]
+            },
+            "statistika-pereklyuchateli-i-kontrollery": {
+                "name": "Статистика, переключатели и контроллеры",
+                "nameTranslit": "statistika-pereklyuchateli-i-kontrollery",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015840/photos/c22978490ef0b01937db27eb55a9ee9c.jpg",
+                "items": [
+                    {
+                        "name": "Комнатный терморегулятор",
+                        "nameTranslit": "komnatnyy-termoregulyator",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015840/EC010927/photos/930912d31db49b04c765bf852f8721d6.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015840/EC010927"
+                    }, {
+                        "name": "Терморегулятор с датчиком температуры",
+                        "nameTranslit": "termoregulyator-s-datchikom-temperatury",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015840/EC010219/photos/aa92852bdd9f25c6bf31adf0ebe4d9d0.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015840/EC010219"
+                    }, {
+                        "name": "Комнатный термостат",
+                        "nameTranslit": "komnatnyy-termostat",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015840/EC011309/photos/2eea24163854b7ca1671209dc9060bfa.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015840/EC011309"
+                    }, {
+                        "name": "Поплавковый выключатель",
+                        "nameTranslit": "poplavkovyy-vyklyuchatel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015840/EC011178/photos/1768646bedd64a636951e7cd59bb7a20.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015840/EC011178"
+                    }
+                ]
+            },
+            "rezervuary-dlya-hraneniya": {
+                "name": "Резервуары для хранения",
+                "nameTranslit": "rezervuary-dlya-hraneniya",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015120/photos/59fff8fd96da0da2ff788e9c5046865b.jpg",
+                "items": [
+                    {
+                        "name": "Расширительный бак",
+                        "img": "/image/Rasshiritelnyj-bak.png",
+                        "URL": "https://etipro.ru/catalogs/EG015120/EC011400"
+                    },
+                ]
+            },
+            "truby": {
+                "name": "Трубы",
+                "nameTranslit": "truby",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015530/photos/1ed1c18caa334274a44e902546c18cdc.jpg",
+                "items": []
+            },
+            "fitingi-flancy-i-soediniteli": {
+                "name": "Фитинги, фланцы и соединители",
+                "nameTranslit": "fitingi-flancy-i-soediniteli",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015540/photos/cd04c9aae849e26ca71b8faeb3c3f5ae.jpg",
+                "items": [
+                    {
+                        "name": "Монтажный тройник для труб",
+                        "img": "/image/Montazhnyj-trojnik-dlja-trub.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015540/EC002922"
+                    },
+                ]
+            },
+            "vpusknye-i-vypusknye-fitingi": {
+                "name": "Впускные и выпускные фитинги",
+                "nameTranslit": "vpusknye-i-vypusknye-fitingi",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG017550/photos/d04dabfb9a31f7404c8ee6dc62314d9f.jpg",
+                "items": []
+            },
+            "shlangi-i-shkafy": {
+                "name": "Шланги и шкафы",
+                "nameTranslit": "shlangi-i-shkafy",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015510/photos/b4e4ac3460383f367b184687d5efce8c.jpg",
+                "items": [
+                    {
+                        "name": "Пластиковый шланг, изолированный по спирали",
+                        "nameTranslit": "plastikovyy-shlang-izolirovannyy-po-spirali",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015510/EC010069/photos/3fe2e1047355ef1657073b319c3d2775.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015510/EC010069"
+                    }, {
+                        "name": "Гибкий металлический соединительный шланг",
+                        "nameTranslit": "gibkiy-metallicheskiy-soedinitelnyy-shlang",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015510/EC011399/photos/da5000ce0b0352391d2ff32be2e65e67.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015510/EC011399"
+                    }
+                ]
+            },
+            "soedineniya-shlangov-mufty": {
+                "name": "Соединения шлангов, муфты",
+                "nameTranslit": "soedineniya-shlangov-mufty",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015520/photos/ee5505d06031e349bced90f6a0b63a88.jpg",
+                "items": [
+                    {
+                        "name": "Винтовой зажим для шланга",
+                        "nameTranslit": "vintovoy-zazhim-dlya-shlanga",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015520/EC010772/photos/777e983731d418c5144203a39c16c593.png",
+                        "URL": "https://etipro.ru/catalogs/EG015520/EC010772"
+                    }, {
+                        "name": "Одно- и двухсекционный шланговый зажим",
+                        "nameTranslit": "odno-i-dvuhsekcionnyy-shlangovyy-zazhim",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015520/EC010446/photos/b35b99f880517d31a8710f6352551809.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG015520/EC010446"
+                    }, {
+                        "name": "Вставная муфта, 3 соединения",
+                        "nameTranslit": "vstavnaya-mufta-3-soedineniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015520/EC010761/photos/f88a9802495bd1123da28820b35031b0.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG015520/EC010761"
+                    }, {
+                        "name": "Соединительная муфта (2 соединения)",
+                        "nameTranslit": "soedinitelnaya-mufta-2-soedineniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015520/EC010769/photos/6e2f573bf2b96c9446271e0ea698f50f.png",
+                        "URL": "https://etipro.ru/catalogs/EG015520/EC010769"
+                    }, {
+                        "name": "Шланговый соединитель/фланцевая муфта",
+                        "nameTranslit": "shlangovyy-soedinitel-flancevaya-mufta",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015520/EC011183/photos/dcf94fc6a8d77b029c0a8b2ecca969eb.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015520/EC011183"
+                    }
+                ]
+            },
+            "zapasnye-chasti-dlya-armatury": {
+                "name": "Запасные части для арматуры",
+                "nameTranslit": "zapasnye-chasti-dlya-armatury",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015620/photos/65a02b84565d3a0c20de4a779c5ccf9a.jpg",
+                "items": []
+            },
+            "raspredeliteli": {
+                "name": "Распределители",
+                "nameTranslit": "raspredeliteli",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015410/photos/5a239476960163554e5bafbf1bb9c494.jpg",
+                "items": []
+            },
+            "truboprovod-i-truba-dlya-dymovyh-gazov-i-vozduha": {
+                "name": "Трубопровод и труба для дымовых газов и воздуха",
+                "nameTranslit": "truboprovod-i-truba-dlya-dymovyh-gazov-i-vozduha",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015550/photos/72be86bc5aecac9e8bd77339fba2a670.jpg",
+                "items": [
+                    {
+                        "name": "Гибкая труба для дымовых газов",
+                        "img": "/image/Gibkaja-truba-dlja-dymovyh-gazov.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015550/EC011361"
+                    },
+                ]
+            },
+            "raspredeliteli-kollektory": {
+                "name": "Распределители / коллекторы",
+                "nameTranslit": "raspredeliteli-kollektory",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015400/photos/31c494c4e2334f9891e8c11a73d2b383.jpeg",
+                "items": []
+            },
+            "kompensatory-i-detali-rasshireniya": {
+                "name": "Компенсаторы и детали расширения",
+                "nameTranslit": "kompensatory-i-detali-rasshireniya",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015570/photos/524b902c71d82604a67ddc87d6a4c965.jpg",
+                "items": []
+            },
+            "aksessuary-dlya-klapanov-i-kranov": {
+                "name": "Аксессуары для клапанов и кранов",
+                "nameTranslit": "aksessuary-dlya-klapanov-i-kranov",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015640/photos/29e2ea57a74fb0b8dc78af8c5d38fe68.jpg",
+                "items": []
+            },
+            "prinadlezhnosti-dlya-dymovyh-gazov-i-vozduha": {
+                "name": "Принадлежности для дымовых газов и воздуха",
+                "nameTranslit": "prinadlezhnosti-dlya-dymovyh-gazov-i-vozduha",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015560/photos/9344aa55fa4421aa04d8882c5c0e2300.jpg",
+                "items": [
+                    {
+                        "name": "Изгиб прямоугольного воздуховода",
+                        "nameTranslit": "izgib-pryamougolnogo-vozduhovoda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015560/EC010056/photos/ef7a032834d4449b7afe96b98c4789a7.png",
+                        "URL": "https://etipro.ru/catalogs/EG015560/EC010056"
+                    }, {
+                        "name": "Прямоугольный воздуховод с ответвлением",
+                        "nameTranslit": "pryamougolnyy-vozduhovod-s-otvetvleniem",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015560/EC010114/photos/b18cda276c1fc5a48996b92892e7662a.png",
+                        "URL": "https://etipro.ru/catalogs/EG015560/EC010114"
+                    }, {
+                        "name": "Круглый воздуховод T-Y-образный",
+                        "nameTranslit": "kruglyy-vozduhovod-t-y-obraznyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015560/EC010186/photos/7e86f9cad5505b6b45e31e482e67dbf2.png",
+                        "URL": "https://etipro.ru/catalogs/EG015560/EC010186"
+                    }, {
+                        "name": "Переходная часть прямоугольного / круглого воздуховода",
+                        "nameTranslit": "perehodnaya-chast-pryamougolnogo-kruglogo-vozduhovoda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015560/EC010924/photos/2c58830c138c21a68aeafcec405861a7.png",
+                        "URL": "https://etipro.ru/catalogs/EG015560/EC010924"
+                    }
+                ]
+            },
+            "hranenie-skladskie-pomescheniya": {
+                "name": "Хранение / складские помещения",
+                "nameTranslit": "hranenie-skladskie-pomescheniya",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG010340/photos/a8ec928ef3f4970041abd0f0a492038b.jpeg",
+                "items": []
+            },
+            "vibrogasiteli": {
+                "name": "Виброгасители",
+                "nameTranslit": "vibrogasiteli",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG018410/photos/ded81ee949d1a0a1f95b7cd3cb828392.jpg",
+                "items": []
+            },
+            "zaglushki": {
+                "name": "Заглушки",
+                "nameTranslit": "zaglushki",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG018310/photos/2f5473654c8ce7f6feb6f1c25ed5fc5d.jpg",
+                "items": []
+            },
+            "izmeritelnye-instrumenty": {
+                "name": "Измерительные инструменты",
+                "nameTranslit": "izmeritelnye-instrumenty",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015830/photos/e1d25cc36402f448301da7f1f38e6ed9.jpg",
+                "items": []
+            },
+            "produkciya-drugih-otrasley": {
+                "name": "Продукция других отраслей",
+                "nameTranslit": "produkciya-drugih-otrasley",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG012000/photos/d8627a983d884536b87de3c9fe6fa2d2.jpg",
+                "items": [
+                    {
+                        "name": "Кружка",
+                        "nameTranslit": "kruzhka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG012000/EC012089/photos/8c1a4ab229d8fbbe07c8daa1fe5c3888.png",
+                        "URL": "https://etipro.ru/catalogs/EG012000/EC012089"
+                    }, {
+                        "name": "Емкость  для хранения",
+                        "nameTranslit": "emkost-dlya-hraneniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG012000/EC012313/photos/337248867f9559fb0cf478e740605b3b.png",
+                        "URL": "https://etipro.ru/catalogs/EG012000/EC012313"
+                    }, {
+                        "name": "Тарелка / миска (посуда)",
+                        "nameTranslit": "tarelka-miska-posuda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG012000/EC012324/photos/9e0a7b2db0bb753f1ab1a61e573d34e9.png",
+                        "URL": "https://etipro.ru/catalogs/EG012000/EC012324"
+                    }, {
+                        "name": "Стекло / чашка",
+                        "nameTranslit": "steklo-chashka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG012000/EC012322/photos/d7b07d8c5e69e6229e6c6272e8bab288.png",
+                        "URL": "https://etipro.ru/catalogs/EG012000/EC012322"
+                    }, {
+                        "name": "Мусорный мешок",
+                        "nameTranslit": "musornyy-meshok",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG012000/EC012328/photos/93554301eb46a947b2d0fd517696172e.png",
+                        "URL": "https://etipro.ru/catalogs/EG012000/EC012328"
+                    }
+                ]
+            },
+            "zapasnye-chasti-dlya-promyvochnyh-sistem": {
+                "name": "Запасные части для промывочных систем",
+                "nameTranslit": "zapasnye-chasti-dlya-promyvochnyh-sistem",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG017140/photos/c093172b68f61f250d73b7442fc31538.jpg",
 
+                "items": []
+            },
+            "razlichnye-montazhnye-i-vspomogatelnye-materialy": {
+                "name": "Различные монтажные и вспомогательные материалы",
+                "nameTranslit": "razlichnye-montazhnye-i-vspomogatelnye-materialy",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG019470/photos/a0e887867c649d63d5b24dc823fb7ee8.jpg",
+                "items": []
+            },
+            "tehnicheskie-gazy": {
+                "name": "Технические газы",
+                "nameTranslit": "tehnicheskie-gazy",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG019890/photos/9f466de8d8e6576f9c8531145c27e26d.jpg",
+                "items": []
+            }
+        },
+    },
+    "Climate-control-equipment": {
+        "name": "Климатическое оборудование",
+        "items": {
+            "klimatotehnika-i-otopitelnoe-oborudovanie-dlya-zhilyh-pomescheniy": {
+                "name": "Климатотехника и отопительное оборудование для жилых помещений",
+                "nameTranslit": "klimatotehnika-i-otopitelnoe-oborudovanie-dlya-zhilyh-pomescheniy",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG000043/photos/0d63d2be84213e0a050c82cb854a5aff.jpg",
+                "items": [
+                    {
+                        "name": "Нагревательный (теплый) мат",
+                        "nameTranslit": "nagrevatelnyy-teplyy-mat",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000043/EC000405/photos/985386272d444ae3c0a3f29e3606b5b4.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000043/EC000405"
+                    }, {
+                        "name": "Кабель нагревательный",
+                        "nameTranslit": "kabel-nagrevatelnyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000043/EC000339/photos/c6ca8f55b3ae807f13487e8f8562c7dc.png",
+                        "URL": "https://etipro.ru/catalogs/EG000043/EC000339"
+                    }, {
+                        "name": "Коврик с подогревом",
+                        "nameTranslit": "kovrik-s-podogrevom",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000043/EC002859/photos/a7ee3b1cb25c817b8c0bd367fc1fdeae.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000043/EC002859"
+                    }, {
+                        "name": "Конвектор электрический",
+                        "nameTranslit": "konvektor-elektricheskiy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000043/EC000523/photos/96328728b250d8ec0fad28c59600c4ef.png",
+                        "URL": "https://etipro.ru/catalogs/EG000043/EC000523"
+                    }, {
+                        "name": "Теплоизлучатель / Инфракрасный излучатель",
+                        "nameTranslit": "teploizluchatel-infrakrasnyy-izluchatel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000043/EC000535/photos/bcd23639ed5e481f824ef48c70505690.png",
+                        "URL": "https://etipro.ru/catalogs/EG000043/EC000535"
+                    }, {
+                        "name": "Радиатор электрический",
+                        "nameTranslit": "radiator-elektricheskiy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000043/EC000593/photos/01b2e022ae8e57696c5c795516253ad7.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000043/EC000593"
+                    }, {
+                        "name": "Вспомогательное приспособление для монтажа/ремонта нагревательных приборов",
+                        "nameTranslit": "vspomogatelnoe-prisposoblenie-dlya-montazha-remonta-nagrevatelnyh-priborov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000043/EC001231/photos/3465570fba93b7516d94a5ba490115c6.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000043/EC001231"
+                    }, {
+                        "name": "Аксессуары для нагревательного кабеля",
+                        "nameTranslit": "aksessuary-dlya-nagrevatelnogo-kabelya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000043/EC002063/photos/dd33d942087641c6d0dc6d01d4b6ef2f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000043/EC002063"
+                    }, {
+                        "name": "Набор для заделки нагревательного кабеля (ремонтный набор)",
+                        "nameTranslit": "nabor-dlya-zadelki-nagrevatelnogo-kabelya-remontnyy-nabor",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000043/EC000340/photos/fee84993677d551e53968068f3163366.png",
+                        "URL": "https://etipro.ru/catalogs/EG000043/EC000340"
+                    }, {
+                        "name": "Полотенцесушитель (электрический)",
+                        "nameTranslit": "polotencesushitel-elektricheskiy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000043/EC003624/photos/b082f70629fa19d075b15693efb78471.png",
+                        "URL": "https://etipro.ru/catalogs/EG000043/EC003624"
+                    }, {
+                        "name": "Сушитель (сушилка) для рук",
+                        "nameTranslit": "sushitel-sushilka-dlya-ruk",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000043/EC001212/photos/9035321bc73f062e5b451622309bdb72.png",
+                        "URL": "https://etipro.ru/catalogs/EG000043/EC001212"
+                    }, {
+                        "name": "Камин электрический",
+                        "nameTranslit": "kamin-elektricheskiy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000043/EC000811/photos/c1312dc5c8beb92d70d77cc27dfad6b2.png",
+                        "URL": "https://etipro.ru/catalogs/EG000043/EC000811"
+                    }, {
+                        "name": "Обогреватель с трубчатым оребренным электронагревателем (ТЭНР)",
+                        "nameTranslit": "obogrevatel-s-trubchatym-orebrennym-elektronagrevatelem-tenr",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000043/EC000427/photos/59d48f4b202b1a619b1192cb2d6407f9.png",
+                        "URL": "https://etipro.ru/catalogs/EG000043/EC000427"
+                    }, {
+                        "name": "Устройство дополнительного подогрева / ТЭН",
+                        "nameTranslit": "ustroystvo-dopolnitelnogo-podogreva-ten",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000043/EC000389/photos/94279fb05f2ec418691fd6ca3629eea4.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000043/EC000389"
+                    }
+                ]
+            },
+            "radiatory-konvektory": {
+                "name": "Радиаторы / конвекторы",
+                "nameTranslit": "radiatory-konvektory",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015710/photos/eeaed650a86a1558b5d5d7ae6abb53b0.jpg",
+                "items": [
+                    {
+                        "name": "Колонный радиатор",
+                        "nameTranslit": "kolonnyy-radiator",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015710/EC003539/photos/bf3751a33c5ac03b03c77707def27388.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015710/EC003539"
+                    }, {
+                        "name": "Полотенцесушитель водяной",
+                        "nameTranslit": "polotencesushitel-vodyanoy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015710/EC011023/photos/391fdda37e6b822c5bbc998975a8b598.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015710/EC011023"
+                    }, {
+                        "name": "Электрические аксессуары для конвектора",
+                        "nameTranslit": "elektricheskie-aksessuary-dlya-konvektora",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015710/EC011035/photos/9f75e1b376bc86f8ae497b43328e09b2.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG015710/EC011035"
+                    }, {
+                        "name": "Аксессуары для радиатора",
+                        "nameTranslit": "aksessuary-dlya-radiatora",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015710/EC010858/photos/17ece6c9f143b540823abbaa5afa5a94.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG015710/EC010858"
+                    }
+                ]
+            },
+            "vodonagrevateli-i-ustroystva-goryachego-vodosnabzheniya": {
+                "name": "Водонагреватели и устройства горячего водоснабжения",
+                "nameTranslit": "vodonagrevateli-i-ustroystva-goryachego-vodosnabzheniya",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG000042/photos/65763a8419ae6997866af4ed511e031e.jpg",
+                "items": [
+                    {
+                        "name": "Электрический водогрейный котёл",
+                        "nameTranslit": "elektricheskiy-vodogreynyy-kotel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015210/EC011391/photos/241ebbe795b59f5dd18206cc80c8172f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000042/EC011391"
+                    }, {
+                        "name": "Бойлер косвенного нагрева",
+                        "nameTranslit": "boyler-kosvennogo-nagreva",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015210/EC011392/photos/35d73312eb23dd5e67aba34a7735ddcc.png",
+                        "URL": "https://etipro.ru/catalogs/EG000042/EC011392"
+                    }, {
+                        "name": "Водонагреватель проточный",
+                        "nameTranslit": "vodonagrevatel-protochnyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000042/EC000392/photos/a604a72371cb7f1a5273a7552829b56c.png",
+                        "URL": "https://etipro.ru/catalogs/EG000042/EC000392"
+                    }, {
+                        "name": "Электрический нагревательный элемент / ТЭН для водонагревательного бака",
+                        "nameTranslit": "elektricheskiy-nagrevatelnyy-element-ten-dlya-vodonagrevatelnogo-baka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000042/EC001118/photos/205306b9610610e7f83b2ff4120e1fec.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000042/EC001118"
+                    }, {
+                        "name": "Комплект для подключения",
+                        "nameTranslit": "komplekt-dlya-podklyucheniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000042/EC001220/photos/4ff61eb9dd7b7a0b0c1c6ddf5aa93c68.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000042/EC001220"
+                    }
+                ]
+            },
+            "kotly-i-nagrevateli": {
+                "name": "Котлы и нагреватели",
+                "nameTranslit": "kotly-i-nagrevateli",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015210/photos/7f2b1eaaa73bfe9345fd66bf129d0c92.jpg",
+                "items": [
+                    {
+                        "name": "Мобильный воздухонагреватель (газ / масло)",
+                        "nameTranslit": "mobilnyy-vozduhonagrevatel-gaz-maslo",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015210/EC010291/photos/6ad84e836e82d64cc37f97d9940e0593.png",
+                        "URL": "https://etipro.ru/catalogs/EG015210/EC010291"
+                    }, {
+                        "name": "Передвижной электрический калорифер",
+                        "nameTranslit": "peredvizhnoy-elektricheskiy-kalorifer",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015210/EC010534/photos/c953a1ca4b16531e8469ab5c7c82ba3d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015210/EC010534"
+                    }, {
+                        "name": "Газовый камин",
+                        "nameTranslit": "gazovyy-kamin",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015210/EC011719/photos/3eb5d50fe6f37c338d9b710e28e3f8ae.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015210/EC011719"
+                    }, {
+                        "name": "Аксессуары для котлов",
+                        "nameTranslit": "aksessuary-dlya-kotlov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015210/EC011494/photos/a3bc80903baca030b067f13cfab96036.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015210/EC011494"
+                    }
+                ]
+            },
+            "sistemy-ohlazhdeniya": {
+                "name": "Системы охлаждения",
+                "nameTranslit": "sistemy-ohlazhdeniya",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015230/photos/e567f50ae033958872a4cede65e64cf8.jpg",
+                "items": [
+                    {
+                        "name": "Мобильный кондиционер",
+                        "nameTranslit": "mobilnyy-kondicioner",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015230/EC011604/photos/c693db933dae976bbeb8bee2a703abdb.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG015230/EC011604"
+                    }, {
+                        "name": "Сплит-система",
+                        "nameTranslit": "split-sistema",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015230/EC011573/photos/e715a1f01f5a72604c7cce275e87bcbd.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG015230/EC011573"
+                    }, {
+                        "name": "Сплит системы кондиционирования воздуха - внутренний блок (испаритель)",
+                        "nameTranslit": "split-sistemy-kondicionirovaniya-vozduha-vnutrenniy-blok-isparitel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015230/EC011580/photos/e9f0e37fc118cf67e69610c48e7297c6.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015230/EC011580"
+                    }, {
+                        "name": "Сплит-система кондиционирования воздуха - одноконтурный конденсационный блок с воздушным охлаждением",
+                        "nameTranslit": "split-sistema-kondicionirovaniya-vozduha-odnokonturnyy-kondensacionnyy-blok-s-vozdushnym-ohlazhdeniem",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015230/EC011583/photos/7990ee2e255d6156280dab46a3ab064b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015230/EC011583"
+                    }, {
+                        "name": "Комплект труб для сплит-системы",
+                        "nameTranslit": "komplekt-trub-dlya-split-sistemy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015230/EC011602/photos/4dc2954f9d5d80aeb521dd5260734b59.png",
+                        "URL": "https://etipro.ru/catalogs/EG015230/EC011602"
+                    }, {
+                        "name": "Аксессуары для кондиционирования воздуха",
+                        "nameTranslit": "aksessuary-dlya-kondicionirovaniya-vozduha",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015230/EC011603/photos/eef4929c93558081d0d2fdcd54250610.png",
+                        "URL": "https://etipro.ru/catalogs/EG015230/EC011603"
+                    }
+                ]
+            },
+            "ochistka-vozduha": {
+                "name": "Очистка воздуха",
+                "nameTranslit": "ochistka-vozduha",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015170/photos/59f1def33ce603fea7452357457f6755.jpg",
+                "items": [
+                    {
+                        "name": "Осушитель/ Увлажнитель/ Освежитель воздуха",
+                        "nameTranslit": "osushitel-uvlazhnitel-osvezhitel-vozduha",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000043/EC000606/photos/da8f45533f7fd46b13d23ab51966b333.png",
+                        "URL": "https://etipro.ru/catalogs/EG015170/EC000606"
+                    }, {
+                        "name": "Аксессуары для увлажнителей",
+                        "nameTranslit": "aksessuary-dlya-uvlazhniteley",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015170/EC011660/photos/b62f228111313ba5191417a46b4bc182.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015170/EC011660"
+                    }
+                ]
+            },
+            "ustanovki-dlya-vvoda-vyvoda-vozduha": {
+                "name": "Установки для ввода / вывода воздуха",
+                "nameTranslit": "ustanovki-dlya-vvoda-vyvoda-vozduha",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015240/photos/63d88990dbfa949357d702237c340522.jpg",
+                "items": [
+                    {
+                        "name": "Электрическая завеса",
+                        "nameTranslit": "elektricheskaya-zavesa",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015240/EC010007/photos/1cae89350950f6a11e4127de81404f92.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015240/EC010007"
+                    }, {
+                        "name": "Наружная решетка",
+                        "nameTranslit": "naruzhnaya-reshetka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015240/EC010275/photos/93a5652495085be02231876cab42c40c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015240/EC010275"
+                    }, {
+                        "name": "Аксессуары для воздушной завесы",
+                        "nameTranslit": "aksessuary-dlya-vozdushnoy-zavesy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015240/EC011485/photos/bba3a54eac5dfae9590304bb004aebbc.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015240/EC011485"
+                    }, {
+                        "name": "Вентиляционный клапан",
+                        "nameTranslit": "ventilyacionnyy-klapan",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015240/EC011497/photos/0983054edfdcd6f6ec77fa09174a05e8.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015240/EC011497"
+                    }
+                ]
+            },
+            "teploobmenniki": {
+                "name": "Теплообменники",
+                "nameTranslit": "teploobmenniki",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015220/photos/d87383b948c10ea8e3175ab387910d8b.jpg",
+                "items": []
+            },
+            "chehly-lyuki-i-vytyazhki": {
+                "name": "Чехлы, люки и вытяжки",
+                "nameTranslit": "chehly-lyuki-i-vytyazhki",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015580/photos/c8caa272d27316f1bb457d97e5383154.jpg",
+                "items": []
+            },
+            "zapasnye-chasti-dlya-kotlov-i-nagrevateley": {
+                "name": "Запасные части для котлов и нагревателей",
+                "nameTranslit": "zapasnye-chasti-dlya-kotlov-i-nagrevateley",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015280/photos/9ae184c2f0fcab8e99658c3676d969ee.jpg",
+                "items": []
+            },
+            "radiatornye-krepleniya": {
+                "name": "Радиаторные крепления",
+                "nameTranslit": "radiatornye-krepleniya",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG019490/photos/cd5e7988f1519942e78b9e65212e9402.jpg",
+                "items": []
+            }
+        },
+    },
+    "Plumbing-equipment": {
+        "name": "Сантехническое оборудование",
+        "items": {
+            "santehnicheskie-smesiteli-krany": {
+                "name": "Сантехнические  смесители, краны",
+                "nameTranslit": "santehnicheskie-smesiteli-krany",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG017610/photos/2db6363217137a40f592e8eaa98b41ae.jpeg",
+                "items": [
+                    {
+                        "name": "Смеситель для кухни",
+                        "nameTranslit": "smesitel-dlya-kuhni",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG017610/EC011431/photos/c46a3626eee418713729b74c1d08ba1b.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG017610/EC011431"
+                    }, {
+                        "name": "Смеситель для ванны",
+                        "nameTranslit": "smesitel-dlya-vanny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG017610/EC010862/photos/198ab10a7dde3c91bd3fbccbaf9d262d.png",
+                        "URL": "https://etipro.ru/catalogs/EG017610/EC010862"
+                    }, {
+                        "name": "Смеситель для раковины",
+                        "nameTranslit": "smesitel-dlya-rakoviny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG017610/EC011328/photos/810ca82ef9ff5d153d3fad0e7b9f9c0e.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG017610/EC011328"
+                    }, {
+                        "name": "Смеситель для душевой",
+                        "nameTranslit": "smesitel-dlya-dushevoy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG017610/EC011329/photos/681a28335ce44d96ac072d5eff66b8d5.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG017610/EC011329"
+                    }, {
+                        "name": "Автоматический кран",
+                        "nameTranslit": "avtomaticheskiy-kran",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG017610/EC010340/photos/f7f6d6377977d1a978e19943251ce855.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG017610/EC010340"
+                    }
+                ]
+            },
+            "dushi-dushevye": {
+                "name": "Души, душевые",
+                "nameTranslit": "dushi-dushevye",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG017640/photos/c0715eb782185d7dc7ccf9725348f075.jpg",
+                "items": []
+            },
+            "aksessuary-dlya-vannoy-komnaty-i-tualeta-furnitura": {
+                "name": "Аксессуары для ванной комнаты и туалета / фурнитура",
+                "nameTranslit": "aksessuary-dlya-vannoy-komnaty-i-tualeta-furnitura",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG017210/photos/45298537cfbf2249c228a1622dd3a8c6.jpg",
+                "items": [
+                    {
+                        "name": "Свободные компоненты, ручка для сантехнических изделий",
+                        "img": "/image/Svobodnye-komponenty,-ruchka-dlja-santehnicheskih-izdelij.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG017210/EC011306"
+                    },
+                ]
+            },
+            "zapasnye-chasti-dlya-santehnicheskih-kranov": {
+                "name": "Запасные части для сантехнических кранов",
+                "nameTranslit": "zapasnye-chasti-dlya-santehnicheskih-kranov",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG017620/photos/0f6ceb423b2f1056692ff9d2b1c7f593.jpg",
+                "items": []
+            },
+            "aksessuary-dlya-santehnicheskih-kranov": {
+                "name": "Аксессуары для сантехнических кранов",
+                "nameTranslit": "aksessuary-dlya-santehnicheskih-kranov",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG017630/photos/1413dc232d29a542f771a50307c33a86.jpg",
+                "items": []
+            },
+            "aksessuary-dlya-santehniki": {
+                "name": "Аксессуары для сантехники",
+                "nameTranslit": "aksessuary-dlya-santehniki",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG017910/photos/13b36235bbba74425a4015d0c21639ff.jpg",
+                "items": []
+            },
+            "stroitelnye-sistemy-installyacii-dlya-sanuzlov": {
+                "name": "Строительные системы/инсталляции  для санузлов",
+                "nameTranslit": "stroitelnye-sistemy-installyacii-dlya-sanuzlov",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG017970/photos/1a6ca8e628efe00b8fbb20b6df104aed.jpg",
+                "items": []
+            },
+            "smyvatelnye-baki": {
+                "name": "Смывательные баки",
+                "nameTranslit": "smyvatelnye-baki",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG017120/photos/4d6ef91ffd96e5a55caafb97981f08e9.jpg",
+                "items": []
+            },
+            "montazhnye-ramy-dlya-priemnyh-ustroystv-kranov": {
+                "name": "Монтажные рамы для приемных устройств / кранов",
+                "nameTranslit": "montazhnye-ramy-dlya-priemnyh-ustroystv-kranov",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG017130/photos/2f27f6357b7164b953bc641bb0245968.jpg",
+                "items": []
+            },
+            "dushevye-peregorodki-i-kabiny": {
+                "name": "Душевые  перегородки и кабины",
+                "nameTranslit": "dushevye-peregorodki-i-kabiny",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG017920/photos/3614f00fc16e70652bf64a17c7cb028c.jpg",
+                "items": []
+            },
+            "mebel-i-furnitura": {
+                "name": "Мебель и фурнитура",
+                "nameTranslit": "mebel-i-furnitura",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG017960/photos/b647e3e829284e1a8bf059504e1e09fb.jpg",
+                "items": []
+            },
+            "zamki-i-petli": {
+                "name": "Замки и петли",
+                "nameTranslit": "zamki-i-petli",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG019480/photos/5fc204358be4c0152a11339fb0141606.jpg",
+                "items": []
+            }
+        },
+    },
+    "Tools-appliances-fasteners": {
+        "name": "Инструменты, приборы, крепеж",
+        "items": {
+            "kabelnye-nakonechniki-gilzy": {
+                "name": "Кабельные наконечники, гильзы",
+                "nameTranslit": "kabelnye-nakonechniki-gilzy",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/SG000013/photos/e67d0628767842e4a8209120106040f6.jpg",
+                "items": []
+            },
+            "kabelnye-mufty-markirovka-aksessuary": {
+                "name": "Кабельные муфты, маркировка, аксессуары",
+                "nameTranslit": "kabelnye-mufty-markirovka-aksessuary",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/SG000014/photos/54e91ba3017034028c5a526177c46b93.jpg",
+                "items": []
+            },
+            "izolyacionnye-soedinitelnye-i-montazhnye-materialy": {
+                "name": "Изоляционные, соединительные и монтажные материалы",
+                "nameTranslit": "izolyacionnye-soedinitelnye-i-montazhnye-materialy",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/photos/17318b6662ca42fc647dbfdd7b7c4b97.jpeg",
+                "items": []
+            },
+            "klemmy-montazhnye": {
+                "name": "Клеммы монтажные",
+                "nameTranslit": "klemmy-montazhnye",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/SG000015/photos/ff633c98548ff5fbbb2a365d85acb244.jpg",
+                "items": []
+            },
+            "ruchnoy-instrument-obschego-naznacheniya": {
+                "name": "Ручной инструмент общего назначения",
+                "nameTranslit": "ruchnoy-instrument-obschego-naznacheniya",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/photos/a99cae40b707a9c2b5ac9d52862209d3.jpg",
+                "items": []
+            },
+            "armatura-sip-i-krepezh-dlya-kabelya": {
+                "name": "Арматура СИП и крепеж для кабеля",
+                "nameTranslit": "armatura-sip-i-krepezh-dlya-kabelya",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG000010/photos/2bd74f09d39a3dabd8ad29f5279cc926.png",
+                "items": []
+            },
+            "krepezhnye-elementy-metizy": {
+                "name": "Крепёжные элементы, метизы",
+                "nameTranslit": "krepezhnye-elementy-metizy",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/photos/f817db07c465b2c13e4bee92775e83a9.jpg",
+                "items": []
+            },
+            "zazemlenie-i-molniezaschita": {
+                "name": "Заземление и молниезащита",
+                "nameTranslit": "zazemlenie-i-molniezaschita",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/photos/5ae8730bb80cb91e48b5d642572b5d95.jpg",
+                "items": []
+            },
+            "elektroinstrument-i-aksessuary": {
+                "name": "Электроинструмент и аксессуары",
+                "nameTranslit": "elektroinstrument-i-aksessuary",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/photos/febe3095006cd7864c445d4d98ded3c1.jpg",
+                "items": []
+            },
+            "instrumenty-dlya-opressovki-rezki-i-izolyacii": {
+                "name": "Инструменты для опрессовки, резки и изоляции",
+                "nameTranslit": "instrumenty-dlya-opressovki-rezki-i-izolyacii",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG000052/photos/3fc5c83c21d0eade4008bbb2f871ede0.jpg",
+                "items": []
+            },
+            "izmeritelnye-pribory-i-testery": {
+                "name": "Измерительные приборы и тестеры",
+                "nameTranslit": "izmeritelnye-pribory-i-testery",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG000044/photos/7e700ead7cdeb0399117f1972f3aea84.jpg",
+                "items": []
+            },
+            "aksessuary-dlya-elektroinstrumentov": {
+                "name": "Аксессуары для электроинструментов",
+                "nameTranslit": "aksessuary-dlya-elektroinstrumentov",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG020002/photos/0a3406345d84a0859e07fb579e0b5f01.jpg",
+                "items": []
+            },
+            "rashodnye-instrumenty": {
+                "name": "Расходные инструменты",
+                "nameTranslit": "rashodnye-instrumenty",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG010210/photos/6e46ade58d6deb8eadcf983ca88a2f83.jpg",
+                "items": []
+            },
+            "vspomogatelnyy-material": {
+                "name": "Вспомогательный материал",
+                "nameTranslit": "vspomogatelnyy-material",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG000060/photos/ee0e6fb19ba09cbbc2fe74cafdb88141.jpg",
+                "items": []
+            },
+            "ustroystva-zaschity-i-bezopasnosti": {
+                "name": "Устройства защиты и безопасности",
+                "nameTranslit": "ustroystva-zaschity-i-bezopasnosti",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG000059/photos/ca0ea917d4e902a60ea85a0114fc6012.jpg",
+                "items": []
+            },
+            "payalnoe-oborudovanie-i-rashodnye-materialy": {
+                "name": "Паяльное оборудование и расходные материалы",
+                "nameTranslit": "payalnoe-oborudovanie-i-rashodnye-materialy",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG010170/photos/4c8151453722684b91ec3cea25d1ca66.jpg",
+                "items": []
+            },
+            "vspomogatelnye-instrumenty": {
+                "name": "Вспомогательные инструменты",
+                "nameTranslit": "vspomogatelnye-instrumenty",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG010220/photos/b1830aff7bc6a98707b342e11b7bd0e2.jpg",
+                "items": []
+            },
+            "gruzopodemnoe-oborudovanie": {
+                "name": "Грузоподъемное оборудование",
+                "nameTranslit": "gruzopodemnoe-oborudovanie",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG010320/photos/8d0aa4a0eaa3b4c5afabf1ca8b424073.jpg",
+                "items": []
+            },
+            "zavodskoe-oborudovanie": {
+                "name": "Заводское оборудование",
+                "nameTranslit": "zavodskoe-oborudovanie",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG020000/photos/783eff43e00a8c67a383079333687899.jpg",
+                "items": []
+            },
+            "rabochee-oborudovanie": {
+                "name": "Рабочее оборудование",
+                "nameTranslit": "rabochee-oborudovanie",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG010330/photos/00457fdb789b3761cc76ad8d8de86782.png",
+                "items": []
+            },
+            "ispytatelnoe-oborudovanie": {
+                "name": "Испытательное оборудование",
+                "nameTranslit": "ispytatelnoe-oborudovanie",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG010400/photos/8320bd18498360497368f7c97dc7717c.jpg",
+                "items": []
+            },
+            "komplektuyuschie-dlya-morskogo-avtomobilnogo-napravleniya": {
+                "name": "Комплектующие для морского, автомобильного направления",
+                "nameTranslit": "komplektuyuschie-dlya-morskogo-avtomobilnogo-napravleniya",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG014000/photos/c78c50bb9c70578c0182e7c1bb1216ae.jpg",
+                "items": []
+            },
+            "uplotnitelnye-kolca-i-vtulki": {
+                "name": "Уплотнительные кольца и втулки",
+                "nameTranslit": "uplotnitelnye-kolca-i-vtulki",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015910/photos/708a8c21a30779939eea9b1460b35999.png",
+                "items": []
+            },
+            "roliki-i-profilya": {
+                "name": "Ролики и профиля",
+                "nameTranslit": "roliki-i-profilya",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015920/photos/ea92feff0022d11fb0e734f97b491950.jpg",
+                "items": []
+            },
+            "elementy-tehnicheskogo-osnascheniya": {
+                "name": "Элементы технического оснащения",
+                "nameTranslit": "elementy-tehnicheskogo-osnascheniya",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015930/photos/ccbed3d0658f7389ec9c6f6378ab2095.jpg",
+                "items": []
+            },
+            "remni-privoda": {
+                "name": "Ремни привода",
+                "nameTranslit": "remni-privoda",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG019910/photos/6bdfc311acea6e8fe7f61385ae95f367.jpg",
+                "items": []
+            }
+        },
+    },
 
 
     // шаблон

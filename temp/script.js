@@ -2,7 +2,7 @@
 
 let divRow = document.querySelectorAll('.col.mb-4'),
     arr = {},
-    massiv = [];
+    massiv = {};
 
 function translit(word) {
     let converter = {
@@ -35,8 +35,9 @@ function translit(word) {
 console.log(divRow);
 
 divRow.forEach((item) => {
+    let mov = {};
     arr = {};
-    console.log(item);
+    // console.log(item);
     // console.log(name);
     // console.log(img);
     // console.log(url);
@@ -52,13 +53,17 @@ divRow.forEach((item) => {
     arr['name'] = name;
     arr['nameTranslit'] = nameTraslit;
     arr['img'] = img;
-    arr['URL'] = url;
+    arr['items'] = [];
+    // arr['URL'] = url;
 
+    // mov[nameTraslit] = arr;
 
-    massiv.push(arr);
+    // massiv.push(mov);
+    massiv[nameTraslit] = arr;
+
 });
 
-// console.log(massiv);
+console.log(massiv);
 
 let json = JSON.stringify(massiv);
 
