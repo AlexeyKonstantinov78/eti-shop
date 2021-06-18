@@ -22,6 +22,42 @@ const searchElemP = () => {
     }
 };
 
+
+
+// проверка на наличеие
+const check = (id) => {
+    let arrCheck = {},
+        bolleans = false;
+
+    for (let key in dataDb) {
+
+        arrCheck[key] = dataDb[key]['name'];
+
+        for (let key2 in dataDb[key]['items']) {
+
+            arrCheck[key2] = dataDb[key]['items'][key2]['items'];
+
+        }
+
+    }
+
+
+    for (let key in arrCheck) {
+
+        if (key.includes(id) && arrCheck[key]) {
+            console.log('esti' + " : " + key + ' : ' + arrCheck[key]);
+
+
+            bolleans = true;
+        }
+
+    }
+
+    //console.log(arrCheck);
+
+    return bolleans;
+};
+
 // рендер входит до 3 вложения дальше ошибка
 const render = (naimId, sbros = false) => {
     let dbLoop = '',
@@ -70,9 +106,12 @@ const render = (naimId, sbros = false) => {
     row.classList.add('row', 'justify-content-start', 'items');
 
     for (let key in dbLoop) {
+        ahref = '#';
 
         if (dbLoop[key].URL) {
+            // console.log(dbLoop[key].items[0]['name']);
             ahref = dbLoop[key].URL;
+            // console.log(ahref);
         }
 
         row.innerHTML += `
@@ -134,16 +173,25 @@ bottomUpArrow.addEventListener('click', function (e) {
 
 // функция запуска слушателя на карточку
 function addEventCart() {
-    itemCard = main.querySelectorAll('.item-card');
+    itemCard = main.querySelectorAll('.item-card'),
+        main = document.querySelector('.main');
+
 
     itemCard.forEach(item => {
+
         item.addEventListener('click', (event) => {
+
+
             if (item.querySelector('.item').id) {
+                //if (check(item.querySelector('.item').id)) {
                 event.preventDefault();
                 let naimId = item.querySelector('.item').id;
                 render(naimId);
+                //}
+
             }
         });
+
     });
 }
 

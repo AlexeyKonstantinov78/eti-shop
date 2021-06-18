@@ -1,21 +1,51 @@
 [{
-    "name": "Кабель-канал перфорированный",
-    "nameTranslit": "kabel-kanal-perforirovannyy",
-    "img": "https://vendor-catalog.smart-shop.pro/storage/EG000007/EC000012/photos/86b054c3af2ce64835b91a7640413764.jpg",
-    "URL": "https://etipro.ru/catalogs/EG000007/EC000012"
+    "name": "Реле",
+    "nameTranslit": "rele",
+    "img": "https://vendor-catalog.smart-shop.pro/storage/EG000019/photos/a9a6503a0faf38d663288a3cb1b15888.jpg",
+    "URL": "https://etipro.ru/catalogs/EG000019"
 }, {
-    "name": "Крышка перфорированного кабель-канала",
-    "nameTranslit": "kryshka-perforirovannogo-kabel-kanala",
-    "img": "https://vendor-catalog.smart-shop.pro/storage/EG000007/EC000727/photos/8793b275ad7d9f32d1c1fb0435a12d2e.png",
-    "URL": "https://etipro.ru/catalogs/EG000007/EC000727"
+    "name": "Программируемые логические контроллеры (ПЛК)",
+    "nameTranslit": "programmiruemye-logicheskie-kontrollery-plk",
+    "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/photos/f79ca64489311ff7ad90a77a5cf18d45.jpg",
+    "URL": "https://etipro.ru/catalogs/EG000024"
 }, {
-    "name": "Зажим/ держатель/ фиксатор кабеля для перфорированного кабель-канала",
-    "nameTranslit": "zazhim-derzhatel-fiksator-kabelya-dlya-perforirovannogo-kabel-kanala",
-    "img": "https://vendor-catalog.smart-shop.pro/storage/EG000007/EC001018/photos/c5bf141c95f17a9ead203f0b27adc48a.jpg",
-    "URL": "https://etipro.ru/catalogs/EG000007/EC001018"
+    "name": "Датчики (сенсоры)",
+    "nameTranslit": "datchiki-sensory",
+    "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/photos/d222d9afd276c7059c018e7f02dc0c15.jpg",
+    "URL": "https://etipro.ru/catalogs/EG000026"
 }, {
-    "name": "Торцевая пластина/ заглушка для перфорированного кабель-канала",
-    "nameTranslit": "torcevaya-plastina-zaglushka-dlya-perforirovannogo-kabel-kanala",
-    "img": "https://vendor-catalog.smart-shop.pro/storage/EG000007/EC000726/photos/f06b94340295201143f01d055a10ea69.jpg",
-    "URL": "https://etipro.ru/catalogs/EG000007/EC000726"
+    "name": "Штеккеры для подключения электропитания",
+    "nameTranslit": "shtekkery-dlya-podklyucheniya-elektropitaniya",
+    "img": "https://vendor-catalog.smart-shop.pro/storage/EG000057/photos/83f163d5ed6c6a627ca6f371e1cd1b9f.jpg",
+    "URL": "https://etipro.ru/catalogs/EG000057"
+}, {
+    "name": "Разъемы штекерные промышленные",
+    "nameTranslit": "razemy-shtekernye-promyshlennye",
+    "img": "https://vendor-catalog.smart-shop.pro/storage/EG000058/photos/e1afcc052e078c1bd7a642f619614b7e.jpg",
+    "URL": "https://etipro.ru/catalogs/EG000058"
+}, {
+    "name": "Управление обработкой сигналов",
+    "nameTranslit": "upravlenie-obrabotkoy-signalov",
+    "img": "https://vendor-catalog.smart-shop.pro/storage/EG015850/photos/ac5ffe7d876f88f866c8128757da6484.jpg",
+    "URL": "https://etipro.ru/catalogs/EG015850"
+}, {
+    "name": "Аксессуары для измерительных и контрольных приборов",
+    "nameTranslit": "aksessuary-dlya-izmeritelnyh-i-kontrolnyh-priborov",
+    "img": "https://vendor-catalog.smart-shop.pro/storage/EG015870/photos/0c149f50549948cd01ee44ab1c6d64ad.jpg",
+    "URL": "https://etipro.ru/catalogs/EG015870"
+}, {
+    "name": "Запасные части для измерительных и контрольных приборов",
+    "nameTranslit": "zapasnye-chasti-dlya-izmeritelnyh-i-kontrolnyh-priborov",
+    "img": "https://vendor-catalog.smart-shop.pro/storage/EG015880/photos/45167c879d1b69769714ffa00d428c57.jpg",
+    "URL": "https://etipro.ru/catalogs/EG015880"
+}, {
+    "name": "Оборудование связи",
+    "nameTranslit": "oborudovanie-svyazi",
+    "img": "https://vendor-catalog.smart-shop.pro/storage/EG016740/photos/c52f33231f3ff90e34806b6b5bfc510e.jpg",
+    "URL": "https://etipro.ru/catalogs/EG016740"
+}, {
+    "name": "Передача сигналов",
+    "nameTranslit": "peredacha-signalov",
+    "img": "https://vendor-catalog.smart-shop.pro/storage/EG016760/photos/d5c7678bc4674a2ab6a36c63697059f3.jpg",
+    "URL": "https://etipro.ru/catalogs/EG016760"
 }]

@@ -2994,6 +2994,1569 @@ const dataDb = {
             },
         },
     },
+    "proizvodstvo-shitovogo-oborudovania": {
+        "name": "Производство щитового оборудования по Вашему заказу",
+        "items": {
+            "komplektnye-transformatornye-podstancii": {
+                "name": "Комплектные трансформаторные подстанции",
+                "nameTranslit": "komplektnye-transformatornye-podstancii",
+                "img": "/image/komplektnye-transformatornye-podstancii.jpg",
+                // "URL": "https://etipro.ru/catalogs/SG000029",
+                "items": [
+
+                ],
+            },
+            "vvodno-raspredelitelnye-ustroystva-i-shkafy-upravleniya-elektrodvigatelyami": {
+                "name": "Вводно-распределительные устройства и шкафы управления электродвигателями",
+                "nameTranslit": "vvodno-raspredelitelnye-ustroystva-i-shkafy-upravleniya-elektrodvigatelyami",
+                "img": "/image/vvodno-raspredelitelnye-ustroystva-i-shkafy-upravleniya-elektrodvigatelyami.jpg",
+                // "URL": "https://etipro.ru/catalogs/SG000032",
+                "items": [
+                    {
+                        "name": "Вводно-распределительные устройства",
+                        "img": "/image/Vvodno-raspredelitelnye-ustrojstva.png",
+                        "URL": "https://etipro.ru/catalogs/SG000032/SC000126"
+                    }
+                ],
+            },
+            "nizkovoltnye-komplektnye-ustroystva": {             //заполняется английскими буквами втсавляется как id  
+                "name": "Низковольтные комплектные устройства",
+                "nameTranslit": "nizkovoltnye-komplektnye-ustroystva",
+                "img": "/image/nizkovoltnye-komplektnye-ustroystva.png",
+                // "URL": "https://etipro.ru/catalogs/SG000031",
+                "items": [
+                    {
+                        "name": "Панели одностороннего обслуживания",
+                        "nameTranslit": "paneli-odnostoronnego-obsluzhivaniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000031/SC000120/photos/a52137dd3de9c31221d31e234f1dc7cc.png",
+                        "URL": "https://etipro.ru/catalogs/SG000031/SC000120"
+                    },
+                    {
+                        "name": "Шкафы автоматического включения резерва (АВР)",
+                        "nameTranslit": "shkafy-avtomaticheskogo-vklyucheniya-rezerva-avr",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000031/SC000123/photos/bc9baf45bb9dc97659d706b2c3efb5bd.png",
+                        "URL": "https://etipro.ru/catalogs/SG000031/SC000123"
+                    },
+                ],
+            },
+            "oborudovanie-dlya-transformatornyh-podstanciy-6-10-kv": {             //заполняется английскими буквами втсавляется как id  
+                "name": "Оборудование для трансформаторных подстанций (6-10 кВ)",
+                "nameTranslit": "oborudovanie-dlya-transformatornyh-podstanciy-6-10-kv",
+                "img": "/image/oborudovanie-dlya-transformatornyh-podstanciy-6-10-kv.png",
+                // "URL": "https://etipro.ru/catalogs/SG000030",
+                "items": [
+
+                ],
+            },
+        },
+    },
+    "High-voltage-equipment": {
+        "name": "Высоковольтное оборудование",
+        "items": {
+            "Vysokovoltnye-raspredelitelnye-sistemy": {             //заполняется английскими буквами втсавляется как id  
+                "name": "Высоковольтные распределительные системы",
+                "img": "/image/Vysokovoltnye-raspredelitelnye-sistemy.jpg",
+                "items": [
+                    {
+                        "name": "Высоковольтный разъединитель",
+                        "nameTranslit": "vysokovoltnyy-razedinitel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020001/EC003509/photos/f49974912af615fc730f90b30d91a9a3.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG020001/EC003509"
+                    }, {
+                        "name": "Высоковольтный изолятор",
+                        "nameTranslit": "vysokovoltnyy-izolyator",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020001/EC003514/photos/79c9ee834d1b19d268ce3520e11d3390.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG020001/EC003514"
+                    }, {
+                        "name": "Распределительный трансформатор",
+                        "nameTranslit": "raspredelitelnyy-transformator",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020001/EC003522/photos/6cf047e0cddaa3c5503cb40849ba7349.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG020001/EC003522"
+                    }, {
+                        "name": "Аксессуары для распределительного трансформатора",
+                        "nameTranslit": "aksessuary-dlya-raspredelitelnogo-transformatora",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020001/EC003532/photos/f6553465045d817df4c7c70d8f6e83db.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG020001/EC003532"
+                    }
+                ],
+            },
+        },
+    },
+    "Electrical-products-installation-systems": {
+        "name": "Электроизделия, установочные системы",
+        "items": {
+            "elektroustanovochnye-izdeliya": {             //заполняется английскими буквами втсавляется как id  
+                "name": "Электроустановочные изделия",
+                "nameTranslit": "elektroustanovochnye-izdeliya",
+                "img": "/image/elektroustanovochnye-izdeliya.jpg",
+                "items": [
+                    {
+                        "name": "Выключатель / Переключатель",
+                        "nameTranslit": "vyklyuchatel-pereklyuchatel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC001590/photos/ba55043be8e3bf10e2ac8fc52a7b94d6.png",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC001590"
+                    }, {
+                        "name": "Розетка силовая",
+                        "nameTranslit": "rozetka-silovaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000125/photos/6f441b3c99d546caecbce9de5817e2f9.png",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000125"
+                    }, {
+                        "name": "Рамка для электроустановочных устройств",
+                        "nameTranslit": "ramka-dlya-elektroustanovochnyh-ustroystv",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000007/photos/5daf364d99055095b25f7b101ce5a4f8.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000007"
+                    }, {
+                        "name": "Блок комбинированный (комбинация выключателя и розеток)",
+                        "nameTranslit": "blok-kombinirovannyy-kombinaciya-vyklyuchatelya-i-rozetok",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000020/photos/dbfb81852bb7aaea65245bf88e6722ca.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000020"
+                    }, {
+                        "name": "Накладка для выключателей/ диммеров/ жалюзийных переключателей/ таймеров",
+                        "nameTranslit": "nakladka-dlya-vyklyuchateley-dimmerov-zhalyuziynyh-pereklyuchateley-taymerov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000011/photos/31cae5166846f51ca5cfb533f5de47b1.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000011"
+                    }, {
+                        "name": "Кнопка / Кнопочный выключатель",
+                        "nameTranslit": "knopka-knopochnyy-vyklyuchatel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000029/photos/59f402b33d59a0008bf2c910f30e7b44.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000029"
+                    }, {
+                        "name": "Розетка компьютерная/телефонная",
+                        "nameTranslit": "rozetka-kompyuternaya-telefonnaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000018/photos/76ea2b881902e412760ca9fae68cd39b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000018"
+                    }, {
+                        "name": "Розетка антенная (TV/ТВ/SAT/FM/R/Радио)",
+                        "nameTranslit": "rozetka-antennaya-tv-tv-sat-fm-r-radio",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000439/photos/ff5cfdef3f74e279dfa712192caacedd.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000439"
+                    }, {
+                        "name": "USB розетка",
+                        "nameTranslit": "usb-rozetka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC002949/photos/6534ddd9a3d44765f5ecd6d0a0fe2432.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC002949"
+                    }, {
+                        "name": "Диммер (светорегулятор)",
+                        "nameTranslit": "dimmer-svetoregulyator",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000025/photos/bc9e16ae8d51dffb284d339044879f60.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000025"
+                    }, {
+                        "name": "Корпус (адаптер) для накладного монтажа ЭУИ скрытой установки",
+                        "nameTranslit": "korpus-adapter-dlya-nakladnogo-montazha-eui-skrytoy-ustanovki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000080/photos/f3c992cd1caf4de2e0066cc298c337e0.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000080"
+                    }, {
+                        "name": "Декоративный элемент/ вставка/ накладка для электроустановочных изделий",
+                        "nameTranslit": "dekorativnyy-element-vstavka-nakladka-dlya-elektroustanovochnyh-izdeliy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000193/photos/5d051deb8a6d5298c35557989b592419.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000193"
+                    }, {
+                        "name": "Жалюзийный выключатель/ переключатель/ кнопка",
+                        "nameTranslit": "zhalyuziynyy-vyklyuchatel-pereklyuchatel-knopka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000044/photos/a0930e1535868630f43c73d7128c5f79.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000044"
+                    }, {
+                        "name": "Устройство управления рольставнями/жалюзи",
+                        "nameTranslit": "ustroystvo-upravleniya-rolstavnyami-zhalyuzi",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000615/photos/cbf7ba1e3a7cd334182f99f779553097.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000615"
+                    }, {
+                        "name": "Миниатюрный выключатель/ переключатель/ кнопка",
+                        "nameTranslit": "miniatyurnyy-vyklyuchatel-pereklyuchatel-knopka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000443/photos/dfb304cfed438ab8ea6cd473ec9361af.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000443"
+                    }, {
+                        "name": "Шнуровой выключатель / светорегулятор (диммер)",
+                        "nameTranslit": "shnurovoy-vyklyuchatel-svetoregulyator-dimmer",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000445/photos/646c085203bb7bca138e1443d1abb9de.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000445"
+                    }, {
+                        "name": "Датчик движения/присутствия в сборе",
+                        "nameTranslit": "datchik-dvizheniya-prisutstviya-v-sbore",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000133/photos/46f4c8d2dfcbcac8dd92e12f3dabbcba.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000133"
+                    }, {
+                        "name": "Удлинитель кабельный на катушке/барабане",
+                        "nameTranslit": "udlinitel-kabelnyy-na-katushke-barabane",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020002/EC000191/photos/4c7c7c4fe7fecb9c1cfb366e269835dd.png",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000191"
+                    }, {
+                        "name": "Удлинитель/ Колодка для удлинителя/ Блок розеток/ Разветвитель",
+                        "nameTranslit": "udlinitel-kolodka-dlya-udlinitelya-blok-rozetok-razvetvitel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000330/photos/23785bf4bec9cac0d1583294345a129a.png",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000330"
+                    }, {
+                        "name": "Шнур электропитания",
+                        "nameTranslit": "shnur-elektropitaniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000053/EC001576/photos/7c9d2affd8be6a1055ffe622ac264965.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC001576"
+                    }, {
+                        "name": "Сумеречный выключатель",
+                        "nameTranslit": "sumerechnyy-vyklyuchatel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000189/photos/dd7c4c8eeb2648869ec8a8d7a3d9963c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000189"
+                    }, {
+                        "name": "Усилитель мощности диммера",
+                        "nameTranslit": "usilitel-moschnosti-dimmera",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000235/photos/b429588de168da2aba7d6b47480261bc.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000235"
+                    }, {
+                        "name": "Настольный розеточный блок",
+                        "nameTranslit": "nastolnyy-rozetochnyy-blok",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC002759/photos/06c17c06513542e300f164802b986cc0.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC002759"
+                    }, {
+                        "name": "Передатчик / Пульт дистанционного управления электроустановочными изделиями",
+                        "nameTranslit": "peredatchik-pult-distancionnogo-upravleniya-elektroustanovochnymi-izdeliyami",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000257/photos/5c90083b5b78479bbdfb0bd307bdf3d7.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000257"
+                    }, {
+                        "name": "Переходник-адаптер для розеток различных стандартов (адаптер путешественника)",
+                        "nameTranslit": "perehodnik-adapter-dlya-rozetok-razlichnyh-standartov-adapter-puteshestvennika",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC001513/photos/141f4743c04d4ffc3f75883d69e26572.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC001513"
+                    }, {
+                        "name": "Переходник-адаптер/рамка промежуточная для электроустановочных устройств",
+                        "nameTranslit": "perehodnik-adapter-ramka-promezhutochnaya-dlya-elektroustanovochnyh-ustroystv",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000030/EC000401/photos/2ff69c93adde33430adc0c0dff7f554d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC002250"
+                    }, {
+                        "name": "Вставка (лампа) подсветки для электроустановочных изделий",
+                        "nameTranslit": "vstavka-lampa-podsvetki-dlya-elektroustanovochnyh-izdeliy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000199/photos/65cd79546c58bea0c718bed53a61ea7d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000199"
+                    }, {
+                        "name": "Маркировка/ табличка/ этикетка для электроустановочных изделий",
+                        "nameTranslit": "markirovka-tablichka-etiketka-dlya-elektroustanovochnyh-izdeliy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000141/photos/10b46bf960af41f34d666fb342697d9c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000141"
+                    }, {
+                        "name": "Аксессуары для электроустановочных изделий",
+                        "nameTranslit": "aksessuary-dlya-elektroustanovochnyh-izdeliy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC002554/photos/dbfd4ff165e58259802c4f9e22732e61.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC002554"
+                    }, {
+                        "name": "Разъем штепсельный (комплект розетка + вилка) с защитным контактом (SCHUKO)",
+                        "nameTranslit": "razem-shtepselnyy-komplekt-rozetka-vilka-s-zaschitnym-kontaktom-schuko",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC002460/photos/a2b6913710ca2b8506a1bfc4033be4fe.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC002460"
+                    }, {
+                        "name": "Комплектующие для розеток и вилок (SCHUKO)",
+                        "nameTranslit": "komplektuyuschie-dlya-rozetok-i-vilok-schuko",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC002461/photos/480b54f93f7ec8d37f1fc28e6730328b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC002461"
+                    }, {
+                        "name": "Суппорт/монтажное основание для ЭУИ скрытого монтажа",
+                        "nameTranslit": "support-montazhnoe-osnovanie-dlya-eui-skrytogo-montazha",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000006/EC000190/photos/1e642b3626409c475f8c71e55148e418.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000013"
+                    }, {
+                        "name": "Электронное электроустановочное устройство/ вставка",
+                        "nameTranslit": "elektronnoe-elektroustanovochnoe-ustroystvo-vstavka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000636/photos/2e0c387fdbf52b8d2c5388ebd7877d55.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000636"
+                    }, {
+                        "name": "Аудиосистема для электроустановочных устройств",
+                        "nameTranslit": "audiosistema-dlya-elektroustanovochnyh-ustroystv",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC002484/photos/fae97a2b8eb0f4726ee1f2f579ea6c22.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC002484"
+                    }, {
+                        "name": "Кабельный ввод для кабель-каналов",
+                        "nameTranslit": "kabelnyy-vvod-dlya-kabel-kanalov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000240/photos/d6bd4c2f040ab31589c0e905879ff01b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000240"
+                    }, {
+                        "name": "Запасные части для электроустановочных изделий",
+                        "nameTranslit": "zapasnye-chasti-dlya-elektroustanovochnyh-izdeliy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC002649/photos/2735c54125b6637924f0d24ba92549d7.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC002649"
+                    }, {
+                        "name": "Таймер электронный для ЭУИ",
+                        "nameTranslit": "taymer-elektronnyy-dlya-eui",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC001594/photos/9b93d1748e4b846b2a4caaf8190ee8d7.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC001594"
+                    }, {
+                        "name": "Таймер механический для ЭУИ",
+                        "nameTranslit": "taymer-mehanicheskiy-dlya-eui",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000107/photos/94b23d1cc36558052722aacf22c66d87.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000107"
+                    }, {
+                        "name": "Переключатель трёхпозиционный",
+                        "nameTranslit": "pereklyuchatel-trehpozicionnyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC001036/photos/f59c3b96a15240b23c5fce06227b9e35.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC001036"
+                    }, {
+                        "name": "Электроустановочное устройство информационной световой сигнализации",
+                        "nameTranslit": "elektroustanovochnoe-ustroystvo-informacionnoy-svetovoy-signalizacii",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000064/photos/9a3de36a13e8bf9a623d48e1c12c34ca.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000064"
+                    }, {
+                        "name": "Накладка датчика движения с линзой без механизма",
+                        "nameTranslit": "nakladka-datchika-dvizheniya-s-linzoy-bez-mehanizma",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000138/photos/aa5b1b6d8c86e607679881470c4f7013.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000138"
+                    }, {
+                        "name": "Розетка для электробритвы",
+                        "nameTranslit": "rozetka-dlya-elektrobritvy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000186/photos/dc7ed1af6d82cbf6053ba6c0aa4abbf3.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000186"
+                    }, {
+                        "name": "Интеллектуальный элемент управления",
+                        "nameTranslit": "intellektualnyy-element-upravleniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000205/photos/72e7850c9471ab09119e9db7d197519a.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000205"
+                    }, {
+                        "name": "Радиоприёмник",
+                        "nameTranslit": "radiopriemnik",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000436/photos/7e2a2923cff3ecd580cb7e98e8aa442f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000436"
+                    }, {
+                        "name": "Вставка/ заглушка для защиты (от) детей",
+                        "nameTranslit": "vstavka-zaglushka-dlya-zaschity-ot-detey",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000014/EC002313/photos/e44ace9eef54e601f97f1c38e8fe42a9.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000444"
+                    }, {
+                        "name": "Инфракрасный приёмник (ИК ДУ)",
+                        "nameTranslit": "infrakrasnyy-priemnik-ik-du",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000928/photos/f36f62854b9acfdc637c4388a989f86f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC000928"
+                    }, {
+                        "name": "Механизм (основа) датчика движения",
+                        "nameTranslit": "mehanizm-osnova-datchika-dvizheniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC001035/photos/b26a575a31582c9f89df94463d385938.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC001035"
+                    }, {
+                        "name": "Комплектующие для датчика движения",
+                        "nameTranslit": "komplektuyuschie-dlya-datchika-dvizheniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC001580/photos/ea97060f22f6447a381f1de248cf3d5e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC001580"
+                    }, {
+                        "name": "Выключатель с электронной коммутацией",
+                        "nameTranslit": "vyklyuchatel-s-elektronnoy-kommutaciey",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC001588/photos/773f4c289ca4516ab3674560fc1ab6bf.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC001588"
+                    }, {
+                        "name": "Розеточный таймер",
+                        "nameTranslit": "rozetochnyy-taymer",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000062/EC001664/photos/013454fd7e77c0cb76405a2b562a4fbf.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC001664"
+                    }, {
+                        "name": "Крепление (держатель) для маркеров/ этикеток/ ярлыков",
+                        "nameTranslit": "kreplenie-derzhatel-dlya-markerov-etiketok-yarlykov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC002248/photos/5848a02fe5600510d5b63fa02a6b34f3.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC002248"
+                    }, {
+                        "name": "Блок комбинированный - кнопка/ выключатель/ розетка",
+                        "nameTranslit": "blok-kombinirovannyy-knopka-vyklyuchatel-rozetka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000020/photos/66cc9ae11b35aaa3f5ed2d5cbfd78780.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC002846"
+                    }, {
+                        "name": "Держатель для домашнего коммутатора",
+                        "nameTranslit": "derzhatel-dlya-domashnego-kommutatora",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC002948/photos/f635860ad04f7f9ccc46dbbc85588522.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000013/EC002948"
+                    }
+                ],
+            },
+            "soedinitelnye-i-montazhnye-korobki": {             //заполняется английскими буквами втсавляется как id  
+                "name": "Соединительные и монтажные коробки",
+                "nameTranslit": "soedinitelnye-i-montazhnye-korobki",
+                "img": "/image/soedinitelnye-i-montazhnye-korobki.jpg",
+                "items": [
+                    {
+                        "name": "Коробка/корпус для наружного монтажа на стену/потолок",
+                        "nameTranslit": "korobka-korpus-dlya-naruzhnogo-montazha-na-stenu-potolok",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000048/EC002600/photos/09c156c4d8a629eb2a5eaf45b408d89c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000048/EC002600"
+                    }, {
+                        "name": "Коробка/корпус для скрытого монтажа в стене/потолке",
+                        "nameTranslit": "korobka-korpus-dlya-skrytogo-montazha-v-stene-potolke",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000048/EC002601/photos/4efe7a56d9634a48a7922e882fa3768e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000048/EC002601"
+                    }, {
+                        "name": "Соединительная/распаячная коробка (розетка) для подключения приборов",
+                        "nameTranslit": "soedinitelnaya-raspayachnaya-korobka-rozetka-dlya-podklyucheniya-priborov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000450/photos/22b63fb99e853eb0509498b0475e7c81.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000048/EC000450"
+                    }, {
+                        "name": "Крышка коробки/ оболочки для скрытого монтажа в стене/ потолке",
+                        "nameTranslit": "kryshka-korobki-obolochki-dlya-skrytogo-montazha-v-stene-potolke",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000048/EC002656/photos/564ab14fcac8cfbdfcddbbc41fc78ab8.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000048/EC002656"
+                    }, {
+                        "name": "Клеммная распределительная коробка/бокс",
+                        "nameTranslit": "klemmnaya-raspredelitelnaya-korobka-boks",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000048/EC002713/photos/bd17207e30e1128734c88c8361c1c109.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000048/EC002713"
+                    }, {
+                        "name": "Крышка коробки/ оболочки для наружного монтажа на стене/ потолке",
+                        "nameTranslit": "kryshka-korobki-obolochki-dlya-naruzhnogo-montazha-na-stene-potolke",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000048/EC002655/photos/9f09ce43f91928eeef7476d66b25fd42.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000048/EC002655"
+                    }, {
+                        "name": "Разделительная пластина для соединительной коробки",
+                        "nameTranslit": "razdelitelnaya-plastina-dlya-soedinitelnoy-korobki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000048/EC001793/photos/adfb8cf801950d390a72227c6aabba85.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG000048/EC001793"
+                    }, {
+                        "name": "Аксессуары для распределительных коробок/боксов для монтажа в стене/потолке",
+                        "nameTranslit": "aksessuary-dlya-raspredelitelnyh-korobok-boksov-dlya-montazha-v-stene-potolke",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000048/EC002328/photos/46785780065cb6ec96dd56d4f1a8b4fc.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000048/EC002328"
+                    }, {
+                        "name": "Вывод кабеля (розетка потолочная) для потолочных светильников",
+                        "nameTranslit": "vyvod-kabelya-rozetka-potolochnaya-dlya-potolochnyh-svetilnikov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000048/EC001796/photos/a928eab9b3ea6dd9b5fb5f50fdda9eb4.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000048/EC001796"
+                    }, {
+                        "name": "Компенсационное кольцо для штукатурки",
+                        "nameTranslit": "kompensacionnoe-kolco-dlya-shtukaturki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000048/EC000115/photos/01918f5e252d0346b92bbf1a10343c9f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000048/EC000115"
+                    }
+                ],
+            },
+            "razemy-silovye": {             //заполняется английскими буквами втсавляется как id  
+                "name": "Разъемы силовые",
+                "nameTranslit": "razemy-silovye",
+                "img": "/image/razemy-silovye.jpg",
+                "items": [
+                    {
+                        "name": "Розетка/вилка для электротехнического оборудования больших токов",
+                        "nameTranslit": "rozetka-vilka-dlya-elektrotehnicheskogo-oborudovaniya-bolshih-tokov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000014/EC001322/photos/e817727eefbd73abea9b04d9e66ba3b0.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000014/EC001322"
+                    }, {
+                        "name": "Вилка силовая (CEE) кабельная переносная",
+                        "nameTranslit": "vilka-silovaya-cee-kabelnaya-perenosnaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000014/EC000140/photos/a7a7aca1838ddc6da49aae56d90cdad4.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000014/EC000140"
+                    }, {
+                        "name": "Розетка силовая (CEE) кабельная переносная",
+                        "nameTranslit": "rozetka-silovaya-cee-kabelnaya-perenosnaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000014/EC001320/photos/0062397a51c48ffb44b94d97d0de69e0.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000014/EC001320"
+                    }, {
+                        "name": "Вилка силовая (CEE) стационарная для монтажа на поверхности/оборудовании",
+                        "nameTranslit": "vilka-silovaya-cee-stacionarnaya-dlya-montazha-na-poverhnosti-oborudovanii",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000014/EC001319/photos/6b8151ba746f75d0dcfa6aba034d02a6.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000014/EC001319"
+                    }, {
+                        "name": "Розетка силовая (CEE) стационарная",
+                        "nameTranslit": "rozetka-silovaya-cee-stacionarnaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000014/EC001321/photos/e17447a0f5a86da5a2d10424a079622a.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000014/EC001321"
+                    }, {
+                        "name": "Розетка силовая (CEE) панельная (фланцевая)",
+                        "nameTranslit": "rozetka-silovaya-cee-panelnaya-flancevaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000014/EC001317/photos/0a09c99983bdfce1aa24b42fd3e7c229.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000014/EC001317"
+                    }, {
+                        "name": "Вилка кабельная переносная",
+                        "nameTranslit": "vilka-kabelnaya-perenosnaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC000242/photos/9713026b5a69d3f5052d3ad23508c763.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000014/EC000242"
+                    }, {
+                        "name": "Розетка кабельная переносная",
+                        "nameTranslit": "rozetka-kabelnaya-perenosnaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC001327/photos/6fddb115181fbb21ad720f35ae46e22b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000014/EC001327"
+                    }, {
+                        "name": "Розетка панельная с заземляющим контактом (SCHUKO и др. европейские стандарты)",
+                        "nameTranslit": "rozetka-panelnaya-s-zazemlyayuschim-kontaktom-schuko-i-dr-evropeyskie-standarty",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC001325/photos/9264e03ee0b21dbe3cd8de77f548c87c.gif",
+                        "URL": "https://etipro.ru/catalogs/EG000014/EC001325"
+                    }, {
+                        "name": "Комбинация (модуль/комби-бокс) силовых розеток (CEE/Schuko)",
+                        "nameTranslit": "kombinaciya-modul-kombi-boks-silovyh-rozetok-cee-schuko",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000014/EC000379/photos/1392306f9800fa7adf61345f1b677293.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000014/EC000379"
+                    }, {
+                        "name": "Взрывобезопасный выключатель",
+                        "nameTranslit": "vzryvobezopasnyy-vyklyuchatel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000014/EC000522/photos/3bd06103b3a2c86bf5e1bc4340752768.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000014/EC000522"
+                    }, {
+                        "name": "Розетка для архитектурных решений IP44 (CEE/SCHUKO)",
+                        "nameTranslit": "rozetka-dlya-arhitekturnyh-resheniy-ip44-cee-schuko",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000014/EC001318/photos/e1c60311a23223a8e66eff449734ba42.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000014/EC001318"
+                    }, {
+                        "name": "Розетка силовая (CEE) отключаемая с предохранителем",
+                        "nameTranslit": "rozetka-silovaya-cee-otklyuchaemaya-s-predohranitelem",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000014/EC001324/photos/7e46a7d702cdd88cdd04827b39bbea4e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000014/EC001324"
+                    }, {
+                        "name": "Защитный колпак для вилок силовых (CEE)",
+                        "nameTranslit": "zaschitnyy-kolpak-dlya-vilok-silovyh-cee",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000014/EC002313/photos/a4e3c25f807f2c025daa7510094e5b98.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000014/EC002313"
+                    }, {
+                        "name": "Защитный замок для вилок силовых (CEE)",
+                        "nameTranslit": "zaschitnyy-zamok-dlya-vilok-silovyh-cee",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000014/EC002315/photos/ca16b7c14038c3b43eea8a4a111d1e10.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000014/EC002315"
+                    }, {
+                        "name": "Аксессуары для силовых вилок и розеток (CEE)",
+                        "nameTranslit": "aksessuary-dlya-silovyh-vilok-i-rozetok-cee",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000014/EC002838/photos/4e3558c840cb87ae4cf80ede20b2f618.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000014/EC002838"
+                    }
+                ],
+            },
+            "zvonki-peregovornye-ustroystva-domofoniya": {             //заполняется английскими буквами втсавляется как id  
+                "name": "Звонки, переговорные устройства, домофония",
+                "nameTranslit": "zvonki-peregovornye-ustroystva-domofoniya",
+                "img": "/image/zvonki-peregovornye-ustroystva-domofoniya.jpg",
+                "items": [
+                    {
+                        "name": "Дверное переговорное устройство/громкоговоритель",
+                        "nameTranslit": "dvernoe-peregovornoe-ustroystvo-gromkogovoritel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000036/EC000355/photos/1725470f9f9e5a483ea62556cfa6b852.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000036/EC000355"
+                    }, {
+                        "name": "Звонок",
+                        "nameTranslit": "zvonok",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000035/EC000131/photos/a4c67f7a6e3de0144bb2d573f01e54dc.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000036/EC000131"
+                    }, {
+                        "name": "Кнопка (нажимная) дверного звонка",
+                        "nameTranslit": "knopka-nazhimnaya-dvernogo-zvonka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000036/EC000132/photos/6aaa852e9031cedd6bdac32b6cd8988d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000036/EC000132"
+                    }, {
+                        "name": "Дверная панель / дверной функциональный модуль",
+                        "nameTranslit": "dvernaya-panel-dvernoy-funkcionalnyy-modul",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000036/EC000349/photos/48a13974558ac03b032f820850b00609.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000036/EC000349"
+                    }, {
+                        "name": "Монтажная рамка для дверной станции",
+                        "nameTranslit": "montazhnaya-ramka-dlya-dvernoy-stancii",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000036/EC000350/photos/5e10438a4c2f8d648e62c2f86540c6c0.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000036/EC000350"
+                    }, {
+                        "name": "Телефон для внутренней связи",
+                        "nameTranslit": "telefon-dlya-vnutrenney-svyazi",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000036/EC000779/photos/f5e73ebdae2961afb609330630d1fae3.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000036/EC000779"
+                    }, {
+                        "name": "Блок питания для домофона/видеодомофона",
+                        "nameTranslit": "blok-pitaniya-dlya-domofona-videodomofona",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000036/EC001089/photos/712667e9c44a3c0c98eea2df998858a4.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000036/EC001089"
+                    }, {
+                        "name": "Вспомогательное устройство для домофона/видеодомофона",
+                        "nameTranslit": "vspomogatelnoe-ustroystvo-dlya-domofona-videodomofona",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000036/EC001349/photos/bb8adc885f8b62f2876f617bbbd7adce.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000036/EC001349"
+                    }, {
+                        "name": "Модуль расширения для домофона/видеодомофона",
+                        "nameTranslit": "modul-rasshireniya-dlya-domofona-videodomofona",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000036/EC001352/photos/c92f52d3d1dd12a7899c7a0e165a33f4.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000036/EC001352"
+                    }, {
+                        "name": "Монитор для домофона/видеодомофона",
+                        "nameTranslit": "monitor-dlya-domofona-videodomofona",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000036/EC001359/photos/84a16e14ecaf566a7e881041d5d979ad.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000036/EC001359"
+                    }, {
+                        "name": "Дверной скользящий контакт",
+                        "nameTranslit": "dvernoy-skolzyaschiy-kontakt",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000036/EC001521/photos/c1de8261c6a6b33f185e7fd98d5f4ed1.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000036/EC001521"
+                    }, {
+                        "name": "Система внутренней связи",
+                        "nameTranslit": "sistema-vnutrenney-svyazi",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000036/EC003603/photos/046f985426aae49785cbd5c2adbfab95.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000036/EC003603"
+                    }
+                ],
+            },
+            "oborudovanie-dlya-informacionnoy-shiny": {             //заполняется английскими буквами втсавляется как id  
+                "name": "Оборудование для информационной шины",
+                "nameTranslit": "oborudovanie-dlya-informacionnoy-shiny",
+                "img": "/image/oborudovanie-dlya-informacionnoy-shiny.png",
+                "items": [
+                    {
+                        "name": "Диммер/светорегулятор шинной системы",
+                        "nameTranslit": "dimmer-svetoregulyator-shinnoy-sistemy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC001094/photos/7ebb7958784297ac4d0eb857d13d39a9.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC001094"
+                    }, {
+                        "name": "Шина передачи данных",
+                        "nameTranslit": "shina-peredachi-dannyh",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC000602/photos/8f8b7e546ec1d230fb296fac4f80c6bc.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC000602"
+                    }, {
+                        "name": "Коплер шинной системы",
+                        "nameTranslit": "kopler-shinnoy-sistemy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC000634/photos/6f31b3d35c5bb86436e87182c8edab61.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC000634"
+                    }, {
+                        "name": "Соединительный/ответвительный шинный клеммник",
+                        "nameTranslit": "soedinitelnyy-otvetvitelnyy-shinnyy-klemmnik",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC000306/photos/734da2d89951b43074eca90933ffec7f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC000635"
+                    }, {
+                        "name": "Тактильный сенсор шинной системы",
+                        "nameTranslit": "taktilnyy-sensor-shinnoy-sistemy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC000672/photos/53a0047040b4a3dcabbd94b676a7556a.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC000672"
+                    }, {
+                        "name": "Шинный соединитель линия/зона",
+                        "nameTranslit": "shinnyy-soedinitel-liniya-zona",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC000673/photos/66ed2e81be20e9188c59fb2d29c17082.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC000673"
+                    }, {
+                        "name": "Интерфейс для шинной системы",
+                        "nameTranslit": "interfeys-dlya-shinnoy-sistemy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC000674/photos/b308d3f80e28da76aaf1858825efec0f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC000674"
+                    }, {
+                        "name": "Блок питания для шинной системы",
+                        "nameTranslit": "blok-pitaniya-dlya-shinnoy-sistemy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC000675/photos/2c3e0794e9e8d09b9d81213693b147d6.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC000675"
+                    }, {
+                        "name": "Логический элемент системной шины",
+                        "nameTranslit": "logicheskiy-element-sistemnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC000676/photos/721810d30f4e8c33cc79402295494b12.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC000676"
+                    }, {
+                        "name": "Дисплей для системной шины",
+                        "nameTranslit": "displey-dlya-sistemnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC000677/photos/1b81ce5325cb764b235e4be0b8af4959.png",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC000677"
+                    }, {
+                        "name": "Бинарный вход для системной шины",
+                        "nameTranslit": "binarnyy-vhod-dlya-sistemnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC000688/photos/407c763a7a0286b41ea3f912a84e3d90.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC000688"
+                    }, {
+                        "name": "Таймер/реле времени для системной шины",
+                        "nameTranslit": "taymer-rele-vremeni-dlya-sistemnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC000689/photos/9cc5b4889834d1334f0b29667efcda74.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC000689"
+                    }, {
+                        "name": "Подавитель помех в системной шине",
+                        "nameTranslit": "podavitel-pomeh-v-sistemnoy-shine",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC000700/photos/a0ac4ec78681e739000124ac6a24e679.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC000700"
+                    }, {
+                        "name": "Программное обеспечение для системной шины",
+                        "nameTranslit": "programmnoe-obespechenie-dlya-sistemnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC000757/photos/07f9702cdac1047e20c107d519bb9f7f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC000757"
+                    }, {
+                        "name": "Контроль доступа для системной шины",
+                        "nameTranslit": "kontrol-dostupa-dlya-sistemnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC000782/photos/511a0eaec67a7243715add466395fa4d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC000782"
+                    }, {
+                        "name": "Панель управления и сигнализации для системной шины",
+                        "nameTranslit": "panel-upravleniya-i-signalizacii-dlya-sistemnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC000783/photos/d4640d0eedc3a23421e9b1abbf0976ad.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC000783"
+                    }, {
+                        "name": "Модуль управления/драйвер системной шины",
+                        "nameTranslit": "modul-upravleniya-drayver-sistemnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC000790/photos/343e026695f1441786a1b085de48ef46.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC000790"
+                    }, {
+                        "name": "Сервопривод с управлением от системной шины",
+                        "nameTranslit": "servoprivod-s-upravleniem-ot-sistemnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC000792/photos/9f61399509731097f80983c75c05067c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC000792"
+                    }, {
+                        "name": "Аналоговый вход системной шины",
+                        "nameTranslit": "analogovyy-vhod-sistemnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC000794/photos/ccb781d94672856f82067ea2ad75b465.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC000794"
+                    }, {
+                        "name": "Датчик физических параметров для шинной системы",
+                        "nameTranslit": "datchik-fizicheskih-parametrov-dlya-shinnoy-sistemy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC000926/photos/c7391aa995443832b63c9674b52fc6df.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC000926"
+                    }, {
+                        "name": "Аналог. актуатор информационной шины",
+                        "nameTranslit": "analog-aktuator-informacionnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC001096/photos/49a8f24109bcd49be7a33156acb30dc5.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC001096"
+                    }, {
+                        "name": "Релейный актуатор (активатор) для информационной шины",
+                        "nameTranslit": "releynyy-aktuator-aktivator-dlya-informacionnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC001097/photos/431264108e66d7cdb35d9b9b1566de16.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC001097"
+                    }, {
+                        "name": "Системный интерфейс/медиа-шлюз для информационной шины",
+                        "nameTranslit": "sistemnyy-interfeys-media-shlyuz-dlya-informacionnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC001099/photos/09ca8f57b0a92d29b4b5f2790c31d995.png",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC001099"
+                    }, {
+                        "name": "Сенсор управления для информационной шины",
+                        "nameTranslit": "sensor-upravleniya-dlya-informacionnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC001100/photos/65b4af22746ab72e0a14db01ab24bee6.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC001100"
+                    }, {
+                        "name": "Комнатный терморегулятор для информационной шины",
+                        "nameTranslit": "komnatnyy-termoregulyator-dlya-informacionnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC001101/photos/dab7d22614bc9cb16e054a6f112ee327.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC001101"
+                    }, {
+                        "name": "Управление энергопотреблением для информационной шины",
+                        "nameTranslit": "upravlenie-energopotrebleniem-dlya-informacionnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC001102/photos/f86d1203d9e03feee5f03cdeb026a91d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC001102"
+                    }, {
+                        "name": "Актуатор (активатор) переключатель для информационной шины",
+                        "nameTranslit": "aktuator-aktivator-pereklyuchatel-dlya-informacionnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC001330/photos/d02d3988a5f007aadbd2fab73fb5591d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC001330"
+                    }, {
+                        "name": "Комплект программного обеспечения (ПК) для годового таймера KNX",
+                        "nameTranslit": "komplekt-programmnogo-obespecheniya-pk-dlya-godovogo-taymera-knx",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC001361/photos/bda80da7cea021d9dbe6c46285bfc402.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC001361"
+                    }, {
+                        "name": "Базовый модуль информационной шины",
+                        "nameTranslit": "bazovyy-modul-informacionnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000024/EC000599/photos/454acb2d1978528cb54b57216a1536ce.png",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC001581"
+                    }, {
+                        "name": "Датчик движения для информационной шины",
+                        "nameTranslit": "datchik-dvizheniya-dlya-informacionnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC001582/photos/7bcecf164719aa10d89aebb299e92ab2.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC001582"
+                    }, {
+                        "name": "Комплектующие для информационной шины",
+                        "nameTranslit": "komplektuyuschie-dlya-informacionnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC001583/photos/0abb6dbad5b34024c19edb0363901b1f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC001583"
+                    }, {
+                        "name": "Устройство ввода/вывода для информационной шины",
+                        "nameTranslit": "ustroystvo-vvoda-vyvoda-dlya-informacionnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC001584/photos/24c27381f4d118d6c27ad3f66ec6de4e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC001584"
+                    }, {
+                        "name": "Многооперационное устройство для информационной шины",
+                        "nameTranslit": "mnogooperacionnoe-ustroystvo-dlya-informacionnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC001585/photos/bf346f486473d94c5146a5e46e20e282.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC001585"
+                    }, {
+                        "name": "Актуатор (активатор) управления нагревом для информационной шины",
+                        "nameTranslit": "aktuator-aktivator-upravleniya-nagrevom-dlya-informacionnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC001586/photos/22cbd71714e59be247630b647f6913bf.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC001586"
+                    }, {
+                        "name": "Ручной/настенный датчик для информационной шины",
+                        "nameTranslit": "ruchnoy-nastennyy-datchik-dlya-informacionnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC001587/photos/a92e7d625a744e34ba1c1882c2fd2f2b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC001587"
+                    }, {
+                        "name": "Сенсорная клавиша для информационной шины",
+                        "nameTranslit": "sensornaya-klavisha-dlya-informacionnoy-shiny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000032/EC002253/photos/82637cc788c60f90f3be39990c423742.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000032/EC002253"
+                    }
+                ],
+            },
+        },
+    },
+    "Uninterruptible-power-supplies-batteries-batteries": {
+        "name": "Источники бесперебойного питания, аккумуляторы, батарейки",
+        "items": {
+            "bespereboynoe-pitanie-ibp-i-aksessuary": {
+                "name": "Бесперебойное питание (ИБП) и аксессуары",
+                "nameTranslit": "bespereboynoe-pitanie-ibp-i-aksessuary",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/SG000011/photos/ede646b2eee9144ab443c34412e0feae.jpg",
+                "items": [
+                    {
+                        "name": "Источник бесперебойного питания (ИБП/ UPS/ ББП)",
+                        "nameTranslit": "istochnik-bespereboynogo-pitaniya-ibp-ups-bbp",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC000382/photos/554111fe4be702268610833f9180ad9f.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000011/EC000382"
+                    }, {
+                        "name": "Аксессуары для источника бесперебойного питания (ИБП/UPS)",
+                        "nameTranslit": "aksessuary-dlya-istochnika-bespereboynogo-pitaniya-ibp-ups",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC002850/photos/675ce0db6d67bb35abd9cc08410f6f72.png",
+                        "URL": "https://etipro.ru/catalogs/SG000011/EC002850"
+                    }, {
+                        "name": "Стабилизатор напряжения",
+                        "nameTranslit": "stabilizator-napryazheniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000017/EC002045/photos/7b73286f2a0d55f7c61f5f61905226b1.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000011/EC002045"
+                    }, {
+                        "name": "Аккумулятор",
+                        "nameTranslit": "akkumulyator",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000053/EC011878/photos/c49f523a5b13d88b5c0cbe5a666051fb.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000011/EC011878"
+                    }
+                ],
+            },
+            "elementy-pitaniya-i-zaryadnye-ustroystva": {
+                "name": "Элементы питания и зарядные устройства",
+                "nameTranslit": "elementy-pitaniya-i-zaryadnye-ustroystva",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG000053/photos/c73de71b2a57081ccdb52df8aa882f86.jpg",
+                "items": [
+                    {
+                        "name": "Батарейка (незаряжаемый элемент питания)",
+                        "nameTranslit": "batareyka-nezaryazhaemyy-element-pitaniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000053/EC000356/photos/fafd9cfeb95d618c98fff8ae68f43c2e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000053/EC000356"
+                    }, {
+                        "name": "Аккумуляторная батарея (заряжаемый элемент питания)",
+                        "nameTranslit": "akkumulyatornaya-batareya-zaryazhaemyy-element-pitaniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000053/EC000357/photos/07d86d9dcb0f5d58984c2c19b790eb72.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000053/EC000357"
+                    }, {
+                        "name": "Аккумулятор для мобильного и беспроводного телефона",
+                        "nameTranslit": "akkumulyator-dlya-mobilnogo-i-besprovodnogo-telefona",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000038/EC000408/photos/1ffd0d7c14236cd745e23a32999497e2.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000053/EC000408"
+                    }, {
+                        "name": "Универсальное зарядное устройство (для аккумуляторной батареи)",
+                        "nameTranslit": "universalnoe-zaryadnoe-ustroystvo-dlya-akkumulyatornoy-batarei",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000053/EC000359/photos/59b8c9b2dd9f0a9b094d97edd2057d58.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000053/EC000359"
+                    }
+                ],
+            },
+            "zaryadnye-stancii-i-aksessuary-dlya-elektromobiley": {
+                "name": "Зарядные станции и аксессуары для электромобилей",
+                "nameTranslit": "zaryadnye-stancii-i-aksessuary-dlya-elektromobiley",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/SG000012/photos/c051bcaa9d119011e38605eb22e1575a.jpg",
+                "items": [
+                    {
+                        "name": "Зарядное устройство для электротранспорта",
+                        "nameTranslit": "zaryadnoe-ustroystvo-dlya-elektrotransporta",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000012/EC002883/photos/19cf34b09e3fb7768ee74d4a2289ab34.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000012/EC002883"
+                    }, {
+                        "name": "Зарядный кабель для электротранспорта",
+                        "nameTranslit": "zaryadnyy-kabel-dlya-elektrotransporta",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000014/EC002897/photos/26c9b1ba7270bff9910d69be44de3fc7.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000012/EC002897"
+                    }
+                ],
+            },
+            "fotoelektricheskaya-energetika-geliosistemye": {
+                "name": "Фотоэлектрическая энергетика (гелиосистемы)",
+                "nameTranslit": "fotoelektricheskaya-energetika-geliosistemy",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG000055/photos/9c1c66ec6377e420c3076b8737ac30c3.jpg",
+                "items": [
+
+                ],
+            },
+        },
+    },
+    "Structured-cabling-systems": {
+        "name": "Структурированные кабельные системы (СКС)",
+        "items": {
+            "sistemy-peredachi-dannyh-i-telekommunikacionnye-sistemy": {
+                "name": "Системы передачи данных и телекоммуникационные системы",
+                "nameTranslit": "sistemy-peredachi-dannyh-i-telekommunikacionnye-sistemy",
+                "img": "/image/sistemy-peredachi-dannyh-i-telekommunikacionnye-sistemy.jpg",
+                "items": [
+                    {
+                        "name": "Патч-корд медный (витая пара)",
+                        "nameTranslit": "patch-kord-mednyy-vitaya-para",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC001262/photos/4cb8af2909edd590034e06320d89b728.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC001262"
+                    }, {
+                        "name": "Оптоволоконный коммутационный шнур (патч-корд) промышленный",
+                        "nameTranslit": "optovolokonnyy-kommutacionnyy-shnur-patch-kord-promyshlennyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC002607/photos/69f80da6befb603bb06b17c23911c69f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC002607"
+                    }, {
+                        "name": "Шнур оптический монтажный (pigtail/пигтейл)",
+                        "nameTranslit": "shnur-opticheskiy-montazhnyy-pigtail-pigteyl",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC000748/photos/6291ae749a311967eb97d14740dab5f7.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000748"
+                    }, {
+                        "name": "Модуль для активного компонента сети/сетевой блок",
+                        "nameTranslit": "modul-dlya-aktivnogo-komponenta-seti-setevoy-blok",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000033/EC000421/photos/b37dcd6a207367fb2b24dfb0e2c08000.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000309"
+                    }, {
+                        "name": "Интерфейсный преобразователь",
+                        "nameTranslit": "interfeysnyy-preobrazovatel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC000310/photos/e52bdfa11b45986f4579b8fad3883a4f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000310"
+                    }, {
+                        "name": "Переходник (адаптер) для коммуникационных систем",
+                        "nameTranslit": "perehodnik-adapter-dlya-kommunikacionnyh-sistem",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000033/EC000421/photos/966e6ac6042b8a18ab704f23b09f2d84.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000313"
+                    }, {
+                        "name": "Блок/модуль распределения питания (PDU/ БРП/ МРП)",
+                        "nameTranslit": "blok-modul-raspredeleniya-pitaniya-pdu-brp-mrp",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000013/EC002762/photos/2cc6dda95e0c3beaf0185447e4416c03.png",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC002762"
+                    }, {
+                        "name": "Кабельный органайзер для шкафов",
+                        "nameTranslit": "kabelnyy-organayzer-dlya-shkafov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000015/EC000322/photos/4c694ce9d8de843e19dc1ee606dfb1f6.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000322"
+                    }, {
+                        "name": "Телекоммуникационная клеммная колодка (плинт)",
+                        "nameTranslit": "telekommunikacionnaya-klemmnaya-kolodka-plint",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC000371/photos/569431b3453bac660c04e1179dcb2af7.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000371"
+                    }, {
+                        "name": "Разветвительная коробка LSA-Plus",
+                        "nameTranslit": "razvetvitelnaya-korobka-lsa-plus",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC000372/photos/f7b949448246f59bd7e5b5f40d97ad20.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000372"
+                    }, {
+                        "name": "Вспомогательное оборудование для системы дистанционной связи",
+                        "nameTranslit": "vspomogatelnoe-oborudovanie-dlya-sistemy-distancionnoy-svyazi",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC000373/photos/4b11781a5637a7a5ade65a11616b1f91.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000373"
+                    }, {
+                        "name": "Телекоммуникационная распределительная коробка",
+                        "nameTranslit": "telekommunikacionnaya-raspredelitelnaya-korobka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC000374/photos/665a296c929fda8c6c6fd793277e7363.png",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000374"
+                    }, {
+                        "name": "Усилитель",
+                        "nameTranslit": "usilitel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC001698/photos/280919ca0a968bcb2ab03cb6b025a5b3.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000409"
+                    }, {
+                        "name": "Сетевой адаптер",
+                        "nameTranslit": "setevoy-adapter",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC000515/photos/c20523e5ec6cebdea7a4ab8f9cb9e1e0.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000515"
+                    }, {
+                        "name": "Штеккер для клеммной колодки системы связи",
+                        "nameTranslit": "shtekker-dlya-klemmnoy-kolodki-sistemy-svyazi",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC000717/photos/9d89bce79e0c6d33bc2ad358fa0a8e4e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000717"
+                    }, {
+                        "name": "Маркировочный колпачок/заглушка",
+                        "nameTranslit": "markirovochnyy-kolpachok-zaglushka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC000719/photos/315c619a570287766378c9cb71f155e7.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000719"
+                    }, {
+                        "name": "Маркировочная пластинка для клеммных колодок системы связи",
+                        "nameTranslit": "markirovochnaya-plastinka-dlya-klemmnyh-kolodok-sistemy-svyazi",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC000720/photos/f06f005e9cc8837891e762659c685dd2.png",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000720"
+                    }, {
+                        "name": "Пылезащитный колпак/крышка для штепсельных соединений",
+                        "nameTranslit": "pylezaschitnyy-kolpak-kryshka-dlya-shtepselnyh-soedineniy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC000723/photos/94d5326ebfd9687131b4238f906a1c12.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000723"
+                    }, {
+                        "name": "Разрядник для защиты от перенапряжения",
+                        "nameTranslit": "razryadnik-dlya-zaschity-ot-perenapryazheniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC000730/photos/1ab829f5237af5d208f34dddc5d6fe0b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000730"
+                    }, {
+                        "name": "Сетевой концентратор",
+                        "nameTranslit": "setevoy-koncentrator",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC000731/photos/a57925de5af010f98f979face8643645.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000731"
+                    }, {
+                        "name": "Сетевой коммутатор",
+                        "nameTranslit": "setevoy-kommutator",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC000734/photos/7665f0a9e74c3f66e9f2335e3503ea74.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000734"
+                    }, {
+                        "name": "Модем",
+                        "nameTranslit": "modem",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC000740/photos/832182f62d24d3df03bbec8bb1de932c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000740"
+                    }, {
+                        "name": "Адаптер (переходник) оптоволоконный (для волоконно-оптического кабеля)",
+                        "nameTranslit": "adapter-perehodnik-optovolokonnyy-dlya-volokonno-opticheskogo-kabelya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC000752/photos/5df03974e02defcc59370698b65e4667.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000752"
+                    }, {
+                        "name": "Оптический разветвитель для волоконно-оптической линии связи",
+                        "nameTranslit": "opticheskiy-razvetvitel-dlya-volokonno-opticheskoy-linii-svyazi",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC000753/photos/e88ebdda6883d3708fca98256e1846ec.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000753"
+                    }, {
+                        "name": "Кассета сростков кабеля",
+                        "nameTranslit": "kasseta-srostkov-kabelya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC000762/photos/560c7a08b332c64a5dbefed347ad80de.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000762"
+                    }, {
+                        "name": "Сетевой адаптер WLAN",
+                        "nameTranslit": "setevoy-adapter-wlan",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC000817/photos/74a315d296646b0cd6f4c3d54d360670.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC000817"
+                    }, {
+                        "name": "Модульный разъем (гнездо/штекер)",
+                        "nameTranslit": "modulnyy-razem-gnezdo-shteker",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC001121/photos/0b74967c711704b98e176d99a2eb98e4.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC001121"
+                    }, {
+                        "name": "Соединитель оптоволоконный (для волоконно-оптического кабеля)",
+                        "nameTranslit": "soedinitel-optovolokonnyy-dlya-volokonno-opticheskogo-kabelya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC000748/photos/92e361b30328b44f88f9b82b130c9ff6.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC001122"
+                    }, {
+                        "name": "Защита сростков кабеля",
+                        "nameTranslit": "zaschita-srostkov-kabelya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC001123/photos/5b6f033c1a5d1a242aefba45d284fa69.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC001123"
+                    }, {
+                        "name": "Патч-панель (витая пара, медь)",
+                        "nameTranslit": "patch-panel-vitaya-para-med",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC001128/photos/aa0bf0bab256bd4df65fb374503df234.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC001128"
+                    }, {
+                        "name": "Модуль-вставка для оптоволоконной коммутационной панели (патч-панели)",
+                        "nameTranslit": "modul-vstavka-dlya-optovolokonnoy-kommutacionnoy-paneli-patch-paneli",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC001129/photos/02d8e5b3c134e710d39be22c6a3e3648.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC001129"
+                    }, {
+                        "name": "Оптоволоконная коммутационная панель (патч-панель)",
+                        "nameTranslit": "optovolokonnaya-kommutacionnaya-panel-patch-panel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC001128/photos/1beacc86a84eced30825779afebc07ab.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC001130"
+                    }, {
+                        "name": "Коаксиальный штекерный разъем",
+                        "nameTranslit": "koaksialnyy-shtekernyy-razem",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC001131/photos/17e2772914dcda421989a9894f4f9d20.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC001131"
+                    }, {
+                        "name": "Разъём-соединитель D-Sub",
+                        "nameTranslit": "razem-soedinitel-d-sub",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC001132/photos/acdcfafaf60a63d272c73a8ed9c8b744.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC001132"
+                    }, {
+                        "name": "Модульный переходник (блок сопряжения)",
+                        "nameTranslit": "modulnyy-perehodnik-blok-sopryazheniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC001134/photos/4ca93fa0eb230de9bacaa0189334fd15.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC001134"
+                    }, {
+                        "name": "Коаксиальный соединитель-переходник (разъем)",
+                        "nameTranslit": "koaksialnyy-soedinitel-perehodnik-razem",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC001131/photos/bcfb5b15b349d4e14844e0ce1a71f0a1.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC001135"
+                    }, {
+                        "name": "Оптоволоконный коммутационный шнур (патч-корд)",
+                        "nameTranslit": "optovolokonnyy-kommutacionnyy-shnur-patch-kord",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC001263/photos/77247191f8b137d20639f51efe5a2cca.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC001263"
+                    }, {
+                        "name": "Розетка/коробка коммуникационная (для передачи данных медной витой парой)",
+                        "nameTranslit": "rozetka-korobka-kommunikacionnaya-dlya-peredachi-dannyh-mednoy-vitoy-paroy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC001264/photos/36dd1f70d0c832e97b69b5d975201260.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC001264"
+                    }, {
+                        "name": "Кабель компьютерный",
+                        "nameTranslit": "kabel-kompyuternyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC001408/photos/55b47b674c4927a6f955719fad465369.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC001408"
+                    }, {
+                        "name": "Соединительная коробка/розетка для передачи данных по оптоволоконному кабелю",
+                        "nameTranslit": "soedinitelnaya-korobka-rozetka-dlya-peredachi-dannyh-po-optovolokonnomu-kabelyu",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC001409/photos/3c625e891abf646c8c417afeb8334383.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC001409"
+                    }, {
+                        "name": "Медиаконвертер",
+                        "nameTranslit": "mediakonverter",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC001467/photos/13fe6035bb7574e7953f7f0e6bed54fe.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC001467"
+                    }, {
+                        "name": "Оптоволоконный кабель",
+                        "nameTranslit": "optovolokonnyy-kabel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC001476/photos/840d93f62e96a2d9e51d359ea6227164.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC001476"
+                    }, {
+                        "name": "Сетевой роутер (маршрутизатор)",
+                        "nameTranslit": "setevoy-router-marshrutizator",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC001478/photos/28de4d817260762e490deb5985040422.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC001478"
+                    }, {
+                        "name": "Приспособление для предотвращения перегибов кабеля",
+                        "nameTranslit": "prisposoblenie-dlya-predotvrascheniya-peregibov-kabelya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC001679/photos/2af6e792a82dbd5dd96feace40d55d56.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC001679"
+                    }, {
+                        "name": "Коммутационный шнур (патч-корд)",
+                        "nameTranslit": "kommutacionnyy-shnur-patch-kord",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC001681/photos/c85d7a532d8fc4a39ce3ae138e2ed371.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC001681"
+                    }, {
+                        "name": "Коаксиальный коммутационный шнур",
+                        "nameTranslit": "koaksialnyy-kommutacionnyy-shnur",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC001682/photos/8cec12a13e8c8920449f38a9568bc3be.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC001682"
+                    }, {
+                        "name": "Микроскоп для стекловолокна",
+                        "nameTranslit": "mikroskop-dlya-steklovolokna",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC001685/photos/87e71d423c8bd6c5591f3904ab406fef.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC001685"
+                    }, {
+                        "name": "Комплектующие для сплайс-кассеты (соединения встык)",
+                        "nameTranslit": "komplektuyuschie-dlya-splays-kassety-soedineniya-vstyk",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC002066/photos/b2b74524fe10caef6272b2a79acb746e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC002066"
+                    }, {
+                        "name": "Муфта для механического соединения телекоммуникационного кабеля",
+                        "nameTranslit": "mufta-dlya-mehanicheskogo-soedineniya-telekommunikacionnogo-kabelya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC002457/photos/fa1ce37fd8066f3888ed0c8b7cd8d551.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC002457"
+                    }, {
+                        "name": "Корпус/оболочка серверного/сетевого щита",
+                        "nameTranslit": "korpus-obolochka-servernogo-setevogo-schita",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000011/EC002499/photos/91be82ab67f01ef22bca82bdfe3d81eb.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC002499"
+                    }, {
+                        "name": "Сетевой шкаф",
+                        "nameTranslit": "setevoy-shkaf",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000011/EC002500/photos/20503b1f6fcaf6c4e18242985ffaa4ac.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC002500"
+                    }, {
+                        "name": "Телекоммуникационный шкаф",
+                        "nameTranslit": "telekommunikacionnyy-shkaf",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC002501/photos/db26129d836715048beef0c49418b918.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC002501"
+                    }, {
+                        "name": "Кабельная стойка электрошкафа/серверного шкафа",
+                        "nameTranslit": "kabelnaya-stoyka-elektroshkafa-servernogo-shkafa",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000011/EC002506/photos/06ebadf8c2d846b4c87018539d1ddd7a.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC002506"
+                    }, {
+                        "name": "Корпус для монтажа компонентов с модульной шириной 19 дюймов (482.6 мм)",
+                        "nameTranslit": "korpus-dlya-montazha-komponentov-s-modulnoy-shirinoy-19-dyuymov-482-6-mm",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000011/EC002517/photos/9f829c0be9013e634a4f22293ea0e997.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC002517"
+                    }, {
+                        "name": "Передняя панель для блока с модульной шириной 19 дюймов (482.6 мм)",
+                        "nameTranslit": "perednyaya-panel-dlya-bloka-s-modulnoy-shirinoy-19-dyuymov-482-6-mm",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000011/EC002519/photos/7231267d77e0fb0c5c350b7c0fba1ea1.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC002519"
+                    }, {
+                        "name": "Сменный модуль (юнит) для модульной ширины 19 дюймов (482.6 мм)",
+                        "nameTranslit": "smennyy-modul-yunit-dlya-modulnoy-shiriny-19-dyuymov-482-6-mm",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000011/EC002520/photos/ffc8498c7a1c97cbdbee81aa79988ea6.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC002520"
+                    }, {
+                        "name": "Приводной блок (юнит) для модульной ширины 19 дюймов (482.6 мм)",
+                        "nameTranslit": "privodnoy-blok-yunit-dlya-modulnoy-shiriny-19-dyuymov-482-6-mm",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000011/EC002522/photos/5028374972aa0dc2fc210453e14bfc64.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC002522"
+                    }, {
+                        "name": "Крепежная деталь для блока (юнита) с модульной шириной 19 дюймов (482.6 мм)",
+                        "nameTranslit": "krepezhnaya-detal-dlya-bloka-yunita-s-modulnoy-shirinoy-19-dyuymov-482-6-mm",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000011/EC002523/photos/773ec187d575c09e05eb05375fe7b175.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC002523"
+                    }, {
+                        "name": "Коммуникационный блок связи",
+                        "nameTranslit": "kommunikacionnyy-blok-svyazi",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC002590/photos/19c6337fdc5b606a0d6f8defb7491b17.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC002590"
+                    }, {
+                        "name": "Патч-корд медный (витая пара) промышленный",
+                        "nameTranslit": "patch-kord-mednyy-vitaya-para-promyshlennyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC002599/photos/cea8350a57d4eba0fc342af620b25209.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC002599"
+                    }, {
+                        "name": "Аксессуары для модульной системы подключения",
+                        "nameTranslit": "aksessuary-dlya-modulnoy-sistemy-podklyucheniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC002608/photos/390ddb2ab2b9bae455c1769c8dea99a4.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC002608"
+                    }, {
+                        "name": "Аксессуары для волоконно-оптической техники",
+                        "nameTranslit": "aksessuary-dlya-volokonno-opticheskoy-tehniki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000052/EC001282/photos/79b7938aee411ff48dfb8b5d0036a862.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC002609"
+                    }, {
+                        "name": "Аксессуары для коммуникационной техники",
+                        "nameTranslit": "aksessuary-dlya-kommunikacionnoy-tehniki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC002610/photos/698f3e2336e90132314ccab26993bc6b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC002610"
+                    }, {
+                        "name": "Система медных патч-кордов (витая пара)",
+                        "nameTranslit": "sistema-mednyh-patch-kordov-vitaya-para",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC002697/photos/f2c6ab73d802b91df6f6ea7bbe65d6fd.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC002698"
+                    }, {
+                        "name": "Системная оптоволоконная коммутационная панель (патч-панель)",
+                        "nameTranslit": "sistemnaya-optovolokonnaya-kommutacionnaya-panel-patch-panel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000037/EC002699/photos/0c4d0f010f1ed2546b5f22b412b528a3.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000037/EC002699"
+                    }
+                ],
+            },
+            "antennye-sistemy-i-sputnikovye-tehnologii": {
+                "name": "Антенные системы и спутниковые технологии",
+                "nameTranslit": "antennye-sistemy-i-sputnikovye-tehnologii",
+                "img": "/image/antennye-sistemy-i-sputnikovye-tehnologii.png",
+                "items": [
+                    {
+                        "name": "Наруж. антенна",
+                        "nameTranslit": "naruzh-antenna",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000033/EC000416/photos/31202fda30a2bc090df313bb36965f80.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG000033/EC000416"
+                    }, {
+                        "name": "Сплиттер (делитель/ответвитель)",
+                        "nameTranslit": "splitter-delitel-otvetvitel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000033/EC000421/photos/6929383be725889a2db944da275fe6bf.png",
+                        "URL": "https://etipro.ru/catalogs/EG000033/EC000421"
+                    }, {
+                        "name": "Линейный усилитель системы кабельного телевидения",
+                        "nameTranslit": "lineynyy-usilitel-sistemy-kabelnogo-televideniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000033/EC000423/photos/f770d886bc263a6ef7ae9c74ee5be2bd.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000033/EC000423"
+                    }, {
+                        "name": "Антенная мачта",
+                        "nameTranslit": "antennaya-machta",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000033/EC000433/photos/74bfa28661e4faabf1fae00b3b6308db.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000033/EC000433"
+                    }, {
+                        "name": "Опорный кронштейн антенны",
+                        "nameTranslit": "opornyy-kronshteyn-antenny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000033/EC000434/photos/0f44b6fba96e335135b83db906f47450.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000033/EC000434"
+                    }, {
+                        "name": "Комплект спутникового телевидения (TV)",
+                        "nameTranslit": "komplekt-sputnikovogo-televideniya-tv",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000033/EC000440/photos/a90d8293f2ffcafe5669ee7a9518b302.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000033/EC000440"
+                    }, {
+                        "name": "Аудио/видео модулятор",
+                        "nameTranslit": "audio-video-modulyator",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000033/EC000804/photos/ea25be3acda83e928a6441eb84a215d5.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000033/EC000804"
+                    }, {
+                        "name": "Автомобильная антенна",
+                        "nameTranslit": "avtomobilnaya-antenna",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000033/EC000815/photos/06772979a9f0971f7ba9f978ab994d82.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000033/EC000815"
+                    }, {
+                        "name": "Комнатная антенна",
+                        "nameTranslit": "komnatnaya-antenna",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000033/EC001081/photos/3f452a29b0001ab814b9d006ab988968.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000033/EC001081"
+                    }, {
+                        "name": "Комплектующие для крепления антенны",
+                        "nameTranslit": "komplektuyuschie-dlya-krepleniya-antenny",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000033/EC001082/photos/3d213b14242973b81447b9091ee21db6.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000033/EC001082"
+                    }
+                ],
+            },
+        },
+    },
+    "Security-systems-video-surveillance-ACS": {
+        "name": "Системы безопасности, видеонаблюдение, СКУД",
+        "items": {
+            "sistema-videonablyudeniya": {
+                "name": "Система видеонаблюдения",
+                "nameTranslit": "sistema-videonablyudeniya",
+                "img": "/image/sistema-videonablyudeniya.jpg",
+                "items": [
+                    {
+                        "name": "Камера видеонаблюдения",
+                        "nameTranslit": "kamera-videonablyudeniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000054/EC001511/photos/b86a17ada1573c7086456b289f90c0bb.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000016/EC001511"
+                    }, {
+                        "name": "Видеорегистратор",
+                        "nameTranslit": "videoregistrator",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000054/EC001772/photos/a99b0e12256d1857484aa9fc00ad8080.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000016/EC001772"
+                    }, {
+                        "name": "Система видеонаблюдения",
+                        "nameTranslit": "sistema-videonablyudeniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000054/EC001527/photos/d48e46734821e2347f882fa23625b40a.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000016/EC001527"
+                    }, {
+                        "name": "Аксессуары для камер видеонаблюдения",
+                        "nameTranslit": "aksessuary-dlya-kamer-videonablyudeniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000054/EC003599/photos/982e120c834648fd3dc78a3e314feaac.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000016/EC003599"
+                    }, {
+                        "name": "Видеораспределитель",
+                        "nameTranslit": "videoraspredelitel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000054/EC002468/photos/47908df25f60a21fad51bda2b59fa587.png",
+                        "URL": "https://etipro.ru/catalogs/SG000016/EC002468"
+                    }
+                ],
+            },
+            "sistema-kontrolya-i-upravleniya-dostupom": {
+                "name": "Система контроля и управления доступом",
+                "nameTranslit": "sistema-kontrolya-i-upravleniya-dostupom",
+                "img": "/image/sistema-kontrolya-i-upravleniya-dostupom.jpg",
+                "items": [
+                    {
+                        "name": "Система контроля доступа",
+                        "nameTranslit": "sistema-kontrolya-dostupa",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000054/EC001770/photos/5b6ce6eb246d26a25a012eda495be7cd.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000017/EC001770"
+                    }, {
+                        "name": "Электрическое устройство открывания дверей",
+                        "nameTranslit": "elektricheskoe-ustroystvo-otkryvaniya-dverey",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000054/EC000367/photos/0c09e0f5a54c7d7e26c4ae541673f107.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000017/EC000367"
+                    }, {
+                        "name": "Постоянный магнит для электромагнитного замка",
+                        "nameTranslit": "postoyannyy-magnit-dlya-elektromagnitnogo-zamka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000054/EC001769/photos/626fea6825e2d1faf908ef2811a90b70.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000017/EC001769"
+                    }, {
+                        "name": "Аксессуары для электронного замка",
+                        "nameTranslit": "aksessuary-dlya-elektronnogo-zamka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000054/EC002903/photos/9da0eef40094b116d5e6aadf3b13cca9.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000017/EC002903"
+                    }, {
+                        "name": "Метка RFID",
+                        "nameTranslit": "metka-rfid",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000026/EC002996/photos/fd5e4e898a9938dcfa4986225a14344c.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000017/EC002996"
+                    }, {
+                        "name": "Преобразователь сигнала для систем контроля",
+                        "nameTranslit": "preobrazovatel-signala-dlya-sistem-kontrolya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000054/EC001774/photos/2ff38c954347bee7a051cecc4469d4f1.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000017/EC001774"
+                    }, {
+                        "name": "Носитель электронных данных для коммутационного устройства",
+                        "nameTranslit": "nositel-elektronnyh-dannyh-dlya-kommutacionnogo-ustroystva",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000054/EC001771/photos/b320f58326ec849f57f3f259f2062671.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000017/EC001771"
+                    }
+                ],
+            },
+            "pozharnaya-i-ohrannaya-signalizaciya-sistemy-opovescheniya": {
+                "name": "Пожарная и охранная сигнализация, системы оповещения",
+                "nameTranslit": "pozharnaya-i-ohrannaya-signalizaciya-sistemy-opovescheniya",
+                "img": "/image/pozharnaya-i-ohrannaya-signalizaciya-sistemy-opovescheniya.jpg",
+                "items": [
+                    {
+                        "name": "Коммутационная коробка видеосигналов для системы контроля",
+                        "nameTranslit": "kommutacionnaya-korobka-videosignalov-dlya-sistemy-kontrolya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000054/EC001524/photos/d9e776c7362da9891f6a8d8b93c6405b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000054/EC001524"
+                    }, {
+                        "name": "Датчик открытия для системы защиты от проникновения",
+                        "nameTranslit": "datchik-otkrytiya-dlya-sistemy-zaschity-ot-proniknoveniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000054/EC001761/photos/dcf2348ae63a220cbd7549a5d175f2ae.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000054/EC001761"
+                    }, {
+                        "name": "Пожарный извещатель",
+                        "nameTranslit": "pozharnyy-izveschatel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000054/EC001763/photos/29cb28b2a1f2e178d09789befe72ebd9.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000054/EC001763"
+                    }, {
+                        "name": "Технический детектор/извещатель для системы обнаружения проникновения",
+                        "nameTranslit": "tehnicheskiy-detektor-izveschatel-dlya-sistemy-obnaruzheniya-proniknoveniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000054/EC001764/photos/9e0cb32ae4bb6748d63fae2725524951.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000054/EC001764"
+                    }, {
+                        "name": "Устройство сигнализации/передачи аварийных сигналов",
+                        "nameTranslit": "ustroystvo-signalizacii-peredachi-avariynyh-signalov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000054/EC001766/photos/5969b4530b2b1349b529f90132f542a7.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000054/EC001766"
+                    }, {
+                        "name": "Источник вторичного электропитания резервированный (ИВЭПР)",
+                        "nameTranslit": "istochnik-vtorichnogo-elektropitaniya-rezervirovannyy-ivepr",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000054/SC000099/photos/46704ac5a1b99fb2ff8458bb884197b5.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000054/SC000099"
+                    }, {
+                        "name": "Устройство управления и наблюдения для системы защиты от проникновения",
+                        "nameTranslit": "ustroystvo-upravleniya-i-nablyudeniya-dlya-sistemy-zaschity-ot-proniknoveniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000054/EC001767/photos/956d963437f19b89096045660432871c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000054/EC001767"
+                    }, {
+                        "name": "Детектор газа",
+                        "nameTranslit": "detektor-gaza",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000054/EC002455/photos/bd97b8b2088b04348d1507e2015c4314.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000054/EC002455"
+                    }, {
+                        "name": "Центральная система пожарной сигнализации",
+                        "nameTranslit": "centralnaya-sistema-pozharnoy-signalizacii",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000054/EC002685/photos/bcfa53f4027c05e71455b12999e25c45.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000054/EC002685"
+                    }, {
+                        "name": "Установка дымоудаления",
+                        "nameTranslit": "ustanovka-dymoudaleniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000054/EC002686/photos/c560d1067c3619dc435b5bb1dcb5b6c5.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000054/EC002686"
+                    }
+                ],
+            },
+            "opticheskaya-i-akusticheskaya-signalizaciya-signalnoe-oborudovanie": {
+                "name": "Оптическая и акустическая сигнализация (сигнальное оборудование)",
+                "nameTranslit": "opticheskaya-i-akusticheskaya-signalizaciya-signalnoe-oborudovanie",
+                "img": "/image/opticheskaya-i-akusticheskaya-signalizaciya-signalnoe-oborudovanie.png",
+                "items": [
+                    {
+                        "name": "Сирена",
+                        "nameTranslit": "sirena",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000035/EC000137/photos/8009e7871f4c699281352d83e6e1e792.png",
+                        "URL": "https://etipro.ru/catalogs/EG000035/EC000137"
+                    }, {
+                        "name": "Оптико-акустическое сигнальное устройство",
+                        "nameTranslit": "optiko-akusticheskoe-signalnoe-ustroystvo",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000035/EC000195/photos/7b4a1277d3fbc8e2ae5d44555fa29289.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000035/EC000195"
+                    }, {
+                        "name": "Звонок громкого боя",
+                        "nameTranslit": "zvonok-gromkogo-boya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000035/EC000843/photos/d88393b798bb47ad9d6ec6861667ba04.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000035/EC000843"
+                    }, {
+                        "name": "Зуммер",
+                        "nameTranslit": "zummer",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000035/EC000844/photos/e05b2f492f6c2039959fbe228ee2f08c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000035/EC000844"
+                    }, {
+                        "name": "Импульсный источник света (стробоскоп)",
+                        "nameTranslit": "impulsnyy-istochnik-sveta-stroboskop",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000035/EC001333/photos/10fb51ad39933ad611c701565cc3fd23.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000035/EC001333"
+                    }, {
+                        "name": "Маяк проблесковый аварийный",
+                        "nameTranslit": "mayak-probleskovyy-avariynyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000035/EC001341/photos/a3b4737858b3333b3694e5b402770f47.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000035/EC001341"
+                    }, {
+                        "name": "Радиопередатчик",
+                        "nameTranslit": "radioperedatchik",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000035/EC001358/photos/c1364e7d33f06cb2e8331cb059aacc1b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000035/EC001358"
+                    }
+                ],
+            },
+            "protivopozharnye-sistemy": {
+                "name": "Противопожарные системы",
+                "nameTranslit": "protivopozharnye-sistemy",
+                "img": "/image/protivopozharnye-sistemy.jpg",
+                "items": [
+                    {
+                        "name": "Противопожарный клей/компаунд",
+                        "nameTranslit": "protivopozharnyy-kley-kompaund",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000056/EC000209/photos/d5b45497385cd216432121807d611ef5.png",
+                        "URL": "https://etipro.ru/catalogs/EG000056/EC000209"
+                    }, {
+                        "name": "Противопожарная преграда",
+                        "nameTranslit": "protivopozharnaya-pregrada",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000056/EC000210/photos/f57ccbb6bc6c8cbd9805ace3ffa31559.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000056/EC000210"
+                    }, {
+                        "name": "Кабельный зажим для огнестойких каналов",
+                        "nameTranslit": "kabelnyy-zazhim-dlya-ognestoykih-kanalov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000056/EC002662/photos/719aa65e322f5518e96949eb032e202f.png",
+                        "URL": "https://etipro.ru/catalogs/EG000056/EC002662"
+                    }, {
+                        "name": "Комплектующие для огнестойких каналов",
+                        "nameTranslit": "komplektuyuschie-dlya-ognestoykih-kanalov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000056/EC002670/photos/16bc87c4d4c13428fe07c3b2c84cedd8.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000056/EC002670"
+                    }, {
+                        "name": "Аксессуары для противопожарной перегородки",
+                        "nameTranslit": "aksessuary-dlya-protivopozharnoy-peregorodki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000056/EC002671/photos/d8244e5d4bb416dd7ac9ebdc96fb0831.png",
+                        "URL": "https://etipro.ru/catalogs/EG000056/EC002671"
+                    }
+                ],
+            },
+            "vozdushnye-kontrolnye-klapany-i-protivopozharnye-klapany": {
+                "name": "Воздушные (контрольные) клапаны и противопожарные клапаны",
+                "nameTranslit": "vozdushnye-kontrolnye-klapany-i-protivopozharnye-klapany",
+                "img": "/image/vozdushnye-kontrolnye-klapany-i-protivopozharnye-klapany.jpg",
+                "items": [
+                    {
+                        "name": "Решётка для вентиляционного канала",
+                        "img": "/image/Reshjotka-dlja-ventiljacionnogo-kanala.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG015630/EC010351"
+                    },
+                ],
+            },
+        },
+    },
+    "Industrial-automation": {
+        "name": "Промышленная автоматизация",
+        "items": {
+            "rele": {
+                "name": "Реле",
+                "nameTranslit": "rele",
+                "img": "/image/rele.jpg",
+                "items": [
+
+                ],
+            },
+            "programmiruemye-logicheskie-kontrollery-plk": {
+                "name": "Программируемые логические контроллеры (ПЛК)",
+                "nameTranslit": "programmiruemye-logicheskie-kontrollery-plk",
+                "img": "/image/programmiruemye-logicheskie-kontrollery-plk.jpg",
+                "items": [
+
+                ],
+            },
+            "datchiki-sensory": {
+                "name": "Датчики (сенсоры)",
+                "nameTranslit": "datchiki-sensory",
+                "img": "/image/datchiki-sensory.jpg",
+                "items": [
+
+                ],
+            },
+            "shtekkery-dlya-podklyucheniya-elektropitaniya": {
+                "name": "Штеккеры для подключения электропитания",
+                "nameTranslit": "shtekkery-dlya-podklyucheniya-elektropitaniya",
+                "img": "/image/shtekkery-dlya-podklyucheniya-elektropitaniya.jpg",
+                "items": [
+
+                ],
+            },
+            "razemy-shtekernye-promyshlennye": {
+                "name": "Разъемы штекерные промышленные",
+                "nameTranslit": "razemy-shtekernye-promyshlennye",
+                "img": "/image/razemy-shtekernye-promyshlennye.jpg",
+                "items": [
+
+                ],
+            },
+            "upravlenie-obrabotkoy-signalov": {
+                "name": "Управление обработкой сигналов",
+                "nameTranslit": "upravlenie-obrabotkoy-signalov",
+                "img": "/image/upravlenie-obrabotkoy-signalov.jpg",
+                "items": [
+
+                ],
+            },
+            "aksessuary-dlya-izmeritelnyh-i-kontrolnyh-priborov": {
+                "name": "Аксессуары для измерительных и контрольных приборов",
+                "nameTranslit": "aksessuary-dlya-izmeritelnyh-i-kontrolnyh-priborov",
+                "img": "/image/aksessuary-dlya-izmeritelnyh-i-kontrolnyh-priborov.jpg",
+                "items": [
+
+                ],
+            },
+            "zapasnye-chasti-dlya-izmeritelnyh-i-kontrolnyh-priborov": {
+                "name": "zapasnye-chasti-dlya-izmeritelnyh-i-kontrolnyh-priborov",
+                "nameTranslit": "zapasnye-chasti-dlya-izmeritelnyh-i-kontrolnyh-priborov",
+                "img": "/image/zapasnye-chasti-dlya-izmeritelnyh-i-kontrolnyh-priborov.jpg",
+                "items": [
+
+                ],
+            },
+            "oborudovanie-svyazi": {
+                "name": "Оборудование связи",
+                "nameTranslit": "oborudovanie-svyazi",
+                "img": "/image/oborudovanie-svyazi.jpg",
+                "items": [
+
+                ],
+            },
+            "peredacha-signalov": {
+                "name": "Передача сигналов",
+                "nameTranslit": "peredacha-signalov",
+                "img": "/image/peredacha-signalov.jpg",
+                "items": [
+
+                ],
+            },
+        },
+    },
 
 
 
