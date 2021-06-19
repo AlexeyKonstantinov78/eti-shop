@@ -86,7 +86,7 @@ const render = (naimId, sbros = false) => {
 
     let breadCrumsHome = document.createElement('div');
     breadCrumsHome.innerHTML = `
-            <div class="breadcrumbs-home container"><a href="/index.html">Все товары</a></div>
+            <div class="breadcrumbs-home container"><a href="index.html">Все товары</a></div>
             `;
 
     let conteainer = document.createElement('div');
