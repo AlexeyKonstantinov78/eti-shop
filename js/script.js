@@ -1,5 +1,7 @@
 'use strict';
 
+console.log('скрипт подключен');
+
 let bottomUpArrow = document.querySelector('.bottomUpArrow'),
     main = document.querySelector('.main'),
     itemCard = main.querySelectorAll('.item-card'),
