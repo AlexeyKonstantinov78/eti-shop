@@ -67,9 +67,14 @@ hr{
     text-align: center;
 }
 
+.header-section-time p span {
+    font-weight: bold;
+}
+
 .header-section-time p a{
     text-decoration: none;
     font-weight: bold;
+    display: inline-table;
 }
 
 .main {
@@ -101,6 +106,26 @@ hr{
 
 .main .container p{
     font-size: 1.5rem;    
+}
+
+.dostavka-oplata section{    
+    max-width: 1200px;
+    margin: auto;
+}
+
+.dostavka-oplata h2 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 2.5rem 0;
+}
+
+.dostavka-oplata .container p {
+    font-size: 1.8rem;
+    margin-bottom: 2rem;
+}
+
+.dostavka-oplata .container p a{
+    text-decoration: none;
 }
 
 .carousel-inner {
@@ -201,6 +226,10 @@ hr{
 .pd_footer_text2 {
     font-size: 1.6rem;
     margin-left: calc(100%/4);
+}
+
+.pd_footer_text2 a{
+    text-decoration: none;
 }
 
 ymaps{
