@@ -7,6 +7,11 @@
     <title>Интернет-магазин электротехники и не только</title>
     <link rel="shortcut icon" href="./image/favicon.ico" type="image/x-icon" />
     <meta name="description" content="Интернет-магазин электроники, электротехнических изделий, инструменты, расходные материалы и многое другое для профессионалов, самостройщиков и домашних мастеров, доставка, отправка, самовывоз."/>
+    <meta property="og:title" content="Интернет-магазин электротехники и не только" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://eti-shop.su/index.html" />
+    <meta property="og:image" content="image/logo2.png" />
+    <meta property="og:description" content="Интернет-магазин электроники, электротехнических изделий, инструменты, расходные материалы и многое другое для профессионалов, самостройщиков и домашних мастеров, доставка, отправка, самовывоз." />
     <link rel="stylesheet" href="css/normalize.css" />
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/all.css">
@@ -15,6 +20,7 @@
     <script defer src="bootstrap/js/bootstrap.bundle.min.js"></script>
     <script defer src="js/all.js"></script>
     <script defer src="js/script.js"></script>
+    <link rel="canonical" href="https://eti-shop.su/index.html">
     <meta name="robots" content="noindex, follow" />
   </head>
   <body>
@@ -53,17 +59,28 @@
           </div>
         </div>
       </nav>
-      <section class="header-section title">
+      <section itemscope itemtype="http://schema.org/LocalBusiness" itemref="_address4 _telephone3 _openingHoursSpecification4 _openingHoursSpecification8" class="header-section title">
         <div class="header-section_item">
           <picture>
             
-            <img src="image/logo2.png" width="200" alt="logo" />
+            <img itemprop="image" src="image/logo2.png" width="200" alt="logo" />
           </picture>
-          <h1>Электротехника и&nbsp;не&nbsp;только</h1>
+          <h1 itemprop="name">Электротехника и&nbsp;не&nbsp;только</h1>
         </div>
       </section>
       <section class="header-section-time">
-        <p><span>ПН-ПТ</span> 8:00-21:00 <span>СБ-ВС</span> 10:00-18:00 Телефон: <a href="tel:+7(8352)607596"><i class="fas fa-phone"></i>+7(8352)607596</a>, <a href="tel:+79520267596"><i class="fas fa-mobile-alt"></i>+79520267596</a></p>
+        <p>
+          <meta id="_opens6" itemprop="opens" content="8:00">
+          <meta id="_closes7" itemprop="closes" content="21:00">
+          <meta id="_opens10" itemprop="opens" content="10:00">
+          <meta id="_closes11" itemprop="closes" content="18:00">
+          <span id="_openingHoursSpecification4" itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification" itemref="_opens6 _closes7">
+            <span itemprop="dayOfWeek" itemscope itemtype="http://schema.org/DayOfWeek"><span itemprop="name">ПН-ПТ</span></span></span> 8:00-21:00 
+          <span id="_openingHoursSpecification8" itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification" itemref="_opens10 _closes11">
+              <span itemprop="dayOfWeek" itemscope itemtype="http://schema.org/DayOfWeek"><span itemprop="name">СБ-ВС</span></span></span> 10:00-18:00 
+            Телефон: <span id="_telephone3" itemprop="telephone"><a href="tel:+7(8352)607596"><i class="fas fa-phone"></i>+7(8352)607596</a>, <a href="tel:+79520267596"><i class="fas fa-mobile-alt"></i>+79520267596</a></span>
+            <span id="_address4" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress" style="display: none;"><span itemprop="streetAddress">Чувашская Республика г. Чебоксары, ул.&nbsp;Петра&nbsp;Ермолаева,&nbsp;д.3&nbsp;корп.2</span></span>
+        </p>
       </section>
     </header>
     <main class="main">
@@ -106,7 +123,7 @@
       <div class="container">
         <div class="row justify-content-start items">
           <div class="col-6 col-sm-4 col-md-3 col-xl-2 item-card">
-            <div class="item" id="kabel-provod-shina-shinoprovod">
+            <div class="item" id="kabel-provod-shina-shinoprovod" title="кабели и провода силовые стаационарной и не стационарной устанвоки, кабель спиральный">
               <a href="https://etipro.ru/supergroup/1">
                 <div class="item-img">
                   <img src="image/kabel-provod-shina-shinoprovod.jpg" loading="lazy" alt="Кабель, провод, шина, шинопровод">
