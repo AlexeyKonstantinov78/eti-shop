@@ -5975,103 +5975,2019 @@ const dataDb = {
                 "name": "Кабельные наконечники, гильзы",
                 "nameTranslit": "kabelnye-nakonechniki-gilzy",
                 "img": "https://vendor-catalog.smart-shop.pro/storage/SG000013/photos/e67d0628767842e4a8209120106040f6.jpg",
-                "items": []
+                "items": [
+                    {
+                        "name": "Наконечник-гильза кабельный (втулочный)",
+                        "nameTranslit": "nakonechnik-gilza-kabelnyy-vtulochnyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC000005/photos/e92e239af3225e4d2d229e59d9f08f21.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000013/EC000005"
+                    }, {
+                        "name": "Обжимной кабельный наконечник для медных проводников в соотв. с DIN 46235",
+                        "nameTranslit": "obzhimnoy-kabelnyy-nakonechnik-dlya-mednyh-provodnikov-v-sootv-s-din-46235",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC001050/photos/314ea4ac11e32b745e9ddb3a82f9ecae.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000013/EC001050"
+                    }, {
+                        "name": "Трубчатый кабельный наконечник для медных проводников",
+                        "nameTranslit": "trubchatyy-kabelnyy-nakonechnik-dlya-mednyh-provodnikov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC001051/photos/8ec7cc518bb1f0c12af8817e3cd9dcb3.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000013/EC001051"
+                    }, {
+                        "name": "Наконечник под опрессовку для медных проводников",
+                        "nameTranslit": "nakonechnik-pod-opressovku-dlya-mednyh-provodnikov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC001052/photos/e1f552778ac5053dc1bcc9a4c477cddf.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000013/EC001052"
+                    }, {
+                        "name": "Обжимной кабельный наконечник для алюминиевых проводников",
+                        "nameTranslit": "obzhimnoy-kabelnyy-nakonechnik-dlya-alyuminievyh-provodnikov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC001053/photos/61ea860321b09573ed014fa2fac88fe1.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000013/EC001053"
+                    }, {
+                        "name": "Круглый/плоский штекерный разъем (наконечник кабельный)",
+                        "nameTranslit": "kruglyy-ploskiy-shtekernyy-razem-nakonechnik-kabelnyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC000516/photos/f21627bc6fc7325584a64d624daf786b.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000013/EC000516"
+                    }, {
+                        "name": "Винтовой/болтовой кабельный наконечник",
+                        "nameTranslit": "vintovoy-boltovoy-kabelnyy-nakonechnik",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC001054/photos/16d370ac48c436836337155a3f6fa200.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000013/EC001054"
+                    }, {
+                        "name": "Гильза соединит. обжимная для медных проводников",
+                        "nameTranslit": "gilza-soedinit-obzhimnaya-dlya-mednyh-provodnikov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC001059/photos/3406180bf4835b9c40a9e6428d80f0d0.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000013/EC001059"
+                    }, {
+                        "name": "Гильза соединит. обжимная для алюминиевых/медных проводников",
+                        "nameTranslit": "gilza-soedinit-obzhimnaya-dlya-alyuminievyh-mednyh-provodnikov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC001060/photos/22025386530751aec4e0d7eb8fda21da.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000013/EC001060"
+                    }, {
+                        "name": "Гильза соединительная винтовая/болтовая",
+                        "nameTranslit": "gilza-soedinitelnaya-vintovaya-boltovaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC001063/photos/6e48f9cb705734ffb1806b9b34f679da.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000013/EC001063"
+                    }, {
+                        "name": "Переходная гильза для медных кабельных наконечников и соединителей DIN-стандарта",
+                        "nameTranslit": "perehodnaya-gilza-dlya-mednyh-kabelnyh-nakonechnikov-i-soediniteley-din-standarta",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC001048/photos/8d26a9ba4ce193ebba72575852efe7a9.png",
+                        "URL": "https://etipro.ru/catalogs/SG000013/EC001048"
+                    }, {
+                        "name": "Гильза для профилированного провода",
+                        "nameTranslit": "gilza-dlya-profilirovannogo-provoda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC000084/photos/8cb97ae0eb786a70f68610a92f76177b.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000013/EC000084"
+                    }, {
+                        "name": "Набор (в боксе) установочного и соединительного материала",
+                        "nameTranslit": "nabor-v-bokse-ustanovochnogo-i-soedinitelnogo-materiala",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC000524/photos/fea544cb66805c3892e7db614404e467.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000013/EC000524"
+                    }
+                ]
             },
             "kabelnye-mufty-markirovka-aksessuary": {
                 "name": "Кабельные муфты, маркировка, аксессуары",
                 "nameTranslit": "kabelnye-mufty-markirovka-aksessuary",
                 "img": "https://vendor-catalog.smart-shop.pro/storage/SG000014/photos/54e91ba3017034028c5a526177c46b93.jpg",
-                "items": []
+                "items": [
+                    {
+                        "name": "Колпачок усаживаемый (капа термоусадочная/холодной усадки)",
+                        "nameTranslit": "kolpachok-usazhivaemyy-kapa-termousadochnaya-holodnoy-usadki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC000218/photos/090ce5e62c7612653453b25ad4d48eea.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000014/EC000218"
+                    }, {
+                        "name": "Манжета ремонтная",
+                        "nameTranslit": "manzheta-remontnaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC000219/photos/c06db9f7e37ec5cc10fbe3410e098553.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000014/EC000219"
+                    }, {
+                        "name": "Концевая кабельная муфта",
+                        "nameTranslit": "koncevaya-kabelnaya-mufta",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC000910/photos/1a37138c79ed69ea5f4213d507b46b07.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000014/EC000910"
+                    }, {
+                        "name": "Проходная соединительная кабельная муфта",
+                        "nameTranslit": "prohodnaya-soedinitelnaya-kabelnaya-mufta",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC001169/photos/a8ce00916309ef9858cac5276f7ee93e.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000014/EC001169"
+                    }, {
+                        "name": "Проходная соединительная/переходная ответвительная муфта (комплект)",
+                        "nameTranslit": "prohodnaya-soedinitelnaya-perehodnaya-otvetvitelnaya-mufta-komplekt",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC001170/photos/9ca3520543712ac1f44f5f3be2f0f4e3.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000014/EC001170"
+                    }, {
+                        "name": "Кабельная смола (компаунд)",
+                        "nameTranslit": "kabelnaya-smola-kompaund",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC001168/photos/042b1c7c7f3daacf3397fc543c50d81e.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000014/EC001168"
+                    }, {
+                        "name": "Маркировка кабельная",
+                        "nameTranslit": "markirovka-kabelnaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC001530/photos/06fbd13aa4ac140fcf96953c39ae47e4.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000014/EC001530"
+                    }, {
+                        "name": "Пружинный сжим (кольцо)",
+                        "nameTranslit": "pruzhinnyy-szhim-kolco",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC002458/photos/c00b4e15cee54ffd780f972948a01297.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000014/EC002458"
+                    }, {
+                        "name": "Распределительная усаживаемая (термо-/холодной усадки) перчатка",
+                        "nameTranslit": "raspredelitelnaya-usazhivaemaya-termo-holodnoy-usadki-perchatka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC002464/photos/5bc663335a4b284bb1f52f5bde8ac695.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000014/EC002464"
+                    }, {
+                        "name": "Аксессуары для кабельной смолы",
+                        "nameTranslit": "aksessuary-dlya-kabelnoy-smoly",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC002837/photos/86a61d75038df379e41a677106d437ee.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000014/EC002837"
+                    }
+                ]
             },
             "izolyacionnye-soedinitelnye-i-montazhnye-materialy": {
                 "name": "Изоляционные, соединительные и монтажные материалы",
                 "nameTranslit": "izolyacionnye-soedinitelnye-i-montazhnye-materialy",
                 "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/photos/17318b6662ca42fc647dbfdd7b7c4b97.jpeg",
-                "items": []
+                "items": [
+                    {
+                        "name": "Лента клейкая / Изолента / Лента защитная",
+                        "nameTranslit": "lenta-kleykaya-izolenta-lenta-zaschitnaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC000128/photos/0a0f5fd5e58d75814442a9fade605ce6.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000047/EC000128"
+                    }, {
+                        "name": "Трубка усаживаемая (термоусадочная/холодной усадки)",
+                        "nameTranslit": "trubka-usazhivaemaya-termousadochnaya-holodnoy-usadki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC000217/photos/4956a2982dcb1e9a778b3919234a2830.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000047/EC000217"
+                    }, {
+                        "name": "Термоусаживаемое соединение (гильза) с опрессовкой",
+                        "nameTranslit": "termousazhivaemoe-soedinenie-gilza-s-opressovkoy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC000466/photos/e6314acd28f2d92e9e9dc08666156a50.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000047/EC000466"
+                    }, {
+                        "name": "Набор (в боксе) термоусаживаемых трубок (отрезков)",
+                        "nameTranslit": "nabor-v-bokse-termousazhivaemyh-trubok-otrezkov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC001049/photos/f8f6aa415cf37f1b18ee6cece9b828e5.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000047/EC001049"
+                    }, {
+                        "name": "Кабельная изолирующая трубка (кембрик)",
+                        "nameTranslit": "kabelnaya-izoliruyuschaya-trubka-kembrik",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC002254/photos/159155d9c1774dbdd8d290e3ffda98d5.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000047/EC002254"
+                    }, {
+                        "name": "Соединительный зажим для провода",
+                        "nameTranslit": "soedinitelnyy-zazhim-dlya-provoda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC002319/photos/74796bbc2c2fb26991f1576837049828.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000047/EC002319"
+                    }, {
+                        "name": "Аксессуары для кабельных наконечников",
+                        "nameTranslit": "aksessuary-dlya-kabelnyh-nakonechnikov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC002465/photos/a36df660067b386f5fb41bb798e29592.png",
+                        "URL": "https://etipro.ru/catalogs/EG000047/EC002465"
+                    }
+                ]
             },
             "klemmy-montazhnye": {
                 "name": "Клеммы монтажные",
                 "nameTranslit": "klemmy-montazhnye",
                 "img": "https://vendor-catalog.smart-shop.pro/storage/SG000015/photos/ff633c98548ff5fbbb2a365d85acb244.jpg",
-                "items": []
+                "items": [
+                    {
+                        "name": "Слаботочный соединитель (зажим кабельный)",
+                        "nameTranslit": "slabotochnyy-soedinitel-zazhim-kabelnyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC000306/photos/0e565101dcd1822f0409c072aa9a9b2b.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000015/EC000306"
+                    }, {
+                        "name": "Клемма безвинтовая (розеточная)",
+                        "nameTranslit": "klemma-bezvintovaya-rozetochnaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC000446/photos/6a95801ae4a06da96f88f595223a57f7.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000015/EC000446"
+                    }, {
+                        "name": "Клемма для светильников",
+                        "nameTranslit": "klemma-dlya-svetilnikov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC000446/photos/e553d4cdb321992035b9727bf777e177.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000015/EC000447"
+                    }, {
+                        "name": "Разъем/соединитель для светильников",
+                        "nameTranslit": "razem-soedinitel-dlya-svetilnikov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC000458/photos/45608987e9056def57f7aec494b60127.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000015/EC000458"
+                    }
+                ]
             },
             "ruchnoy-instrument-obschego-naznacheniya": {
                 "name": "Ручной инструмент общего назначения",
                 "nameTranslit": "ruchnoy-instrument-obschego-naznacheniya",
                 "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/photos/a99cae40b707a9c2b5ac9d52862209d3.jpg",
-                "items": []
+                "items": [
+                    {
+                        "name": "Отвертка крестовая (под крестообразный шлиц)",
+                        "nameTranslit": "otvertka-krestovaya-pod-krestoobraznyy-shlic",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000144/photos/f6b8bb70aa12bd41cef3c47a64712dde.png",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000144"
+                    }, {
+                        "name": "Отвертка шлицевая (под прямой шлиц)",
+                        "nameTranslit": "otvertka-shlicevaya-pod-pryamoy-shlic",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000158/photos/7716e8d8274ed6265dbbee1095179b01.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000158"
+                    }, {
+                        "name": "Набор отверток",
+                        "nameTranslit": "nabor-otvertok",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC011815/photos/3be2749bc84dc91c2dfa50b36b9e8cd6.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC011815"
+                    }, {
+                        "name": "Отвертка со шлицем Torx (6-луч. звезда)",
+                        "nameTranslit": "otvertka-so-shlicem-torx-6-luch-zvezda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000801/photos/1ca8d1ca4f7edeb50649fab3a8533f6e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000801"
+                    }, {
+                        "name": "Торцевой гаечный ключ (под шестигранную гайку)",
+                        "nameTranslit": "torcevoy-gaechnyy-klyuch-pod-shestigrannuyu-gayku",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000174/photos/eae5ec63e1be88eada8df8333018175d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000174"
+                    }, {
+                        "name": "Отвертка под наконечники/биты (битовая отвертка)",
+                        "nameTranslit": "otvertka-pod-nakonechniki-bity-bitovaya-otvertka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002119/photos/8db53caa01ea3da1ba035bb4f25b0184.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002119"
+                    }, {
+                        "name": "Шило",
+                        "nameTranslit": "shilo",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000159/photos/d6ac806f628fa7d2da60c2e4b3081fa0.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000159"
+                    }, {
+                        "name": "Плоскогубцы",
+                        "nameTranslit": "ploskogubcy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000833/photos/38a265736da727c045cd2aacbd9a4f71.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000833"
+                    }, {
+                        "name": "Круглогубцы",
+                        "nameTranslit": "kruglogubcy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000834/photos/a4880e29b3e7e3d964cc2098b2c69948.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000834"
+                    }, {
+                        "name": "Длинногубцы",
+                        "nameTranslit": "dlinnogubcy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000835/photos/1ba7957c708a6f1842be24b8095395fb.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000835"
+                    }, {
+                        "name": "Пассатижи (плоскогубцы комбинированные/многофункциональные)",
+                        "nameTranslit": "passatizhi-ploskogubcy-kombinirovannye-mnogofunkcionalnye",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000836/photos/a5381797f3c13524956f4b510328d5ae.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000836"
+                    }, {
+                        "name": "Клещи/щипцы для снятия изоляции",
+                        "nameTranslit": "kleschi-schipcy-dlya-snyatiya-izolyacii",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002109/photos/284b6760ad5bc31b3eea5b02a8aaefce.png",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002109"
+                    }, {
+                        "name": "Бокорезы (кусачки с боковой режущей кромкой)",
+                        "nameTranslit": "bokorezy-kusachki-s-bokovoy-rezhuschey-kromkoy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000165/photos/7e8dec2bf9abea47b4d9f5df9f6761ec.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000165"
+                    }, {
+                        "name": "Набор инструментов",
+                        "nameTranslit": "nabor-instrumentov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000149/photos/87e2b3cbf88a6ac958fab27369ee23b9.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000149"
+                    }, {
+                        "name": "Ящик/ сумка/ кейс/ жилет для инструментов",
+                        "nameTranslit": "yaschik-sumka-keys-zhilet-dlya-instrumentov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000181/photos/c528d0bede8a892309c4ece4fbfd0877.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000181"
+                    }, {
+                        "name": "Набор насадок/головок",
+                        "nameTranslit": "nabor-nasadok-golovok",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002209/photos/3b659d5e209d5c116812a7b631492986.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002209"
+                    }, {
+                        "name": "Пояс для инструментов",
+                        "nameTranslit": "poyas-dlya-instrumentov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002225/photos/95585f2a3b0288c65845ee6b6125310b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002225"
+                    }, {
+                        "name": "Набор накидных ключей",
+                        "nameTranslit": "nabor-nakidnyh-klyuchey",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC011816/photos/8c423556c9263d64a4b31f7d39ab6437.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC011816"
+                    }, {
+                        "name": "Гаечный ключ",
+                        "nameTranslit": "gaechnyy-klyuch",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002130/photos/97fa03c9bd9096673330992679bfa5c5.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002130"
+                    }, {
+                        "name": "Ключ гаечный комбинированный (рожковый/накидной)",
+                        "nameTranslit": "klyuch-gaechnyy-kombinirovannyy-rozhkovyy-nakidnoy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002176/photos/31f0e3c7d784e2df5a54aaeeb8a96e40.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002176"
+                    }, {
+                        "name": "Ключ гаечный накидной (кольцевой)",
+                        "nameTranslit": "klyuch-gaechnyy-nakidnoy-kolcevoy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002188/photos/c00d719e81d891d45017beef67299b39.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002188"
+                    }, {
+                        "name": "Ключ разводной",
+                        "nameTranslit": "klyuch-razvodnoy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002192/photos/4858380494b6a98f0af13161b24e2ae8.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002192"
+                    }, {
+                        "name": "Ключ баллонный крестообразный",
+                        "nameTranslit": "klyuch-ballonnyy-krestoobraznyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002175/photos/c24c920d12a7d2598a0668ca6b417d5c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002175"
+                    }, {
+                        "name": "Храповик/ трещотка для насадок/головок",
+                        "nameTranslit": "hrapovik-treschotka-dlya-nasadok-golovok",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002218/photos/ff8943bb780e88e3876b1ed3d65d2265.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002218"
+                    }, {
+                        "name": "Динамометрический/моментный гаечный ключ/отвертка",
+                        "nameTranslit": "dinamometricheskiy-momentnyy-gaechnyy-klyuch-otvertka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002132/photos/8968a691ef4f5714e5aa9ee76aa924d2.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002132"
+                    }, {
+                        "name": "Шестигранный (имбусовый) торцовый ключ (для винтов с внутр. шестигранником)",
+                        "nameTranslit": "shestigrannyy-imbusovyy-torcovyy-klyuch-dlya-vintov-s-vnutr-shestigrannikom",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000818/photos/2ad2dd03e6127cad45ee9f1c2613cbc0.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000818"
+                    }, {
+                        "name": "Насадка/головка торцевая для шестигранной/двенадцатигранной гайки",
+                        "nameTranslit": "nasadka-golovka-torcevaya-dlya-shestigrannoy-dvenadcatigrannoy-gayki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002203/photos/afc8dd83eb99611ef41ef35633ab958e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002203"
+                    }, {
+                        "name": "Насадка/головка с шестигранной битой для торцевого ключа",
+                        "nameTranslit": "nasadka-golovka-s-shestigrannoy-bitoy-dlya-torcevogo-klyucha",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002157/photos/0baf1fa5b341c63f6ceea83ffe19a12e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002157"
+                    }, {
+                        "name": "Набор наконечников/бит",
+                        "nameTranslit": "nabor-nakonechnikov-bit",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000149/photos/fb95ae5334ccdc836681d9d2d68a8573.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002120"
+                    }, {
+                        "name": "Бита отверточная (наконечник/вставка) для винтов с крестовым шлицем",
+                        "nameTranslit": "bita-otvertochnaya-nakonechnik-vstavka-dlya-vintov-s-krestovym-shlicem",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002115/photos/d38c5dc3c25a383a2d64e045495ca5d0.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002115"
+                    }, {
+                        "name": "Бита отверточная (наконечник/вставка) для винтов с прямым шлицем",
+                        "nameTranslit": "bita-otvertochnaya-nakonechnik-vstavka-dlya-vintov-s-pryamym-shlicem",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002116/photos/221b3822ce3395da639fcb98f91bd18c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002116"
+                    }, {
+                        "name": "Бита отверточная (наконечник/вставка) для винтов со шлицем Torx (6-луч. звезда)",
+                        "nameTranslit": "bita-otvertochnaya-nakonechnik-vstavka-dlya-vintov-so-shlicem-torx-6-luch-zvezda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002117/photos/2bacb6af9ad850989c9bf00bbec68859.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002117"
+                    }, {
+                        "name": "Держатель для наконечников/бит",
+                        "nameTranslit": "derzhatel-dlya-nakonechnikov-bit",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002118/photos/c9a145711c6474047b0f3a9cb4853b2c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002118"
+                    }, {
+                        "name": "Удлинитель для насадок/головок",
+                        "nameTranslit": "udlinitel-dlya-nasadok-golovok",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002220/photos/bed3dc25f5e49a9e39e7664dbde5381a.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002220"
+                    }, {
+                        "name": "Набор торцовых шестигранных/Torx (имбусовых) ключей",
+                        "nameTranslit": "nabor-torcovyh-shestigrannyh-torx-imbusovyh-klyuchey",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002210/photos/97edeeeacef3b9d29fbe26d7cb6cf60e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002210"
+                    }, {
+                        "name": "Гаечный (имбусовый) ключ Torx (6-луч. звезда)",
+                        "nameTranslit": "gaechnyy-imbusovyy-klyuch-torx-6-luch-zvezda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002214/photos/cf90582b2416188a86b8be081953b7ed.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002214"
+                    }, {
+                        "name": "Трубный рычажный гаечный ключ",
+                        "nameTranslit": "trubnyy-rychazhnyy-gaechnyy-klyuch",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000842/photos/edb5fff1cf7d503a4d0a9b0c47181235.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000842"
+                    }, {
+                        "name": "Клещи переставные сантехнические",
+                        "nameTranslit": "kleschi-perestavnye-santehnicheskie",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000164/photos/a176074fdc3d4bfba08dae0963dc77aa.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000164"
+                    }, {
+                        "name": "Ножницы для резки металла",
+                        "nameTranslit": "nozhnicy-dlya-rezki-metalla",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002122/photos/81ce148f5cb7bcc584c5e1c4e214080d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002122"
+                    }, {
+                        "name": "Ножницы",
+                        "nameTranslit": "nozhnicy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000160/photos/9b8ec7c2f72ca01fb9f191b5cc643833.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000160"
+                    }, {
+                        "name": "Клещи прижимные/зажимные",
+                        "nameTranslit": "kleschi-prizhimnye-zazhimnye",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002148/photos/5a85f0a25d0874d2a007ee99ef59e38c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002148"
+                    }, {
+                        "name": "Кусачки",
+                        "nameTranslit": "kusachki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002222/photos/003f39c27308563b4dc7f55a321bb1ce.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002222"
+                    }, {
+                        "name": "Ножницы для резки труб",
+                        "nameTranslit": "nozhnicy-dlya-rezki-trub",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002190/photos/85e24028ef6f531bfe584d6bfcb11714.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002190"
+                    }, {
+                        "name": "Болторез",
+                        "nameTranslit": "boltorez",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002689/photos/69e2074a63f728e65d6862ccda916843.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002689"
+                    }, {
+                        "name": "Щипцы для снятия и установки стопорных колец",
+                        "nameTranslit": "schipcy-dlya-snyatiya-i-ustanovki-stopornyh-kolec",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002228/photos/892b45530ecf4817382d169f9dac7e71.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002228"
+                    }, {
+                        "name": "Пинцет/щипчики",
+                        "nameTranslit": "pincet-schipchiki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000182/photos/b88b015c99740878236f0b1bcbfd7403.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000182"
+                    }, {
+                        "name": "Ручной клепальный молот/ заклепочник",
+                        "nameTranslit": "ruchnoy-klepalnyy-molot-zaklepochnik",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002124/photos/1b61ec7bb3da5896a67ca7cd9fb0effe.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002124"
+                    }, {
+                        "name": "Степлер строительный",
+                        "nameTranslit": "stepler-stroitelnyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC011927/photos/7d5ae27c41c656bb24d7a4ea3f2fcaae.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC011927"
+                    }, {
+                        "name": "Антистеплер",
+                        "nameTranslit": "antistepler",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC011929/photos/1aa313f4cdb30eb134fac1e811071906.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC011929"
+                    }, {
+                        "name": "Пломба",
+                        "nameTranslit": "plomba",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000880/photos/1bb4a6156428bb6929ecefa0f4d409e0.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000880"
+                    }, {
+                        "name": "Герметизирующая проволока",
+                        "nameTranslit": "germetiziruyuschaya-provoloka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000881/photos/e950214503fa76b5fffe1520f17e9cef.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000881"
+                    }, {
+                        "name": "Штангенциркуль",
+                        "nameTranslit": "shtangencirkul",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000157/photos/04f1f32addab8625dfc1697d281a684f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000157"
+                    }, {
+                        "name": "Рулетка измерительная",
+                        "nameTranslit": "ruletka-izmeritelnaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002174/photos/40f8813f88a07487c867e66a3ae156c2.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002174"
+                    }, {
+                        "name": "Угольник",
+                        "nameTranslit": "ugolnik",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002111/photos/431aca5ad2c7c50ce4d731d79688d8f2.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002111"
+                    }, {
+                        "name": "Уровень (строительный)",
+                        "nameTranslit": "uroven-stroitelnyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000145/photos/0771bfb01b55256e02c5c4fa5cf024a2.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000145"
+                    }, {
+                        "name": "Лазер измерительный",
+                        "nameTranslit": "lazer-izmeritelnyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000641/photos/8eb558891d4dec2c631196bd1a715c53.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000641"
+                    }, {
+                        "name": "Молоток/кувалда",
+                        "nameTranslit": "molotok-kuvalda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000161/photos/6ef3d7862e4391662dd39352612c570a.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000161"
+                    }, {
+                        "name": "Щетка проволочная",
+                        "nameTranslit": "schetka-provolochnaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002131/photos/54cba242d19bc365c1887934a003bef8.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002131"
+                    }, {
+                        "name": "Зубило ручное",
+                        "nameTranslit": "zubilo-ruchnoe",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000146/photos/d8a51bf6e1ae25e90909ebcfea3b7384.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000146"
+                    }, {
+                        "name": "Долото ручное (стамеска)",
+                        "nameTranslit": "doloto-ruchnoe-stameska",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000619/photos/6b2858ddef940dffcfb229e97ff26ec4.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000619"
+                    }, {
+                        "name": "Маркер/фломастер",
+                        "nameTranslit": "marker-flomaster",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000187/photos/007a201508a9d9ee93eaa7231c5ffeeb.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000187"
+                    }, {
+                        "name": "Напильник",
+                        "nameTranslit": "napilnik",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002140/photos/ec76120ac75979f394fb69b03d105623.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002140"
+                    }, {
+                        "name": "Кернер (с заостренным концом)",
+                        "nameTranslit": "kerner-s-zaostrennym-koncom",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002167/photos/4cf04ccef111581684668abb0bcea8b1.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002167"
+                    }, {
+                        "name": "Наждачная бумага/шлифовальная шкурка",
+                        "nameTranslit": "nazhdachnaya-bumaga-shlifovalnaya-shkurka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020002/EC000173/photos/44b927c554e504b6e3fe584271b79b05.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002196"
+                    }, {
+                        "name": "Кисть",
+                        "nameTranslit": "kist",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000150/photos/3f4fe8f7567d0a9ba6cb593831d2425b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000150"
+                    }, {
+                        "name": "Малярный валик",
+                        "nameTranslit": "malyarnyy-valik",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002138/photos/3f69083d9842d782465ed1d0872393f4.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002138"
+                    }, {
+                        "name": "Шпатель",
+                        "nameTranslit": "shpatel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000152/photos/0bd9c7baeab207cea0e0c9aa1f97a235.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000152"
+                    }, {
+                        "name": "Кельма/ мастерок/ гладилка",
+                        "nameTranslit": "kelma-masterok-gladilka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002177/photos/65791d3df6824351dd5e1cc5fec4358f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002177"
+                    }, {
+                        "name": "Сменное лезвие",
+                        "nameTranslit": "smennoe-lezvie",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC001509/photos/2a55e951c049cf0f3ae61fcdf1a3426e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC001509"
+                    }, {
+                        "name": "Ножовка",
+                        "nameTranslit": "nozhovka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000170/photos/3a821ab1484204cfc14e76062264ee49.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000170"
+                    }, {
+                        "name": "Полотно для ручной пилы",
+                        "nameTranslit": "polotno-dlya-ruchnoy-pily",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002152/photos/d062c0ae9b6dedd2348cb3ce17176b80.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002152"
+                    }, {
+                        "name": "Метчик",
+                        "nameTranslit": "metchik",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002155/photos/8b5bfb7c002bf6aaacd1966cc11e0d51.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002155"
+                    }, {
+                        "name": "Плиткорез (прибор для резки кафельной плитки, ручной)",
+                        "nameTranslit": "plitkorez-pribor-dlya-rezki-kafelnoy-plitki-ruchnoy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC003499/photos/7adb9e99a91fef2f0734ca10fe448fa9.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC003499"
+                    }, {
+                        "name": "Система для втягивания кабеля / Зонд для протяжки кабеля",
+                        "nameTranslit": "sistema-dlya-vtyagivaniya-kabelya-zond-dlya-protyazhki-kabelya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000167/photos/9f93a56834b46e8df0b621729fd449ef.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000167"
+                    }, {
+                        "name": "Устройство для сматывания/укладки кабеля в бухты кольцами",
+                        "nameTranslit": "ustroystvo-dlya-smatyvaniya-ukladki-kabelya-v-buhty-kolcami",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC001198/photos/93009846c2637ee36a6ab5a492f0f58b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC001198"
+                    }, {
+                        "name": "Рычажный ручной инструмент для пробивки отверстий",
+                        "nameTranslit": "rychazhnyy-ruchnoy-instrument-dlya-probivki-otverstiy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC001085/photos/01a11af3d250a9d8ec0feadccc8c7a11.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC001085"
+                    }, {
+                        "name": "Пробойник отверстий в листовом металле",
+                        "nameTranslit": "proboynik-otverstiy-v-listovom-metalle",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000156/photos/fba08049c194c042874532638ee53c09.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000156"
+                    }, {
+                        "name": "Набор пробойников отверстий (матриц/перфоформ) в листовом металле",
+                        "nameTranslit": "nabor-proboynikov-otverstiy-matric-perfoform-v-listovom-metalle",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002121/photos/9423e18f4b5697e4410e02304623407e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002121"
+                    }, {
+                        "name": "Инструмент для (затягивания) кабельных стяжек",
+                        "nameTranslit": "instrument-dlya-zatyagivaniya-kabelnyh-styazhek",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000453/photos/820c4ea573b31c07713946221db41524.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000453"
+                    }, {
+                        "name": "Лестница",
+                        "nameTranslit": "lestnica",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000616/photos/edeedacdd204e20a77f5d0ff46b6d838.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000616"
+                    }, {
+                        "name": "Лестница-стремянка",
+                        "nameTranslit": "lestnica-stremyanka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002216/photos/75c2f7d3895b455d083e0a162a644e7c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002216"
+                    }, {
+                        "name": "Устройство для намотки/размотки кабельных барабанов/катушек",
+                        "nameTranslit": "ustroystvo-dlya-namotki-razmotki-kabelnyh-barabanov-katushek",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000245/photos/79571acc23678d00ad2dd5b46ee0123c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000245"
+                    }, {
+                        "name": "Сверлильный патрон дрели",
+                        "nameTranslit": "sverlilnyy-patron-dreli",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002125/photos/16c112a481481fcf92aa89c6fa29c43a.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002125"
+                    }, {
+                        "name": "Шаблон для сверления отверстий под монтажные коробки",
+                        "nameTranslit": "shablon-dlya-sverleniya-otverstiy-pod-montazhnye-korobki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002128/photos/19faabeddd8cf690778e74fefd21cf75.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002128"
+                    }, {
+                        "name": "Лопата совковая",
+                        "nameTranslit": "lopata-sovkovaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002194/photos/3b57d19847595621987e65aa36ece2e4.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002194"
+                    }, {
+                        "name": "Лебедка",
+                        "nameTranslit": "lebedka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002204/photos/1ce44078ca919e60156bdbb94a3cf5cc.png",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002204"
+                    }, {
+                        "name": "Подъемник/таль/тельфер (с приводом от двигателя)",
+                        "nameTranslit": "podemnik-tal-telfer-s-privodom-ot-dvigatelya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002205/photos/c8434ad128f710f3165f1c160d8a4764.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002205"
+                    }, {
+                        "name": "Направляющий ролик для троса",
+                        "nameTranslit": "napravlyayuschiy-rolik-dlya-trosa",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002217/photos/d08130cec702f3f6bfefd9dfca99dcee.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002217"
+                    }, {
+                        "name": "Пистолет для выжимных герметиков/ шприц для уплотнения соединений",
+                        "nameTranslit": "pistolet-dlya-vyzhimnyh-germetikov-shpric-dlya-uplotneniya-soedineniy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002163/photos/6ecd831a86d36ba76e3d7e9b48f7366c.png",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002163"
+                    }, {
+                        "name": "Контрольное зеркало/Захват",
+                        "nameTranslit": "kontrolnoe-zerkalo-zahvat",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002159/photos/44faba481a16ce0c918dbaf3ff768d8a.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002159"
+                    }, {
+                        "name": "Замок навесной",
+                        "nameTranslit": "zamok-navesnoy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002221/photos/d990dd5753def6b5e19a84fe071cfa7f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002221"
+                    }, {
+                        "name": "Съемник шкива",
+                        "nameTranslit": "semnik-shkiva",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002110/photos/8d25768d9f278363d26a0f50ea9b9c7e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002110"
+                    }, {
+                        "name": "Наконечник для разметочного инструмента",
+                        "nameTranslit": "nakonechnik-dlya-razmetochnogo-instrumenta",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002137/photos/00c09c22639b624a8abddad29f944a29.png",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002137"
+                    }, {
+                        "name": "Ключ предохранителя",
+                        "nameTranslit": "klyuch-predohranitelya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC000154/photos/5d50462170da2919551cd7cefad516bc.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC000154"
+                    }, {
+                        "name": "Инструмент для (забивания) анкерной втулки/гильзы",
+                        "nameTranslit": "instrument-dlya-zabivaniya-ankernoy-vtulki-gilzy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002135/photos/25ff8fd42110be6601f62a235814f4dd.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002135"
+                    }, {
+                        "name": "Подъемный канат/строп",
+                        "nameTranslit": "podemnyy-kanat-strop",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002153/photos/a931a1b72b641a7cd29fbb0163c37320.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002153"
+                    }, {
+                        "name": "Чулок для протягивания кабеля",
+                        "nameTranslit": "chulok-dlya-protyagivaniya-kabelya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002161/photos/b1ebabec7ca81a9569834613c244908d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002161"
+                    }, {
+                        "name": "Бита отверточная (наконечник/вставка) для винтов с внутренним шестигранником",
+                        "nameTranslit": "bita-otvertochnaya-nakonechnik-vstavka-dlya-vintov-s-vnutrennim-shestigrannikom",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002114/photos/6c833673b85331317b9e41c9b0441232.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002114"
+                    }, {
+                        "name": "Лом",
+                        "nameTranslit": "lom",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002129/photos/5e3d7f24412e1956abe8f6efc1315316.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002129"
+                    }, {
+                        "name": "Вороток (штифт) для двусторонних трубчатых торцевых ключей",
+                        "nameTranslit": "vorotok-shtift-dlya-dvustoronnih-trubchatyh-torcevyh-klyuchey",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002133/photos/ab31d11a14c8bead5429a434c3981232.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002133"
+                    }, {
+                        "name": "Рукоятка (инструмент) для извлечения плавкой вставки (NH-предохранителя)",
+                        "nameTranslit": "rukoyatka-instrument-dlya-izvlecheniya-plavkoy-vstavki-nh-predohranitelya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002181/photos/0e833f04f4b6eb253dae787cc45465a0.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002181"
+                    }, {
+                        "name": "Ключ для метчика",
+                        "nameTranslit": "klyuch-dlya-metchika",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002227/photos/4e4573906c655c6b5b61d6d79ceeaf09.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC002227"
+                    }, {
+                        "name": "Аксессуары для герметиков",
+                        "nameTranslit": "aksessuary-dlya-germetikov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC003019/photos/77c61126694e560418fe79840724058c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC003019"
+                    }, {
+                        "name": "Чистящее средство",
+                        "nameTranslit": "chistyaschee-sredstvo",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC010081/photos/4c270270599c1dfda31a792ed8f7f00a.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000050/EC010081"
+                    }
+                ]
             },
             "armatura-sip-i-krepezh-dlya-kabelya": {
                 "name": "Арматура СИП и крепеж для кабеля",
                 "nameTranslit": "armatura-sip-i-krepezh-dlya-kabelya",
                 "img": "https://vendor-catalog.smart-shop.pro/storage/EG000010/photos/2bd74f09d39a3dabd8ad29f5279cc926.png",
-                "items": []
+                "items": [
+                    {
+                        "name": "Крепежная скоба/клипса",
+                        "nameTranslit": "krepezhnaya-skoba-klipsa",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000010/EC000127/photos/bd5dbfbd3e93fb02efb86cc630fb302f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000010/EC000127"
+                    }, {
+                        "name": "Зажим для натяжения кабеля/троса",
+                        "nameTranslit": "zazhim-dlya-natyazheniya-kabelya-trosa",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000010/EC000244/photos/4daf8ccdba1e6db1f9fab350dc45f862.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000010/EC000244"
+                    }, {
+                        "name": "Скоба под гвоздь",
+                        "nameTranslit": "skoba-pod-gvozd",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002371/photos/ed9b7a9f18f5a8e4617f00d3e8900649.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000010/EC000363"
+                    }, {
+                        "name": "Групповое крепление для кабеля",
+                        "nameTranslit": "gruppovoe-kreplenie-dlya-kabelya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000010/EC000370/photos/283e2e87b4d0446e4fd744b96c417161.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000010/EC000370"
+                    }, {
+                        "name": "Прижимная скоба",
+                        "nameTranslit": "prizhimnaya-skoba",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000010/EC000454/photos/8369c0578287e5a4d89fa48af94a93f5.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000010/EC000454"
+                    }, {
+                        "name": "Оболочка для кабельного зажима",
+                        "nameTranslit": "obolochka-dlya-kabelnogo-zazhima",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000010/EC000455/photos/583a3e6835fc039676c102a96eae4239.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000010/EC000455"
+                    }, {
+                        "name": "Кронштейн/держатель кабельный",
+                        "nameTranslit": "kronshteyn-derzhatel-kabelnyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000010/EC000536/photos/b7d9d270094f1fb078be185add1f34db.png",
+                        "URL": "https://etipro.ru/catalogs/EG000010/EC000536"
+                    }, {
+                        "name": "Ответвительный зажим/сжим",
+                        "nameTranslit": "otvetvitelnyy-zazhim-szhim",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC001062/photos/d1c615992fe1a476249a0c7846471e83.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000010/EC001062"
+                    }, {
+                        "name": "Сдавливающий зажим для кабеля/трубы",
+                        "nameTranslit": "sdavlivayuschiy-zazhim-dlya-kabelya-truby",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000010/EC002320/photos/4644b8565da2e165fd13e377d9b69750.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000010/EC002320"
+                    }, {
+                        "name": "Монтажный зажим для защитных кабельных труб",
+                        "nameTranslit": "montazhnyy-zazhim-dlya-zaschitnyh-kabelnyh-trub",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000010/EC002470/photos/39ccad1f4a9088cf3acc192d2749ad36.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000010/EC002470"
+                    }
+                ]
             },
             "krepezhnye-elementy-metizy": {
                 "name": "Крепёжные элементы, метизы",
                 "nameTranslit": "krepezhnye-elementy-metizy",
                 "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/photos/f817db07c465b2c13e4bee92775e83a9.jpg",
-                "items": []
+                "items": [
+                    {
+                        "name": "Лента/полоса монтажная",
+                        "nameTranslit": "lenta-polosa-montazhnaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000033/photos/e70a8a2855fac7a6ee2edd30587548bd.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000033"
+                    }, {
+                        "name": "Стяжка кабельная (хомут стяжной)",
+                        "nameTranslit": "styazhka-kabelnaya-homut-styazhnoy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000046/photos/e54967a79dba18ba2b63e8d7fe8843ce.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000046"
+                    }, {
+                        "name": "Болт с шестигранной головкой",
+                        "nameTranslit": "bolt-s-shestigrannoy-golovkoy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002380/photos/2690b60973b1566242cbdef0694b9abb.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002380"
+                    }, {
+                        "name": "Анкерный болт",
+                        "nameTranslit": "ankernyy-bolt",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000048/photos/6f24b159f26d3c46fb8a20f1b3b343c5.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000048"
+                    }, {
+                        "name": "Болт/винт с низкой полукруглой головкой и квадратным подголовком",
+                        "nameTranslit": "bolt-vint-s-nizkoy-polukrugloy-golovkoy-i-kvadratnym-podgolovkom",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002346/photos/e2f417820097a9388c8071f8c7f9c8cd.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002346"
+                    }, {
+                        "name": "Болт с Т-образной / прямоугольной головкой",
+                        "nameTranslit": "bolt-s-t-obraznoy-pryamougolnoy-golovkoy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002354/photos/8162f04c59d30ebd03461b3d104d950f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002354"
+                    }, {
+                        "name": "Болт-скоба (хомут резьбовой) U-образной формы",
+                        "nameTranslit": "bolt-skoba-homut-rezbovoy-u-obraznoy-formy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002370/photos/4b72a80423031768b42adb67f3158bc4.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002370"
+                    }, {
+                        "name": "Рым-болт (винт с кольцом/ петлей/ проушиной)",
+                        "nameTranslit": "rym-bolt-vint-s-kolcom-petley-proushinoy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000885/photos/c2f517c71c3b3fc98cca7ae24ca7b18d.png",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000885"
+                    }, {
+                        "name": "Шестигранная гайка",
+                        "nameTranslit": "shestigrannaya-gayka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000129/photos/f9d832b94bd8a6b7ae79906f9cc6d8a6.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000129"
+                    }, {
+                        "name": "Т-образная гайка для фигурных профилей",
+                        "nameTranslit": "t-obraznaya-gayka-dlya-figurnyh-profiley",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000096/photos/52e25fc6cde0a056fa2425f9665b7677.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000096"
+                    }, {
+                        "name": "Гайка самоконтрящаяся (со стопорным буртиком/фланцем)",
+                        "nameTranslit": "gayka-samokontryaschayasya-so-stopornym-burtikom-flancem",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002386/photos/a66934f3d4139f986dfc9f2e9a3d539e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002386"
+                    }, {
+                        "name": "Удлинённая соединительная гайка",
+                        "nameTranslit": "udlinennaya-soedinitelnaya-gayka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002360/photos/f4014fd25a75da958e4a22866d433ad2.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002360"
+                    }, {
+                        "name": "Квадратная гайка",
+                        "nameTranslit": "kvadratnaya-gayka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000711/photos/a3a79d9b9871466050cdeb76b450dfb8.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000711"
+                    }, {
+                        "name": "Квадратная гайка в обойме",
+                        "nameTranslit": "kvadratnaya-gayka-v-oboyme",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002358/photos/2447b7571fe66c45de2af57359628a1c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002358"
+                    }, {
+                        "name": "Рым-гайка",
+                        "nameTranslit": "rym-gayka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002366/photos/d24e97bc2bb5d52e703a251344b7220c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002366"
+                    }, {
+                        "name": "Колпачковая гайка",
+                        "nameTranslit": "kolpachkovaya-gayka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002355/photos/e5c91c9e56e977df1938860de2c58607.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002355"
+                    }, {
+                        "name": "Гайка-барашек",
+                        "nameTranslit": "gayka-barashek",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002347/photos/98572398f5189dd0174d1b6258f6c4c8.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002347"
+                    }, {
+                        "name": "Стопорная гайка",
+                        "nameTranslit": "stopornaya-gayka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002344/photos/dd0e93af0df4f0f3d62c6f2703d0774b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002344"
+                    }, {
+                        "name": "Заклепочная гайка",
+                        "nameTranslit": "zaklepochnaya-gayka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002343/photos/6b2cd4261260f5fcf05394c7450a7997.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002343"
+                    }, {
+                        "name": "Шайба (плоская)",
+                        "nameTranslit": "shayba-ploskaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000098/photos/43184ec1b52a5266fdaf165d9ab989bd.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000098"
+                    }, {
+                        "name": "Стопорная шайба (пружинная/ зубчатая/ гроверная)",
+                        "nameTranslit": "stopornaya-shayba-pruzhinnaya-zubchataya-grovernaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002345/photos/a03bab21ceceabce86c537470029daca.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002345"
+                    }, {
+                        "name": "Лапчатая контрящая/стопорная шайба",
+                        "nameTranslit": "lapchataya-kontryaschaya-stopornaya-shayba",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000017/EC002024/photos/c9bddb947c271bb16192abb4c2dee812.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002381"
+                    }, {
+                        "name": "Забивной анкер",
+                        "nameTranslit": "zabivnoy-anker",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000009/photos/d1b7721e287366fa94c71d873bb1706e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000009"
+                    }, {
+                        "name": "Анкер/дюбель для полых стен (пустотелых конструкций)",
+                        "nameTranslit": "anker-dyubel-dlya-polyh-sten-pustotelyh-konstrukciy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000040/photos/6cb3e9dbb698bbbf732c1058ea3cb8fd.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000040"
+                    }, {
+                        "name": "Клиновой анкер",
+                        "nameTranslit": "klinovoy-anker",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002335/photos/5b34c3ca58aa27a02bf8bab285636628.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002335"
+                    }, {
+                        "name": "Анкерная втулка/гильза",
+                        "nameTranslit": "ankernaya-vtulka-gilza",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000755/photos/f8ab3bf4059c88583fe9de503b91e9e7.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000755"
+                    }, {
+                        "name": "Дюбель пружинно-откидной (анкер складной)",
+                        "nameTranslit": "dyubel-pruzhinno-otkidnoy-anker-skladnoy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000112/photos/a753820b48a2bcc7d1930d48e662ca39.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000112"
+                    }, {
+                        "name": "Анкерная шпилька",
+                        "nameTranslit": "ankernaya-shpilka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002342/photos/a71e2175081a508a8089dfea9e5b4d78.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002342"
+                    }, {
+                        "name": "Стержневой анкер",
+                        "nameTranslit": "sterzhnevoy-anker",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002336/photos/2856fe2f05c68ee077d7d3ebced48c16.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002336"
+                    }, {
+                        "name": "Саморез (самонарезающий винт)",
+                        "nameTranslit": "samorez-samonarezayuschiy-vint",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000889/photos/da354e000f363cee719be273c8cb70fa.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000889"
+                    }, {
+                        "name": "Саморез со сверлом (самосверлящий самонарезающий шуруп)",
+                        "nameTranslit": "samorez-so-sverlom-samosverlyaschiy-samonarezayuschiy-shurup",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002341/photos/879a4aef226618c0de66327baa892104.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002341"
+                    }, {
+                        "name": "Дюбель универсальный (общего назначения)",
+                        "nameTranslit": "dyubel-universalnyy-obschego-naznacheniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000089/photos/5e8bb665740c28330c7d7a0fc69f8421.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000089"
+                    }, {
+                        "name": "Дюбель-гвоздь (забивной)",
+                        "nameTranslit": "dyubel-gvozd-zabivnoy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000097/photos/c3b44064b9400ad8fd59386a49a6ae91.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000097"
+                    }, {
+                        "name": "Винтовой дюбель (с наружней и внутренней резьбой)",
+                        "nameTranslit": "vintovoy-dyubel-s-naruzhney-i-vnutrenney-rezboy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000364/photos/690279f1a0f7a25e85e674e26eb9be9d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000364"
+                    }, {
+                        "name": "Шпилька резьбовая (сплошная резьба)",
+                        "nameTranslit": "shpilka-rezbovaya-sploshnaya-rezba",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000028/photos/2af614f49e81fb886240eddba7671e80.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000028"
+                    }, {
+                        "name": "Цепь",
+                        "nameTranslit": "cep",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000050/photos/be5e78743e0fea48d78ff78c0bcb3367.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000050"
+                    }, {
+                        "name": "Крюк винтовой",
+                        "nameTranslit": "kryuk-vintovoy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000092/photos/9b8c5d2d4369f5a8825f4dea13f0f433.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000092"
+                    }, {
+                        "name": "Гвоздь",
+                        "nameTranslit": "gvozd",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000103/photos/6d10aab7fb3d0ff9eba871bced98a43a.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000103"
+                    }, {
+                        "name": "Монтажное основание/крепежный элемент для кабельных стяжек (хомутов)",
+                        "nameTranslit": "montazhnoe-osnovanie-krepezhnyy-element-dlya-kabelnyh-styazhek-homutov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000449/photos/eb8142939a228e9686c1f20e40028e63.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000449"
+                    }, {
+                        "name": "Крепежный зажим для кабеля/трубы",
+                        "nameTranslit": "krepezhnyy-zazhim-dlya-kabelya-truby",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000464/photos/e7579623b34d48dd1ca2c38bb7b7a0a9.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000464"
+                    }, {
+                        "name": "Крюк S-образный",
+                        "nameTranslit": "kryuk-s-obraznyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000468/photos/9d7b517952176a4cdcd56a87670ddbc4.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000468"
+                    }, {
+                        "name": "Соединительное звено цепи",
+                        "nameTranslit": "soedinitelnoe-zveno-cepi",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000469/photos/dd49783205a9cf2015e1e7fc21818e14.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000469"
+                    }, {
+                        "name": "Подвесной кронштейн/ крюк для трапецеидального потолка",
+                        "nameTranslit": "podvesnoy-kronshteyn-kryuk-dlya-trapeceidalnogo-potolka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000473/photos/f13343914d4911c3955eed1d440f25fd.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000473"
+                    }, {
+                        "name": "Винтовой зажим",
+                        "nameTranslit": "vintovoy-zazhim",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000012/EC001284/photos/680c42200aee63e718e00f69ea5f2377.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000474"
+                    }, {
+                        "name": "Клей/адгезив",
+                        "nameTranslit": "kley-adgeziv",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000529/photos/9015ba258fe43525f415084d1e4c6990.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000529"
+                    }, {
+                        "name": "Растворитель",
+                        "nameTranslit": "rastvoritel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000530/photos/76050b65b21e90354d2d7fc6e5772ac5.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000530"
+                    }, {
+                        "name": "Крепежная пластина/диск под гвоздь",
+                        "nameTranslit": "krepezhnaya-plastina-disk-pod-gvozd",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000537/photos/620c2aef54fe8b239b4b66db5d52c8c6.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000537"
+                    }, {
+                        "name": "Бокс/кейс с набором винтов/шурупов",
+                        "nameTranslit": "boks-keys-s-naborom-vintov-shurupov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000620/photos/2447b7571fe66c45de2af57359628a1c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000620"
+                    }, {
+                        "name": "Винт/шуруп по металлу",
+                        "nameTranslit": "vint-shurup-po-metallu",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000887/photos/22c09922ac3998ec82c3bb1bba6c8677.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000887"
+                    }, {
+                        "name": "Винт/шуруп по дереву",
+                        "nameTranslit": "vint-shurup-po-derevu",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000888/photos/a2342c8b464c7c78c343652dbe0e635a.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000888"
+                    }, {
+                        "name": "Резьбонарезающий винт",
+                        "nameTranslit": "rezbonarezayuschiy-vint",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000891/photos/d46eeb12c63f2a073c575f96f80c0017.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC000891"
+                    }, {
+                        "name": "Распорная (промежуточная) втулка",
+                        "nameTranslit": "raspornaya-promezhutochnaya-vtulka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002334/photos/9c8e91c8ab652241182ec66afd1ece84.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002334"
+                    }, {
+                        "name": "Глухая (закладная трубчатая) заклёпка",
+                        "nameTranslit": "gluhaya-zakladnaya-trubchataya-zaklepka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002339/photos/4e088686d9dcfde7d5e0262b3f6a914c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002339"
+                    }, {
+                        "name": "Винт с цилиндрической головкой под шестигранник",
+                        "nameTranslit": "vint-s-cilindricheskoy-golovkoy-pod-shestigrannik",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002356/photos/a15c6a5720b9116848ef094cd5b1fa6c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002356"
+                    }, {
+                        "name": "Опорный изолятор / изолирующая втулка",
+                        "nameTranslit": "opornyy-izolyator-izoliruyuschaya-vtulka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002357/photos/60d3825558240b6c086c8670410645bd.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002357"
+                    }, {
+                        "name": "Шуруп Г-образный (костыль с резьбой)",
+                        "nameTranslit": "shurup-g-obraznyy-kostyl-s-rezboy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002361/photos/93018623d9d2e7082e0f29855bb3cedf.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002361"
+                    }, {
+                        "name": "Химическая капсула для клеевого анкера",
+                        "nameTranslit": "himicheskaya-kapsula-dlya-kleevogo-ankera",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002363/photos/99676ebfd2b87951634173675beabea5.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002363"
+                    }, {
+                        "name": "Гвоздь для пневматического пистолета(молотка)",
+                        "nameTranslit": "gvozd-dlya-pnevmaticheskogo-pistoleta-molotka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000103/photos/244cdc18d6d382f4f22ef350c3eb0395.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002364"
+                    }, {
+                        "name": "Винт с кольцом/петлей",
+                        "nameTranslit": "vint-s-kolcom-petley",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002367/photos/ec3248c9cf1a68d674c19ce4cc269a7e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002367"
+                    }, {
+                        "name": "Шуруп/винт с кольцом (для подъема и перемещения грузов)",
+                        "nameTranslit": "shurup-vint-s-kolcom-dlya-podema-i-peremescheniya-gruzov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002368/photos/09d2d97c910c76ee2c56c66c96c96ae3.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002368"
+                    }, {
+                        "name": "Скоба такелажная",
+                        "nameTranslit": "skoba-takelazhnaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002371/photos/9f83414b7f93b0a699c7282fe60b713e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002371"
+                    }, {
+                        "name": "Заглушка (колпачок) для винтов/шурупов",
+                        "nameTranslit": "zaglushka-kolpachok-dlya-vintov-shurupov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002375/photos/e91bc9d0b07d440b3cbb0ca6e14e07e5.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002375"
+                    }, {
+                        "name": "Винтовая заклепка",
+                        "nameTranslit": "vintovaya-zaklepka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002339/photos/4e088686d9dcfde7d5e0262b3f6a914c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002377"
+                    }, {
+                        "name": "Крюк/костыль для тяжелых грузов",
+                        "nameTranslit": "kryuk-kostyl-dlya-tyazhelyh-gruzov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002379/photos/ebc27f57f1951f00d9003851c8fd59b3.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002379"
+                    }, {
+                        "name": "Стопорное кольцо",
+                        "nameTranslit": "stopornoe-kolco",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000017/EC002024/photos/276f470f267de07c4de3db80a76e8e0b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002383"
+                    }, {
+                        "name": "Штифт пружинный",
+                        "nameTranslit": "shtift-pruzhinnyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002384/photos/16f1394e217d1f27e68e59e93c72df8a.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002384"
+                    }, {
+                        "name": "Шуруп для древесностружечной плиты (ДСП)",
+                        "nameTranslit": "shurup-dlya-drevesnostruzhechnoy-plity-dsp",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC000887/photos/9ffc445a047b280d18fd6c850ec71b19.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002385"
+                    }, {
+                        "name": "Шпилька резьбовая (болт, нарезанный с двух концов)",
+                        "nameTranslit": "shpilka-rezbovaya-bolt-narezannyy-s-dvuh-koncov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000004/EC001005/photos/42edf7f72ae2347ac0c62203596c6428.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002391"
+                    }, {
+                        "name": "Штифт с резьбой/ шуруп-шпилька",
+                        "nameTranslit": "shtift-s-rezboy-shurup-shpilka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002392/photos/7c9baeaf9611f960eb41ef34c443d375.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002392"
+                    }, {
+                        "name": "Клеевой анкер",
+                        "nameTranslit": "kleevoy-anker",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002393/photos/7eb122626fbf396dc80a2d91661c3e8d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002393"
+                    }, {
+                        "name": "Винт ступенчатый/с буртиком",
+                        "nameTranslit": "vint-stupenchatyy-s-burtikom",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002395/photos/ea1cdf16417fbedff024043615ed0243.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002395"
+                    }, {
+                        "name": "Герметик",
+                        "nameTranslit": "germetik",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002722/photos/e65965dc895715b9dbd23d533d45e98b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002722"
+                    }, {
+                        "name": "Шуруп по бетону",
+                        "nameTranslit": "shurup-po-betonu",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC002910/photos/6bd22c5794ece91fe42b3f6149928a15.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC002910"
+                    }, {
+                        "name": "Настенная направляющая пластина для пластиковых труб",
+                        "nameTranslit": "nastennaya-napravlyayuschaya-plastina-dlya-plastikovyh-trub",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC010000/photos/607d754c6fc0f3d678e7c34292b9e6ef.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC010000"
+                    }, {
+                        "name": "Двухсекционный кронштейн круглый",
+                        "nameTranslit": "dvuhsekcionnyy-kronshteyn-kruglyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC010049/photos/06e44a2f18763b868e2b8a79977e1c4e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC010049"
+                    }, {
+                        "name": "Струбцина",
+                        "nameTranslit": "strubcina",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC010150/photos/1c4017310a2e85488a937c9a89b61067.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC010150"
+                    }, {
+                        "name": "Консоль",
+                        "nameTranslit": "konsol",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC010933/photos/3a50d738ad65e57af60cbd40b3d56f9e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC010933"
+                    }, {
+                        "name": "Стальной зажим для провода/троса",
+                        "nameTranslit": "stalnoy-zazhim-dlya-provoda-trosa",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC011135/photos/83ec272f0466f2dc1e15d058efa6090b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC011135"
+                    }, {
+                        "name": "Хомут",
+                        "nameTranslit": "homut",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC011409/photos/364ffacaf59f61e91476a5fe729b4239.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC011409"
+                    }, {
+                        "name": "Универсальная система подвески на трос",
+                        "nameTranslit": "universalnaya-sistema-podveski-na-tros",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC011590/photos/79748517f896fec7985a411af8463f6c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC011590"
+                    }, {
+                        "name": "Бокс/органайзер для крепежных элементов",
+                        "nameTranslit": "boks-organayzer-dlya-krepezhnyh-elementov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC012002/photos/10a3062de7ba8b4961324a882afe5d40.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC012002"
+                    }, {
+                        "name": "Талреп",
+                        "nameTranslit": "talrep",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000049/EC012074/photos/7fa0138b87cac4f3e75ec06b21ac9797.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000049/EC012074"
+                    }
+                ]
             },
             "zazemlenie-i-molniezaschita": {
                 "name": "Заземление и молниезащита",
                 "nameTranslit": "zazemlenie-i-molniezaschita",
                 "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/photos/5ae8730bb80cb91e48b5d642572b5d95.jpg",
-                "items": []
+                "items": [
+                    {
+                        "name": "Разрядник для молниезащиты систем энергоснабжения",
+                        "nameTranslit": "razryadnik-dlya-molniezaschity-sistem-energosnabzheniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC000381/photos/2148a957e2e45ee9f5897f49b7356d9e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC000381"
+                    }, {
+                        "name": "Аксессуары для заземления и молниеотвода",
+                        "nameTranslit": "aksessuary-dlya-zazemleniya-i-molnieotvoda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC000490/photos/77c282775181565ec15eff6ff383a181.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC000490"
+                    }, {
+                        "name": "Клемма для заземления",
+                        "nameTranslit": "klemma-dlya-zazemleniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC000491/photos/48c6edeb946ea25a4be6913626734c09.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC000491"
+                    }, {
+                        "name": "Стержень заземления / Профилированный стержень заземления",
+                        "nameTranslit": "sterzhen-zazemleniya-profilirovannyy-sterzhen-zazemleniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC000492/photos/da0715f546300cc507ce6064c13e9cfb.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC000492"
+                    }, {
+                        "name": "Хомут/зажим для трубы заземления",
+                        "nameTranslit": "homut-zazhim-dlya-truby-zazemleniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC000493/photos/1aadb155eafe1577d9032f2f4e2b2685.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC000493"
+                    }, {
+                        "name": "Круглый проводник/провод молниеотвода",
+                        "nameTranslit": "kruglyy-provodnik-provod-molnieotvoda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC000504/photos/cca67112dd299069f57643b09378f9a5.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC000504"
+                    }, {
+                        "name": "Молниеприёмник",
+                        "nameTranslit": "molniepriemnik",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC000505/photos/bb9ed51bc6d1eebba66ce8207ad7df3a.png",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC000505"
+                    }, {
+                        "name": "Вводный заземляющий стержень молниеотвода",
+                        "nameTranslit": "vvodnyy-zazemlyayuschiy-sterzhen-molnieotvoda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC000506/photos/d9500ef05e6ca30c2abb4cb4c8ab0ba9.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC000506"
+                    }, {
+                        "name": "Держатель проводника молниеотвода на крыше",
+                        "nameTranslit": "derzhatel-provodnika-molnieotvoda-na-kryshe",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC000507/photos/4c25c1ce5690dba266bb102f2073acd5.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC000507"
+                    }, {
+                        "name": "Держатель проводника молниеотвода",
+                        "nameTranslit": "derzhatel-provodnika-molnieotvoda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC000508/photos/e15cdb3d603f8421e2c6bbe16fc7bf3c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC000508"
+                    }, {
+                        "name": "Держатель стержня молниеотвода",
+                        "nameTranslit": "derzhatel-sterzhnya-molnieotvoda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC000509/photos/62c67d30313935b4fa462418695d7cc1.png",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC000509"
+                    }, {
+                        "name": "Защитный/изолирующий искровой разрядник для молниеотвода",
+                        "nameTranslit": "zaschitnyy-izoliruyuschiy-iskrovoy-razryadnik-dlya-molnieotvoda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC000510/photos/f897feab88bca2116546ae0ae1ca4cdc.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC000510"
+                    }, {
+                        "name": "Трубчатый зажим для заземления молниеотвода",
+                        "nameTranslit": "trubchatyy-zazhim-dlya-zazemleniya-molnieotvoda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC000511/photos/bd8a6ccd7506c9cd8641c734cdb30ba4.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC000511"
+                    }, {
+                        "name": "Размыкающая клемма молниеотвода",
+                        "nameTranslit": "razmykayuschaya-klemma-molnieotvoda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC000512/photos/7f1990f407583488c445117d5f130a51.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC000512"
+                    }, {
+                        "name": "Соединительный зажим для молниеотвода",
+                        "nameTranslit": "soedinitelnyy-zazhim-dlya-molnieotvoda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC000513/photos/22b3c5b0baf9ec45e79864ad9b5d2f24.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC000513"
+                    }, {
+                        "name": "Соединитель молниеотвода",
+                        "nameTranslit": "soedinitel-molnieotvoda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC000514/photos/b325076120b569738f66b3c98c463619.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC000514"
+                    }, {
+                        "name": "Заземляющая пластина",
+                        "nameTranslit": "zazemlyayuschaya-plastina",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC000528/photos/979f3f1556843bf15e6d05c9a07c014b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC000528"
+                    }, {
+                        "name": "Устройство защиты от перенапряжения для оконечного оборудования",
+                        "nameTranslit": "ustroystvo-zaschity-ot-perenapryazheniya-dlya-okonechnogo-oborudovaniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC000942/photos/1ccd482e8f8f6157019a647884200423.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC000942"
+                    }, {
+                        "name": "Устройство защиты для систем передачи данных/ технологии MCR",
+                        "nameTranslit": "ustroystvo-zaschity-dlya-sistem-peredachi-dannyh-tehnologii-mcr",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC000943/photos/fe4009203a0563a000c6ffc9a6b6e804.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC000943"
+                    }, {
+                        "name": "Устройство защиты от перенапряжения для систем энергоснабжения",
+                        "nameTranslit": "ustroystvo-zaschity-ot-perenapryazheniya-dlya-sistem-energosnabzheniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC000941/photos/71459f2cb54909aecc11e49c62b48485.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC000941"
+                    }, {
+                        "name": "Комбинированный разрядник для систем энергоснабжения",
+                        "nameTranslit": "kombinirovannyy-razryadnik-dlya-sistem-energosnabzheniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC001457/photos/5ea1a76f5f8686d3c5f42c2cf6983917.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC001457"
+                    }, {
+                        "name": "Соединительный зажим (клемма) для стержней заземления",
+                        "nameTranslit": "soedinitelnyy-zazhim-klemma-dlya-sterzhney-zazemleniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC001465/photos/9fc8d159d3b9eaa43e28945c9b2e6085.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC001465"
+                    }, {
+                        "name": "Разрядник тока молнии для систем передачи данных /технологии MCR",
+                        "nameTranslit": "razryadnik-toka-molnii-dlya-sistem-peredachi-dannyh-tehnologii-mcr",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC001466/photos/e11e98bf8404fd16f2c989459d21ed65.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC001466"
+                    }, {
+                        "name": "Плоский проводник/лента для молниеотвода",
+                        "nameTranslit": "ploskiy-provodnik-lenta-dlya-molnieotvoda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC001468/photos/dbe2aa3363572fd34cacac2aea6a2e3e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC001468"
+                    }, {
+                        "name": "Шина уравнивания потенциала",
+                        "nameTranslit": "shina-uravnivaniya-potenciala",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC001470/photos/114788037937a424dc2ff2701d317a24.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC001470"
+                    }, {
+                        "name": "Металлический трос (многопроволочный провод)",
+                        "nameTranslit": "metallicheskiy-tros-mnogoprovolochnyy-provod",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC001471/photos/54bb759e342bdb5f424ee90e69a8f7ee.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC001471"
+                    }, {
+                        "name": "Комплект заземления",
+                        "nameTranslit": "komplekt-zazemleniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC001503/photos/073a7bf42d61524777ab5e57a507778c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC001503"
+                    }, {
+                        "name": "Основание для молниеприемника",
+                        "nameTranslit": "osnovanie-dlya-molniepriemnika",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC001626/photos/cab6ad706530817e83b9988481067443.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC001626"
+                    }, {
+                        "name": "Вбивающий инструмент для стержней заземления",
+                        "nameTranslit": "vbivayuschiy-instrument-dlya-sterzhney-zazemleniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC001628/photos/9ad653aa142c292100fa3dbe18cd225b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC001628"
+                    }, {
+                        "name": "Приспособление (держатель) для заземления",
+                        "nameTranslit": "prisposoblenie-derzhatel-dlya-zazemleniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC002672/photos/576cb7bab0d68b434c1cab055309b580.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC002672"
+                    }, {
+                        "name": "Держатель-распорка для проводника молниеотвода",
+                        "nameTranslit": "derzhatel-rasporka-dlya-provodnika-molnieotvoda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC002673/photos/0d69e25d1a6e0d1322ce2a05adc2dad2.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC002673"
+                    }, {
+                        "name": "Комплект заземления/молниезащиты",
+                        "nameTranslit": "komplekt-zazemleniya-molniezaschity",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC002674/photos/10d620fb8e9605b5d9414ce4776bb62f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC002674"
+                    }, {
+                        "name": "Ленточный заземлитель (гибкая перемычка)",
+                        "nameTranslit": "lentochnyy-zazemlitel-gibkaya-peremychka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000021/EC002809/photos/ac72269109b1e1ab8e9c21f4ac443bb3.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC002809"
+                    }, {
+                        "name": "Защита от животных для электрических изоляторов/втулок",
+                        "nameTranslit": "zaschita-ot-zhivotnyh-dlya-elektricheskih-izolyatorov-vtulok",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC002976/photos/455fbb8139bbf8b25dcbc0aef52d674d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000021/EC002976"
+                    }
+                ]
             },
             "elektroinstrument-i-aksessuary": {
                 "name": "Электроинструмент и аксессуары",
                 "nameTranslit": "elektroinstrument-i-aksessuary",
                 "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/photos/febe3095006cd7864c445d4d98ded3c1.jpg",
-                "items": []
+                "items": [
+                    {
+                        "name": "Коронка (кольцевая пила) для прорезки отверстий",
+                        "nameTranslit": "koronka-kolcevaya-pila-dlya-prorezki-otverstiy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC000415/photos/4c60a3aceee86fc6270b88df90da622d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC000415"
+                    }, {
+                        "name": "Всасывающий воздухозаборник",
+                        "nameTranslit": "vsasyvayuschiy-vozduhozabornik",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC000543/photos/777dad252639b4de57579866d5886f62.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC000543"
+                    }, {
+                        "name": "Шлифовальная машина ленточная  (электрическая)",
+                        "nameTranslit": "shlifovalnaya-mashina-lentochnaya-elektricheskaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC001197/photos/6ad14d2708846a12d65fee9aa1e0be0e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC001197"
+                    }, {
+                        "name": "Перфоратор (электрический)",
+                        "nameTranslit": "perforator-elektricheskiy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC001366/photos/9356385c8fd1b1a7e894c722d3be96ee.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC001366"
+                    }, {
+                        "name": "Бурильный молоток (электрический)",
+                        "nameTranslit": "burilnyy-molotok-elektricheskiy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC001368/photos/69cf92869b526c855e1d46e7388d2859.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC001368"
+                    }, {
+                        "name": "Дрель (электрическая)",
+                        "nameTranslit": "drel-elektricheskaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC001392/photos/b7f10492c726fa39697331546bc7f28d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC001370"
+                    }, {
+                        "name": "Дрель-шуруповерт (аккумуляторная)",
+                        "nameTranslit": "drel-shurupovert-akkumulyatornaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC001371/photos/09b5764a36d607035f57366f1c5071ca.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC001371"
+                    }, {
+                        "name": "Дрель-шуруповерт (электрическая)",
+                        "nameTranslit": "drel-shurupovert-elektricheskaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC001372/photos/dd702263b0d7403e75f3f0ee45ab100b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC001372"
+                    }, {
+                        "name": "Ручная циркулярная пила (аккумуляторная)",
+                        "nameTranslit": "ruchnaya-cirkulyarnaya-pila-akkumulyatornaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC001380/photos/6190f91ef3e325ba2f1fbf8e37d5978a.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC001380"
+                    }, {
+                        "name": "Ручная циркулярная пила (электрическая)",
+                        "nameTranslit": "ruchnaya-cirkulyarnaya-pila-elektricheskaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC001381/photos/a85e86945f4f3943b2b756b138e2e30f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC001381"
+                    }, {
+                        "name": "Пистолет для нанесения горячего клея (электрический)",
+                        "nameTranslit": "pistolet-dlya-naneseniya-goryachego-kleya-elektricheskiy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC001382/photos/b3d7243375d305c3ec1dafbe57da7531.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC001382"
+                    }, {
+                        "name": "Термофен/ тепловой пистолет (электрический)",
+                        "nameTranslit": "termofen-teplovoy-pistolet-elektricheskiy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC001383/photos/ceed6df59cf0b6676e6e862aca812ba4.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC001383"
+                    }, {
+                        "name": "Рубанок (электрический)",
+                        "nameTranslit": "rubanok-elektricheskiy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC001385/photos/7ba1133e165daffd55ce5d4c4786ae8c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC001385"
+                    }, {
+                        "name": "Пылесос для влажной и сухой уборки (электрический)",
+                        "nameTranslit": "pylesos-dlya-vlazhnoy-i-suhoy-uborki-elektricheskiy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC001390/photos/88c8f51fd5db9b7b14288279ccc81051.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC001390"
+                    }, {
+                        "name": "Ударная дрель (электрическая)",
+                        "nameTranslit": "udarnaya-drel-elektricheskaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC001392/photos/d4295eff539c532c80dab18e0c761a61.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC001392"
+                    }, {
+                        "name": "Гайковерт/винтоверт ударный (аккумуляторный)",
+                        "nameTranslit": "gaykovert-vintovert-udarnyy-akkumulyatornyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC001393/photos/c7d27681b509eb875907fe0369209776.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC001393"
+                    }, {
+                        "name": "Лобзик (электрический)",
+                        "nameTranslit": "lobzik-elektricheskiy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC001399/photos/0c58ea5a74e92848cb5727798d152cd3.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC001399"
+                    }, {
+                        "name": "Степлер/ скобозабивочный пистолет (аккумуляторный)",
+                        "nameTranslit": "stepler-skobozabivochnyy-pistolet-akkumulyatornyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC001400/photos/01d6be5147630ed53d566e852130a3b2.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC001400"
+                    }, {
+                        "name": "Шлифовальная машина угловая (электрическая)",
+                        "nameTranslit": "shlifovalnaya-mashina-uglovaya-elektricheskaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC001404/photos/75a31ee74d20f04305d87cb6077b6f31.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC001404"
+                    }, {
+                        "name": "Шлифовальная машина эксцентриковая (электрическая)",
+                        "nameTranslit": "shlifovalnaya-mashina-ekscentrikovaya-elektricheskaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC001514/photos/264a093d0f020d525508de3be510461f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC001514"
+                    }, {
+                        "name": "Ножовка/сабельная пила (аккумуляторная)",
+                        "nameTranslit": "nozhovka-sabelnaya-pila-akkumulyatornaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC001891/photos/7b3d4c9d948dd5807b3d3eabe9a08c85.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC001891"
+                    }, {
+                        "name": "Настольный шлифовальный станок",
+                        "nameTranslit": "nastolnyy-shlifovalnyy-stanok",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC002245/photos/4e839eb79e8fd340d11ace1ce2746d02.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC002245"
+                    }, {
+                        "name": "Садовый измельчитель (электрический)",
+                        "nameTranslit": "sadovyy-izmelchitel-elektricheskiy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC002770/photos/f3814379b54227b2b69ee33c6aba524a.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC002770"
+                    }, {
+                        "name": "Цепная пила (аккумуляторная)",
+                        "nameTranslit": "cepnaya-pila-akkumulyatornaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC002782/photos/5437c1fa79f0d57e08572f2589ebadc8.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC002782"
+                    }, {
+                        "name": "Цепная пила (электрическая)",
+                        "nameTranslit": "cepnaya-pila-elektricheskaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC002791/photos/9a1958043f9040601af75b1999543e79.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC002791"
+                    }, {
+                        "name": "Бензопила",
+                        "nameTranslit": "benzopila",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC002792/photos/a31d01fbef16ffa6831fecdd3604938d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC002792"
+                    }, {
+                        "name": "Газонокосилка (электрическая)",
+                        "nameTranslit": "gazonokosilka-elektricheskaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC002799/photos/2c36ee79487cfe3d4a72a1880efe1bab.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC002799"
+                    }, {
+                        "name": "Газонокосилка (с двигателем внутреннего сгорания)",
+                        "nameTranslit": "gazonokosilka-s-dvigatelem-vnutrennego-sgoraniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC002800/photos/8168de5086069b60b2a40aaaa93ed2f0.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC002800"
+                    }, {
+                        "name": "Газонный триммер (аккумуляторный)",
+                        "nameTranslit": "gazonnyy-trimmer-akkumulyatornyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC002801/photos/fc769a9558f7ecc1995df149b2560697.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC002801"
+                    }, {
+                        "name": "Газонный триммер (электрический)",
+                        "nameTranslit": "gazonnyy-trimmer-elektricheskiy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC002802/photos/052b79a63d1d16bc17d289b906f8c919.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC002802"
+                    }, {
+                        "name": "Газонный культиватор/аэратор (электрический)",
+                        "nameTranslit": "gazonnyy-kultivator-aerator-elektricheskiy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC002804/photos/a563e9d7a6bf1e0d654c08f7859332d7.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC002804"
+                    }, {
+                        "name": "Фрезер/ станок фрезерный (электрический)",
+                        "nameTranslit": "frezer-stanok-frezernyy-elektricheskiy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC002813/photos/b8d1c27d424642333cb1254f971db39e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC002813"
+                    }, {
+                        "name": "Циркулярный станок (полустационарный)",
+                        "nameTranslit": "cirkulyarnyy-stanok-polustacionarnyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC002814/photos/39e27d7349e2777e3a8507f36cb65f37.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC002814"
+                    }, {
+                        "name": "Вибратор для уплотнения бетона (электрический)",
+                        "nameTranslit": "vibrator-dlya-uplotneniya-betona-elektricheskiy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC002821/photos/6c1d7d237ddca5be8b37b1230f141ae6.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC002821"
+                    }, {
+                        "name": "Генератор электроэнергии",
+                        "nameTranslit": "generator-elektroenergii",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC002823/photos/a146a7355e52459bd17831860e11b0b8.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC002823"
+                    }, {
+                        "name": "Воздушный компрессор",
+                        "nameTranslit": "vozdushnyy-kompressor",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC002860/photos/ad4e8668b240067f9454af092030f97f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC002860"
+                    }, {
+                        "name": "Мойка высокого давления",
+                        "nameTranslit": "moyka-vysokogo-davleniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC012172/photos/d7389586c4840045a02c96db49bcbde8.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC012172"
+                    }, {
+                        "name": "Газовая горелка",
+                        "nameTranslit": "gazovaya-gorelka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000051/EC002967/photos/027d78a5211dc25c548a11f965455094.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000051/EC002967"
+                    }
+                ]
             },
             "instrumenty-dlya-opressovki-rezki-i-izolyacii": {
                 "name": "Инструменты для опрессовки, резки и изоляции",
                 "nameTranslit": "instrumenty-dlya-opressovki-rezki-i-izolyacii",
                 "img": "https://vendor-catalog.smart-shop.pro/storage/EG000052/photos/3fc5c83c21d0eade4008bbb2f871ede0.jpg",
-                "items": []
+                "items":
+                    [{
+                        "name": "Ножницы кабельные / Тросорез",
+                        "nameTranslit": "nozhnicy-kabelnye-trosorez",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000052/EC000142/photos/40d2b5ac5aa5f705a3898305f569672d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000052/EC000142"
+                    }, {
+                        "name": "Нож для разделки кабеля",
+                        "nameTranslit": "nozh-dlya-razdelki-kabelya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000052/EC000155/photos/8ea4ef0412d52ae0f4be66da6286fb8f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000052/EC000155"
+                    }, {
+                        "name": "Инструмент для снятия изоляции",
+                        "nameTranslit": "instrument-dlya-snyatiya-izolyacii",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000052/EC000163/photos/35f01ff846e4c9b2d6ff427b8a666aab.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000052/EC000163"
+                    }, {
+                        "name": "Инструмент для опрессовки кабельных наконечников, гильз и разъемов",
+                        "nameTranslit": "instrument-dlya-opressovki-kabelnyh-nakonechnikov-gilz-i-razemov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000052/EC000168/photos/b6a755f4cbc9b03d54987cbe8e8cf691.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000052/EC000168"
+                    }, {
+                        "name": "Специальный инструмент для телекоммуникационных систем (обжим разъемов)",
+                        "nameTranslit": "specialnyy-instrument-dlya-telekommunikacionnyh-sistem-obzhim-razemov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000052/EC000385/photos/c7893e1c2ca503474c775dd23b802d67.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000052/EC000385"
+                    }, {
+                        "name": "Блок гидравлического привода",
+                        "nameTranslit": "blok-gidravlicheskogo-privoda",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000052/EC001185/photos/9a9e38a58a746f6271fe9fecc1fe21b7.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000052/EC001185"
+                    }, {
+                        "name": "Многофункциональный инструмент (опрессовка/ резка/ прошивка)",
+                        "nameTranslit": "mnogofunkcionalnyy-instrument-opressovka-rezka-proshivka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000052/EC001186/photos/3fc5c83c21d0eade4008bbb2f871ede0.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000052/EC001186"
+                    }, {
+                        "name": "Устройство для безопасной резки кабелей под напряжением",
+                        "nameTranslit": "ustroystvo-dlya-bezopasnoy-rezki-kabeley-pod-napryazheniem",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000052/EC001188/photos/7743e6a0545a4342ab43d7fb5b85b7df.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000052/EC001188"
+                    }, {
+                        "name": "Гидравлический соединительный элемент",
+                        "nameTranslit": "gidravlicheskiy-soedinitelnyy-element",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000052/EC001202/photos/477b4f95c3e629eb6eda928a25945022.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000052/EC001202"
+                    }, {
+                        "name": "Матрица к обжимному инструменту для кабельных наконечников, гильз, экранов",
+                        "nameTranslit": "matrica-k-obzhimnomu-instrumentu-dlya-kabelnyh-nakonechnikov-gilz-ekranov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000052/EC001282/photos/437cfb7ded56f9c35171ba46fb2781c2.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000052/EC001282"
+                    }, {
+                        "name": "Установка для снятия изоляции и обжима кабеля",
+                        "nameTranslit": "ustanovka-dlya-snyatiya-izolyacii-i-obzhima-kabelya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000052/EC002778/photos/a64a38ae86bf07a63aff33579c59aa69.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000052/EC002778"
+                    }, {
+                        "name": "Комплектующие для пресс-устройств",
+                        "nameTranslit": "komplektuyuschie-dlya-press-ustroystv",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000052/EC012047/photos/63887f41e0f4581f7daae4fad15a5e59.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000052/EC012047"
+                    }]
             },
             "izmeritelnye-pribory-i-testery": {
                 "name": "Измерительные приборы и тестеры",
                 "nameTranslit": "izmeritelnye-pribory-i-testery",
                 "img": "https://vendor-catalog.smart-shop.pro/storage/EG000044/photos/7e700ead7cdeb0399117f1972f3aea84.jpg",
-                "items": []
+                "items":
+                    [{
+                        "name": "Мультиметр",
+                        "nameTranslit": "multimetr",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000044/EC000069/photos/4ca895144df5479f0e900dd16b4e771d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000044/EC000069"
+                    }, {
+                        "name": "Измерительное/тестовое устройство для коммуникационной техники",
+                        "nameTranslit": "izmeritelnoe-testovoe-ustroystvo-dlya-kommunikacionnoy-tehniki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000044/EC000305/photos/e50af225c315b70d8fcdc0c914cf832d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000044/EC000305"
+                    }, {
+                        "name": "Электроизмерительные клещи",
+                        "nameTranslit": "elektroizmeritelnye-kleschi",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000044/EC000380/photos/09432986cb25a0206c4ba2fadbded541.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000044/EC000380"
+                    }, {
+                        "name": "Люксметр",
+                        "nameTranslit": "lyuksmetr",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000044/EC000412/photos/5565cbe33a02a84719d54a6f2e4bcc81.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000044/EC000412"
+                    }, {
+                        "name": "Прибор для проверки наличия напряжения/ индикаторная отвертка-тестер",
+                        "nameTranslit": "pribor-dlya-proverki-nalichiya-napryazheniya-indikatornaya-otvertka-tester",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000044/EC000494/photos/a434160ffe3dbcb8612535d1cf2b9964.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000044/EC000494"
+                    }, {
+                        "name": "Детектор (прибор для обнаружения) скрытой проводки и труб",
+                        "nameTranslit": "detektor-pribor-dlya-obnaruzheniya-skrytoy-provodki-i-trub",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000044/EC000496/photos/fe9b740ee645548a68b720059e7e53db.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000044/EC000496"
+                    }, {
+                        "name": "Прибор для измерения сопротивления изоляции",
+                        "nameTranslit": "pribor-dlya-izmereniya-soprotivleniya-izolyacii",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000044/EC000499/photos/e5f418ad8ca8c2e9c13f7dde86e589da.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000044/EC000499"
+                    }, {
+                        "name": "Устройство для измерения температуры (термометр) и климата",
+                        "nameTranslit": "ustroystvo-dlya-izmereniya-temperatury-termometr-i-klimata",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000044/EC000601/photos/a1c3c708a4fec7d67352929c7f29d880.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000044/EC000601"
+                    }, {
+                        "name": "Комплект/набор измерительных инструментов",
+                        "nameTranslit": "komplekt-nabor-izmeritelnyh-instrumentov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000044/EC000705/photos/982d23dcbd0e92dcd88bc1b5a86fc726.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000044/EC000705"
+                    }, {
+                        "name": "Тестовый щуп",
+                        "nameTranslit": "testovyy-schup",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000044/EC001195/photos/a0a40c473e5c10f14a8f301b5460ec73.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000044/EC000798"
+                    }, {
+                        "name": "Прибор для измерения параметров окружающей среды",
+                        "nameTranslit": "pribor-dlya-izmereniya-parametrov-okruzhayuschey-sredy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000044/EC001190/photos/811b8dad82fa7ecbe550ab25186df9c0.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000044/EC001190"
+                    }, {
+                        "name": "Ручной датчик оборотов (тахометр)",
+                        "nameTranslit": "ruchnoy-datchik-oborotov-tahometr",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000044/EC001191/photos/a5397481c86c6181af26aaa2b3aca4d7.png",
+                        "URL": "https://etipro.ru/catalogs/EG000044/EC001191"
+                    }, {
+                        "name": "Анализатор качества электроэнергии",
+                        "nameTranslit": "analizator-kachestva-elektroenergii",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000044/EC001194/photos/67e2028f08d8c2feefeb4050649d4e1c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000044/EC001194"
+                    }, {
+                        "name": "Комплектующие для измерительного инструмента",
+                        "nameTranslit": "komplektuyuschie-dlya-izmeritelnogo-instrumenta",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000044/EC001195/photos/f68da2e62bd51daca899f90b5cd47ac2.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000044/EC001195"
+                    }, {
+                        "name": "Прибор для обнаружения повреждения кабеля",
+                        "nameTranslit": "pribor-dlya-obnaruzheniya-povrezhdeniya-kabelya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000044/EC002080/photos/cce02d85558815251152bc09439a36ce.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000044/EC002080"
+                    }, {
+                        "name": "Температурный зонд",
+                        "nameTranslit": "temperaturnyy-zond",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000044/EC002081/photos/0077f98de7ffc1b2ef3064b732678ab1.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000044/EC002081"
+                    }, {
+                        "name": "Тестовый (-ая) штеккер/клемма",
+                        "nameTranslit": "testovyy-aya-shtekker-klemma",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000044/EC002255/photos/480f973d255085f66623e8e82b59591c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000044/EC002255"
+                    }]
             },
             "aksessuary-dlya-elektroinstrumentov": {
                 "name": "Аксессуары для электроинструментов",
                 "nameTranslit": "aksessuary-dlya-elektroinstrumentov",
                 "img": "https://vendor-catalog.smart-shop.pro/storage/EG020002/photos/0a3406345d84a0859e07fb579e0b5f01.jpg",
-                "items": []
+                "items":
+                    [{
+                        "name": "Сверло/бур",
+                        "nameTranslit": "sverlo-bur",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020002/EC000945/photos/0e13c6debdab60c012724fe6971a71f2.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG020002/EC000945"
+                    }, {
+                        "name": "Ступенчатое сверло",
+                        "nameTranslit": "stupenchatoe-sverlo",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020002/EC000162/photos/775e9d6a27dd89695a19da00cd4b3210.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG020002/EC000162"
+                    }, {
+                        "name": "Отрезной/шлифовальный диск",
+                        "nameTranslit": "otreznoy-shlifovalnyy-disk",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020002/EC000173/photos/9006cc6abb39f79816f69088bfdb057d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG020002/EC000173"
+                    }, {
+                        "name": "Коронка сверлильная (бита)",
+                        "nameTranslit": "koronka-sverlilnaya-bita",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020002/EC000704/photos/066a7784ff5a477bd0cdbc4bb47e275a.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG020002/EC000704"
+                    }, {
+                        "name": "Лезвие для лобзика",
+                        "nameTranslit": "lezvie-dlya-lobzika",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020002/EC002242/photos/1c1b42587f4b99c78dcc4492129df606.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG020002/EC002242"
+                    }, {
+                        "name": "Циркулярное пильное полотно (пильный диск)",
+                        "nameTranslit": "cirkulyarnoe-pilnoe-polotno-pilnyy-disk",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020002/EC002237/photos/bd0ecac87e6088db8e7c778adbe4e596.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG020002/EC002237"
+                    }, {
+                        "name": "Клеевой стержень для клеевого пистолета",
+                        "nameTranslit": "kleevoy-sterzhen-dlya-kleevogo-pistoleta",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020002/EC000623/photos/5b42927805ffa21a85cc0ac3b1c957a7.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG020002/EC000623"
+                    }, {
+                        "name": "Аккумулятор для электроинструмента",
+                        "nameTranslit": "akkumulyator-dlya-elektroinstrumenta",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020002/EC001199/photos/f29ddaf4c5fc044c6e98a0600080a904.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG020002/EC001199"
+                    }, {
+                        "name": "Адаптер SDS для сверла/бура",
+                        "nameTranslit": "adapter-sds-dlya-sverla-bura",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020002/EC002230/photos/41c429938e9316f1cd2e4c773d790bbb.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG020002/EC002230"
+                    }, {
+                        "name": "Адаптер (хвостовик) сверлильного патрона для коронки/фрезы для кругл. отверстий",
+                        "nameTranslit": "adapter-hvostovik-sverlilnogo-patrona-dlya-koronki-frezy-dlya-krugl-otverstiy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020002/EC002232/photos/1165644c031085f6474cc42394e7962d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG020002/EC002232"
+                    }, {
+                        "name": "Полотно сабельной/ ножовочной пилы",
+                        "nameTranslit": "polotno-sabelnoy-nozhovochnoy-pily",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020002/EC002239/photos/edeb6f3db236e160883af2746336ade0.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG020002/EC002239"
+                    }, {
+                        "name": "Установка для алмазного бурения",
+                        "nameTranslit": "ustanovka-dlya-almaznogo-bureniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020002/EC002241/photos/9e817af2c56bdfa832943221820b88b2.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG020002/EC002241"
+                    }, {
+                        "name": "Центровочное/центрирующее сверло (для коронок)",
+                        "nameTranslit": "centrovochnoe-centriruyuschee-sverlo-dlya-koronok",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020002/EC002246/photos/a2babaf03afe95b46c8e9b38fb106378.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG020002/EC002246"
+                    }, {
+                        "name": "Комплектующие для газонного триммера",
+                        "nameTranslit": "komplektuyuschie-dlya-gazonnogo-trimmera",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020002/EC002810/photos/1e3ba4e52d48dcc0b8a5eae2e8cefc88.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG020002/EC002810"
+                    }, {
+                        "name": "Комплектующие для газонокосилки",
+                        "nameTranslit": "komplektuyuschie-dlya-gazonokosilki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020002/EC002811/photos/07a6a82bee53825f92595a5bfe08a0fc.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG020002/EC002811"
+                    }]
             },
             "rashodnye-instrumenty": {
                 "name": "Расходные инструменты",
                 "nameTranslit": "rashodnye-instrumenty",
                 "img": "https://vendor-catalog.smart-shop.pro/storage/EG010210/photos/6e46ade58d6deb8eadcf983ca88a2f83.jpg",
-                "items": []
+                "items":
+                    [{
+                        "name": "Набор сверл",
+                        "nameTranslit": "nabor-sverl",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG010210/EC011842/photos/fe123bf4a29285e2f8eab4f4f7f450f6.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG010210/EC011842"
+                    }, {
+                        "name": "Лепестковый шлифовальный круг",
+                        "nameTranslit": "lepestkovyy-shlifovalnyy-krug",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG010210/EC011938/photos/b950bc6ff7384c20c4dc7013ab78ea9e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG010210/EC011938"
+                    }, {
+                        "name": "Губка",
+                        "nameTranslit": "gubka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG010210/EC011940/photos/b706c2065c85d7ebd8024863dc57eb2f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG010210/EC011940"
+                    }]
             },
             "vspomogatelnyy-material": {
                 "name": "Вспомогательный материал",
                 "nameTranslit": "vspomogatelnyy-material",
                 "img": "https://vendor-catalog.smart-shop.pro/storage/EG000060/photos/ee0e6fb19ba09cbbc2fe74cafdb88141.jpg",
-                "items": []
+                "items":
+                    [{
+                        "name": "Спрей/ аэрозоль/ распылитель",
+                        "nameTranslit": "sprey-aerozol-raspylitel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000060/EC000206/photos/3fef04b726f3e50b523bc9dcbc6d856d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000060/EC000206"
+                    }, {
+                        "name": "Маркировочный материал (маркировка)",
+                        "nameTranslit": "markirovochnyy-material-markirovka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000060/EC001288/photos/3403742dcb7d32a6baabe20c04e8004f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000060/EC001288"
+                    }, {
+                        "name": "Лента сигнальная/оградительная",
+                        "nameTranslit": "lenta-signalnaya-ograditelnaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000060/EC001496/photos/962cc2d41ca10875b369b5da970bea76.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000060/EC001496"
+                    }, {
+                        "name": "Предупреждающая/информационная табличка",
+                        "nameTranslit": "preduprezhdayuschaya-informacionnaya-tablichka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000060/EC001777/photos/b6ace48113d07b301eb54d2433c858a8.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000060/EC001777"
+                    }, {
+                        "name": "Карандаш/спрей для мелкого косметического ремонта",
+                        "nameTranslit": "karandash-sprey-dlya-melkogo-kosmeticheskogo-remonta",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000060/EC001899/photos/91bb2ceb8aec111d1d348119a372451d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000060/EC001899"
+                    }, {
+                        "name": "Смазочный материал",
+                        "nameTranslit": "smazochnyy-material",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000047/EC002757/photos/8153760933ea40443dc9545acb39a571.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000060/EC002757"
+                    }]
             },
             "ustroystva-zaschity-i-bezopasnosti": {
                 "name": "Устройства защиты и безопасности",
                 "nameTranslit": "ustroystva-zaschity-i-bezopasnosti",
                 "img": "https://vendor-catalog.smart-shop.pro/storage/EG000059/photos/ca0ea917d4e902a60ea85a0114fc6012.jpg",
-                "items": []
+                "items":
+                    [{
+                        "name": "Детектор (указатель) напряжения",
+                        "nameTranslit": "detektor-ukazatel-napryazheniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000059/EC002781/photos/9df9aeac24ea95ac0c87cd40f8f493a6.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000059/EC002781"
+                    }, {
+                        "name": "Аксессуары для оборудования обеспечения безопасности",
+                        "nameTranslit": "aksessuary-dlya-oborudovaniya-obespecheniya-bezopasnosti",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000059/EC002783/photos/d739104c8b22c3c30250ea1401bd6f4d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000059/EC002783"
+                    }, {
+                        "name": "Оперативная штанга",
+                        "nameTranslit": "operativnaya-shtanga",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000059/EC002786/photos/0303771d931f4dfe546ab2727e722515.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000059/EC002786"
+                    }, {
+                        "name": "Устройство для заземления и закорачивания",
+                        "nameTranslit": "ustroystvo-dlya-zazemleniya-i-zakorachivaniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000059/EC002788/photos/bb9a6458b0231ffbeebcf22be8ea9592.png",
+                        "URL": "https://etipro.ru/catalogs/EG000059/EC002788"
+                    }, {
+                        "name": "Соединительный элемент для устройства заземления и закорачивания",
+                        "nameTranslit": "soedinitelnyy-element-dlya-ustroystva-zazemleniya-i-zakorachivaniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000059/EC002790/photos/74334af9f258c7d290244b25e2808862.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000059/EC002790"
+                    }, {
+                        "name": "Заземляющий картридж",
+                        "nameTranslit": "zazemlyayuschiy-kartridzh",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000059/EC003563/photos/9260b30db3ed1a0dbf6aa38da3f0ce23.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000059/EC003563"
+                    }]
             },
             "payalnoe-oborudovanie-i-rashodnye-materialy": {
                 "name": "Паяльное оборудование и расходные материалы",
                 "nameTranslit": "payalnoe-oborudovanie-i-rashodnye-materialy",
                 "img": "https://vendor-catalog.smart-shop.pro/storage/EG010170/photos/4c8151453722684b91ec3cea25d1ca66.jpg",
-                "items": []
+                "items":
+                    [{
+                        "name": "Паяльник электрический",
+                        "nameTranslit": "payalnik-elektricheskiy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000061/EC000183/photos/01190e85e4a174966f658b928bc13187.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG010170/EC000183"
+                    }, {
+                        "name": "Жало (наконечник) паяльника",
+                        "nameTranslit": "zhalo-nakonechnik-payalnika",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000061/EC000184/photos/18651a3cfcd593e8409897e0207c5e3e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG010170/EC000184"
+                    }, {
+                        "name": "Припой (паяльная проволока)",
+                        "nameTranslit": "pripoy-payalnaya-provoloka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000061/EC000185/photos/4a4149a6a07eef1cc9580e6585fff6c2.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG010170/EC000185"
+                    }, {
+                        "name": "Подставка для паяльника",
+                        "nameTranslit": "podstavka-dlya-payalnika",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000061/EC001086/photos/99a7a22741784e6dc0065d2beced375a.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG010170/EC001086"
+                    }, {
+                        "name": "Паяльник (аккумуляторный)",
+                        "nameTranslit": "payalnik-akkumulyatornyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000061/EC001087/photos/e7a294b5dec2cd925f5fb69a139af04c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG010170/EC001087"
+                    }, {
+                        "name": "Паяльная станция",
+                        "nameTranslit": "payalnaya-stanciya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000061/EC001088/photos/9ee4ec13015c69e997b586d71726ea14.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG010170/EC001088"
+                    }, {
+                        "name": "Флюс",
+                        "nameTranslit": "flyus",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000061/EC001158/photos/0c4e2e3bef4cc5c87eab3fe8c1354047.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG010170/EC001158"
+                    }, {
+                        "name": "Средство для удаления флюса",
+                        "nameTranslit": "sredstvo-dlya-udaleniya-flyusa",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000061/EC001159/photos/8af41a12638bbdd17f33b0cb7f0c1a46.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG010170/EC001159"
+                    }, {
+                        "name": "Отсос для припоя",
+                        "nameTranslit": "otsos-dlya-pripoya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000061/EC001269/photos/65de8086ccfd4638b6fda973a0867e30.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG010170/EC001269"
+                    }, {
+                        "name": "Газовый паяльник",
+                        "nameTranslit": "gazovyy-payalnik",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000061/EC001271/photos/35b992853ad535de71a084e147a1f461.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG010170/EC001271"
+                    }, {
+                        "name": "Паяльная ванна",
+                        "nameTranslit": "payalnaya-vanna",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000061/EC001273/photos/e4b33229308190a9fb298a6391e8b6a3.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG010170/EC001273"
+                    }, {
+                        "name": "Набор для пайки",
+                        "nameTranslit": "nabor-dlya-payki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000061/EC001276/photos/8d6e3e2768a5076172d513cd9403d70e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG010170/EC001276"
+                    }, {
+                        "name": "Губка для чистки паяльного жала",
+                        "nameTranslit": "gubka-dlya-chistki-payalnogo-zhala",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000061/EC001278/photos/9551416c9fda8d28da0eca8ad0f533c1.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG010170/EC001278"
+                    }, {
+                        "name": "Паяльник-пистолет",
+                        "nameTranslit": "payalnik-pistolet",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000061/EC002238/photos/84058f9bf5829c04ccb8ab1d811b69cc.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG010170/EC002238"
+                    }]
             },
             "vspomogatelnye-instrumenty": {
                 "name": "Вспомогательные инструменты",
                 "nameTranslit": "vspomogatelnye-instrumenty",
                 "img": "https://vendor-catalog.smart-shop.pro/storage/EG010220/photos/b1830aff7bc6a98707b342e11b7bd0e2.jpg",
-                "items": []
+                "items":
+                    [{
+                        "name": "Щетка для чистки",
+                        "nameTranslit": "schetka-dlya-chistki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG010220/EC011128/photos/5d5d57edf525f4d41e0886fb1624fed9.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG010220/EC011128"
+                    }, {
+                        "name": "Швабра",
+                        "nameTranslit": "shvabra",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG010220/EC012312/photos/50bd82765352daeab7508691abad0df7.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG010220/EC012312"
+                    }, {
+                        "name": "Веревка/канат",
+                        "nameTranslit": "verevka-kanat",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG010220/EC011141/photos/e3552565f67a631ec5180f49cefada49.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG010220/EC011141"
+                    }]
             },
             "gruzopodemnoe-oborudovanie": {
                 "name": "Грузоподъемное оборудование",
@@ -6083,7 +7999,24 @@ const dataDb = {
                 "name": "Заводское оборудование",
                 "nameTranslit": "zavodskoe-oborudovanie",
                 "img": "https://vendor-catalog.smart-shop.pro/storage/EG020000/photos/783eff43e00a8c67a383079333687899.jpg",
-                "items": []
+                "items":
+                    [{
+                        "name": "Крючок",
+                        "nameTranslit": "kryuchok",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020000/EC003369/photos/f6ba9dbb4f5ac03ad94f98e7a1c7a474.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG020000/EC003369"
+                    }, {
+                        "name": "Выжигатель садовый",
+                        "nameTranslit": "vyzhigatel-sadovyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020000/EC003378/photos/946f190c4f5a2309736860cc6b3488f4.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG020000/EC003378"
+                    }, {
+                        "name": "Нажовка ручная",
+                        "nameTranslit": "nazhovka-ruchnaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020000/EC003389/photos/6c314be757418f1925145cf191f17655.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG020000/EC003389"
+                    }]
+
             },
             "rabochee-oborudovanie": {
                 "name": "Рабочее оборудование",
@@ -6101,7 +8034,18 @@ const dataDb = {
                 "name": "Комплектующие для морского, автомобильного направления",
                 "nameTranslit": "komplektuyuschie-dlya-morskogo-avtomobilnogo-napravleniya",
                 "img": "https://vendor-catalog.smart-shop.pro/storage/EG014000/photos/c78c50bb9c70578c0182e7c1bb1216ae.jpg",
-                "items": []
+                "items":
+                    [{
+                        "name": "Замок врезной",
+                        "nameTranslit": "zamok-vreznoy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG014000/EC012119/photos/e80bb56d19714560be6bbbe9b0ce1337.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG014000/EC012119"
+                    }, {
+                        "name": "Напольный люк",
+                        "nameTranslit": "napolnyy-lyuk",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG014000/EC012284/photos/cf008fcc43bc9d0f4bcb850aca68ebe0.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG014000/EC012284"
+                    }]
             },
             "uplotnitelnye-kolca-i-vtulki": {
                 "name": "Уплотнительные кольца и втулки",
@@ -6129,6 +8073,1133 @@ const dataDb = {
             }
         },
     },
+    "Construction-materials": {
+        "name": "Строительные материалы",
+        "items": {
+            "protochnye-vozduhovody": {
+                "name": "Проточные воздуховоды",
+                "nameTranslit": "protochnye-vozduhovody",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG019760/photos/d1e475d0931e49ac8a7876ad1b336bd7.jpg",
+                "items": []
+            },
+            "stroitelstvo-otdelochnye-materialy": {
+                "name": "Строительство - Отделочные материалы",
+                "nameTranslit": "stroitelstvo-otdelochnye-materialy",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG020100/photos/a7b4cf9c63319591d5b8e996274efa71.jpeg",
+                "items": []
+            },
+            "teploizolyaciya": {
+                "name": "Теплоизоляция",
+                "nameTranslit": "teploizolyaciya",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG018110/photos/16a1dad2da0ce95428cb6c6d2ace85c5.jpg",
+                "items": []
+            },
+            "vodostoki": {
+                "name": "Водостоки",
+                "nameTranslit": "vodostoki",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015130/photos/b833118444764f66fc445b5423b3a158.jpg",
+                "items": []
+            },
+            "stochnye-kanavy-baki": {
+                "name": "Сточные канавы / баки",
+                "nameTranslit": "stochnye-kanavy-baki",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG015110/photos/0ca2214bcf4bcbcc4db2a2a3983bd25f.jpg",
+                "items": []
+            },
+            "priemnye-ustroystva-stochnyh-vod": {
+                "name": "Приемные устройства сточных вод",
+                "nameTranslit": "priemnye-ustroystva-stochnyh-vod",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG017110/photos/842a9fed0714538e73e9db9b3e9de43d.jpg",
+                "items": []
+            },
+            "krovelnye-materialy": {
+                "name": "Кровельные материалы",
+                "nameTranslit": "krovelnye-materialy",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG019610/photos/8ea978c43fd923ed1bd20bdebd1c9d5a.jpg",
+                "items": []
+            },
+            "plitka": {
+                "name": "Плитка",
+                "nameTranslit": "plitka",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG019510/photos/77a18cd0d1b781dc72953c5f3495f447.jpg",
+                "items": []
+            },
+            "listovoy-material": {
+                "name": "Листовой материал",
+                "nameTranslit": "listovoy-material",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG019720/photos/8a8d014c2b454f5826134845531041f9.jpg",
+                "items": []
+            },
+            "profili": {
+                "name": "Профили",
+                "nameTranslit": "profili",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG019710/photos/d68e2bb039cb8da45b0e9130c3cc5a82.jpg",
+                "items":
+                    [{
+                        "name": "Стальной С-профиль",
+                        "nameTranslit": "stalnoy-s-profil",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG019710/EC003165/photos/e94e2bafda5ec4a5980314b31df8f57e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG019710/EC003165"
+                    }]
+            },
+            "krepezh-lenta-provolochnyy-material": {
+                "name": "Крепеж, лента, проволочный материал",
+                "nameTranslit": "krepezh-lenta-provolochnyy-material",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG019730/photos/1c5a127f59906ca1cbd5c8ac553ed275.jpg",
+                "items": []
+            },
+            "stroitelnye-materialy": {
+                "name": "Строительные материалы",
+                "nameTranslit": "stroitelnye-materialy",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG013000/photos/852ad362e252c03b8c1e6810b071b86a.png",
+                "items": []
+            },
+            "stroitelstvo-krepezhnye-materialy-i-instrumenty-vklyuchaya-rashodnye-materialy": {
+                "name": "Строительство - Крепежные материалы и инструменты (включая расходные материалы)",
+                "nameTranslit": "stroitelstvo-krepezhnye-materialy-i-instrumenty-vklyuchaya-rashodnye-materialy",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG020150/photos/13f7489a3fc7944144f75960db19c837.jpeg",
+                "items":
+                    [{
+                        "name": "Клин",
+                        "nameTranslit": "klin",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020150/EC003214/photos/8e778d2d169ab17b7d5c1eb924138a49.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG020150/EC003214"
+                    }]
+            },
+            "stroitelstvo-konstrukcionnaya-stal-i-profili": {
+                "name": "Строительство - конструкционная сталь и профили",
+                "nameTranslit": "stroitelstvo-konstrukcionnaya-stal-i-profili",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG020200/photos/b4ee46a720f3dd317daa726f3b828dea.jpeg",
+                "items": []
+            },
+            "stroitelstvo-himicheskaya-produkciya": {
+                "name": "Строительство - химическая продукция",
+                "nameTranslit": "stroitelstvo-himicheskaya-produkciya",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG020250/photos/3905b1783a37c2558007c2399bb5874e.jpeg",
+                "items":
+                    [{
+                        "name": "Монтажный клей",
+                        "nameTranslit": "montazhnyy-kley",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020250/EC003204/photos/3905b1783a37c2558007c2399bb5874e.jpeg",
+                        "URL": "https://etipro.ru/catalogs/EG020250/EC003204"
+                    }]
+            },
+            "stroitelstvo-krovelnye-materialy": {
+                "name": "Строительство - Кровельные материалы",
+                "nameTranslit": "stroitelstvo-krovelnye-materialy",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG020300/photos/2f2c89f34cc933a37896bd4e6b152360.jpeg",
+                "items": []
+            },
+            "stroitelstvo-fasadnaya-oblicovka": {
+                "name": "Строительство - Фасадная облицовка",
+                "nameTranslit": "stroitelstvo-fasadnaya-oblicovka",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG020350/photos/995f5493fe25cc1dbe110fa6bdd78b08.jpeg",
+                "items": []
+            },
+            "stroitelstvo-drevesina-i-plity": {
+                "name": "Строительство - Древесина и плиты",
+                "nameTranslit": "stroitelstvo-drevesina-i-plity",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG020400/photos/f7e9c8b3f3b535293c85d3443cad9802.jpeg",
+                "items": []
+            },
+            "stroitelstvo-grazhdanskaya-infrastruktura": {
+                "name": "Строительство - Гражданская инфраструктура",
+                "nameTranslit": "stroitelstvo-grazhdanskaya-infrastruktura",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG020450/photos/c3390a713f61004df1251519f4ba33ac.png",
+                "items": []
+            },
+            "stroitelstvo-izolyacionnyy-material": {
+                "name": "Строительство - изоляционный материал",
+                "nameTranslit": "stroitelstvo-izolyacionnyy-material",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG020500/photos/62d5c4a8136ba07a9ff9c02cd4458f8e.jpeg",
+                "items": []
+            },
+            "stroitelstvo-kamen-i-cherepica": {
+                "name": "Строительство - камень и черепица",
+                "nameTranslit": "stroitelstvo-kamen-i-cherepica",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG020550/photos/f9e3540bd2d1fd4978e1a5bc56696f53.jpeg",
+                "items": []
+            },
+            "stroitelstvo-falsh-poly": {
+                "name": "Строительство - фальш- полы",
+                "nameTranslit": "stroitelstvo-falsh-poly",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG020600/photos/d34eda01bd9487b22a6ddbbeabcc8319.jpeg",
+                "items": []
+            },
+            "stroitelstvo-meshki": {
+                "name": "Строительство - Мешки",
+                "nameTranslit": "stroitelstvo-meshki",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG020650/photos/feccc1fd3de535da472e9b0e78d01ff4.jpeg",
+                "items": []
+            },
+            "stroitelnyy-sektor-prochee": {
+                "name": "Строительный сектор - прочее",
+                "nameTranslit": "stroitelnyy-sektor-prochee",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG020700/photos/f784a22eb1098bfdddde421d47539a73.png",
+                "items": []
+            }
+        },
+    },
+    "Workwear-and-PPE": {
+        "name": "Спецодежда и СИЗ",
+        "items": {
+            "specodezhda-specobuv": {
+                "name": "Спецодежда, спецобувь",
+                "nameTranslit": "specodezhda-specobuv",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/SG000018/photos/e83b2785aecc0781620bd45147f8bfb7.jpeg",
+                "items":
+                    [{
+                        "name": "Комплект одежды",
+                        "nameTranslit": "komplekt-odezhdy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000018/EC003582/photos/52dea623b137687b2ecb8ce8d93d9da2.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000018/EC003582"
+                    }, {
+                        "name": "Защитные сапоги",
+                        "nameTranslit": "zaschitnye-sapogi",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000018/EC002105/photos/06f7aa172727b87cfd92821416527409.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000018/EC002105"
+                    }, {
+                        "name": "Галоши/ боты/ бахилы",
+                        "nameTranslit": "galoshi-boty-bahily",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000018/EC002831/photos/1838aa16c040799a01d2915e7371218c.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000018/EC002831"
+                    }, {
+                        "name": "Защитные ботинки",
+                        "nameTranslit": "zaschitnye-botinki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000018/EC002104/photos/26287ac471a69250b73f55b6e7fb3ab6.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000018/EC002104"
+                    }, {
+                        "name": "Головной убор",
+                        "nameTranslit": "golovnoy-ubor",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000018/EC003577/photos/49d769bc54ace4a549001cb39df4cf3b.png",
+                        "URL": "https://etipro.ru/catalogs/SG000018/EC003577"
+                    }, {
+                        "name": "Комбинезон/ защитный жилет",
+                        "nameTranslit": "kombinezon-zaschitnyy-zhilet",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000018/EC002083/photos/e907b5a5921e04e2cf0fbd0defa552b6.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000018/EC002083"
+                    }]
+            },
+            "sredstva-individualnoy-zaschity-siz": {
+                "name": "Средства индивидуальной защиты (СИЗ)",
+                "nameTranslit": "sredstva-individualnoy-zaschity-siz",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG000046/photos/105b133abb3b6e509f35320a29c04705.jpeg",
+                "items":
+                    [{
+                        "name": "Защитная каска",
+                        "nameTranslit": "zaschitnaya-kaska",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000046/EC002100/photos/274dd84a91ec2fd562dc9ca36221a5dd.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000046/EC002100"
+                    }, {
+                        "name": "Защитный экран (маска) для лица",
+                        "nameTranslit": "zaschitnyy-ekran-maska-dlya-lica",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000046/EC002103/photos/f6ecb9d37c84d1256ded455b7323b282.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000046/EC002103"
+                    }, {
+                        "name": "Защитные очки",
+                        "nameTranslit": "zaschitnye-ochki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000046/EC002098/photos/0058fc2d60f98fc20f789bd645bfd2e2.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000046/EC002098"
+                    }, {
+                        "name": "Аксессуары для личной защиты",
+                        "nameTranslit": "aksessuary-dlya-lichnoy-zaschity",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000046/EC012017/photos/6964ff17618359a8c1a390286e8510e8.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000046/EC012017"
+                    }, {
+                        "name": "Защитные перчатки",
+                        "nameTranslit": "zaschitnye-perchatki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000046/EC002099/photos/6a69848bd9cb4402a54e51307ce92e3c.png",
+                        "URL": "https://etipro.ru/catalogs/EG000046/EC002099"
+                    }, {
+                        "name": "Одноразовые перчатки",
+                        "nameTranslit": "odnorazovye-perchatki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000046/EC002832/photos/4fc2da079573c943324b1970052bd5e3.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000046/EC002832"
+                    }, {
+                        "name": "Наушники противошумные/ ушные заглушки",
+                        "nameTranslit": "naushniki-protivoshumnye-ushnye-zaglushki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000046/EC002092/photos/f3c6683f1751150f8a2f16626c0e1a85.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000046/EC002092"
+                    }, {
+                        "name": "Респиратор противопыльный",
+                        "nameTranslit": "respirator-protivopylnyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000046/EC002107/photos/15c2899f64159530749806008d7e3960.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000046/EC002107"
+                    }, {
+                        "name": "Беруши",
+                        "nameTranslit": "berushi",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000046/EC002087/photos/fdcd6a0f6a6b25a37f9cdb291f9edf83.png",
+                        "URL": "https://etipro.ru/catalogs/EG000046/EC002087"
+                    }, {
+                        "name": "Диэлектрический коврик",
+                        "nameTranslit": "dielektricheskiy-kovrik",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000046/EC002090/photos/404410081d07860fa109a840ad353fb9.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000046/EC002090"
+                    }, {
+                        "name": "Наколенник",
+                        "nameTranslit": "nakolennik",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000046/EC002093/photos/415829f0aadf547c980b648f19f37d1f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000046/EC002093"
+                    }, {
+                        "name": "Страховочные привязи",
+                        "nameTranslit": "strahovochnye-privyazi",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000046/EC012038/photos/650eb577675398ef79d2738b964877e6.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000046/EC012038"
+                    }]
+            },
+            "antiseptiki-dezinficiruyuschie-sredstva-i-aksessuary": {
+                "name": "Антисептики, дезинфицирующие средства и аксессуары",
+                "nameTranslit": "antiseptiki-dezinficiruyuschie-sredstva-i-aksessuary",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/SG000028/photos/6c5084524db1fcd28360b825aaae1733.jpg",
+                "items":
+                    [{
+                        "name": "Антисептики, дезинфицирующие средства",
+                        "nameTranslit": "antiseptiki-dezinficiruyuschie-sredstva",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000046/EC003584/photos/e924622a65a23bd1135e5242e7eb5844.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000028/EC003584"
+                    }, {
+                        "name": "Дозатор для дезинфекции рук",
+                        "nameTranslit": "dozator-dlya-dezinfekcii-ruk",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000028/SC000103/photos/e24e75d5cc290e9d5b7426eaf9172e80.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000028/SC000103"
+                    }]
+            }
+        },
+    },
+    "Office-and-home-appliances": {
+        "name": "Офисная и бытовая техника",
+        "items": {
+            "ofisnaya-tehnika": {
+                "name": "Офисная техника",
+                "nameTranslit": "ofisnaya-tehnika",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG000038/photos/06b8762efd9029e0638e415ab9de769a.jpg",
+                "items":
+                    [{
+                        "name": "Наушники (головная гарнитура)",
+                        "nameTranslit": "naushniki-golovnaya-garnitura",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000038/EC000789/photos/31ff23f84f4be1b7f7f778098692031a.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000038/EC000789"
+                    }, {
+                        "name": "Аксессуары для беспроводного телефона",
+                        "nameTranslit": "aksessuary-dlya-besprovodnogo-telefona",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000038/EC001674/photos/608dd0445fddb17def7e4ce2bb6d2bd9.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000038/EC001674"
+                    }, {
+                        "name": "Клавиатура",
+                        "nameTranslit": "klaviatura",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000038/EC001692/photos/a62a982ff017d3ed56d28aa1b0150ab5.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000038/EC001692"
+                    }, {
+                        "name": "Расходные материалы для факсов/принтеров/МФУ",
+                        "nameTranslit": "rashodnye-materialy-dlya-faksov-printerov-mfu",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000038/EC001694/photos/fe0c25725dc3f2a6618dd95fa3cb971c.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000038/EC001694"
+                    }, {
+                        "name": "Комплектующие для факсов/принтеров/МФУ",
+                        "nameTranslit": "komplektuyuschie-dlya-faksov-printerov-mfu",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000038/EC001675/photos/9244007cda0582a2ce52d920dfaddc72.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000038/EC001675"
+                    }, {
+                        "name": "Принтер",
+                        "nameTranslit": "printer",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000038/EC001672/photos/c1d2053e5720c3d3d797aee85ea2477b.png",
+                        "URL": "https://etipro.ru/catalogs/EG000038/EC001672"
+                    }, {
+                        "name": "Радиоаппаратура",
+                        "nameTranslit": "radioapparatura",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000038/EC002824/photos/ef058d16471bab1df423347d33535afe.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000038/EC002824"
+                    }, {
+                        "name": "Аксессуары для наушников/гарнитуры",
+                        "nameTranslit": "aksessuary-dlya-naushnikov-garnitury",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000038/EC002754/photos/5b69e06b453fdd1dd52644ed582f0880.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000038/EC002754"
+                    }, {
+                        "name": "Маркерная лента",
+                        "nameTranslit": "markernaya-lenta",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000038/EC000608/photos/d00a550228439d5fd0def6717a891167.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000038/EC000608"
+                    }, {
+                        "name": "Аналог. проводной телефон",
+                        "nameTranslit": "analog-provodnoy-telefon",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000038/EC001691/photos/8979c591a3513cd3b76109207c53d3e2.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000038/EC001691"
+                    }, {
+                        "name": "Стул офисный",
+                        "nameTranslit": "stul-ofisnyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG014000/EC012213/photos/e9826837f44106e87283f353f8abc3fe.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000038/EC012213"
+                    }]
+            },
+            "bytovaya-elektronika-audio-video": {
+                "name": "Бытовая электроника (аудио-видео)",
+                "nameTranslit": "bytovaya-elektronika-audio-video",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG000041/photos/9ab3aa0364305db54e00145255e8031a.jpg",
+                "items":
+                    [{
+                        "name": "Настольный монитор",
+                        "nameTranslit": "nastolnyy-monitor",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000041/EC001429/photos/ad632832eed24ad264638dd5fec24834.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000041/EC001429"
+                    }, {
+                        "name": "Аксессуары для компьютерной техники",
+                        "nameTranslit": "aksessuary-dlya-kompyuternoy-tehniki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000041/SC000003/photos/57b1bb8e621490d48a672a8a35e671e5.png",
+                        "URL": "https://etipro.ru/catalogs/EG000041/SC000003"
+                    }, {
+                        "name": "Комплект громкоговорителей/колонок",
+                        "nameTranslit": "komplekt-gromkogovoriteley-kolonok",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000041/EC000682/photos/9c5cf6be5bd06732accc01d882560018.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000041/EC000682"
+                    }, {
+                        "name": "Компьютерная мышь",
+                        "nameTranslit": "kompyuternaya-mysh",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000041/SC000101/photos/55e25c8f0c02ba2c65b398da1a99b84e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000041/SC000101"
+                    }, {
+                        "name": "Громкоговоритель/колонка",
+                        "nameTranslit": "gromkogovoritel-kolonka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000041/EC000652/photos/faa10aff83b83890f0135b25417fab5f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000041/EC000652"
+                    }, {
+                        "name": "Носитель цифровых данных",
+                        "nameTranslit": "nositel-cifrovyh-dannyh",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000041/EC001068/photos/3592d14cd217acbb718ebb12e2c9b5cc.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000041/EC001068"
+                    }, {
+                        "name": "Аналог. система памяти",
+                        "nameTranslit": "analog-sistema-pamyati",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000041/EC000736/photos/312bf34274a6692bd12655d4e8d2c793.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000041/EC000736"
+                    }, {
+                        "name": "Пульт/ блок дистанционного управления",
+                        "nameTranslit": "pult-blok-distancionnogo-upravleniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000041/EC000678/photos/82c4d4d9f1dcf163ddb0c07a8106ed21.png",
+                        "URL": "https://etipro.ru/catalogs/EG000041/EC000678"
+                    }, {
+                        "name": "Кронштейн для аудио-/видеосистем",
+                        "nameTranslit": "kronshteyn-dlya-audio-videosistem",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000041/EC001630/photos/f110bfda7fdb419ca48eec03c648213b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000041/EC001548"
+                    }, {
+                        "name": "Микрофон",
+                        "nameTranslit": "mikrofon",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000041/EC000070/photos/02615dbe67aca6842b1527c1a15a19ab.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000041/EC000070"
+                    }, {
+                        "name": "Комплектующие для автомагнитолы",
+                        "nameTranslit": "komplektuyuschie-dlya-avtomagnitoly",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000041/EC001636/photos/59aa521049405849acd7bc2b47539b7b.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000041/EC001636"
+                    }, {
+                        "name": "Планшет",
+                        "nameTranslit": "planshet",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000041/EC002945/photos/2843150c7a48884e893a757ab0513139.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000041/EC002945"
+                    }, {
+                        "name": "Наушники (головные телефоны)",
+                        "nameTranslit": "naushniki-golovnye-telefony",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000041/EC000663/photos/940ce5bb392db0639fb684827ef3e7f8.png",
+                        "URL": "https://etipro.ru/catalogs/EG000041/EC000663"
+                    }, {
+                        "name": "Объектив для камеры/проектора",
+                        "nameTranslit": "obektiv-dlya-kamery-proektora",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000041/EC001629/photos/c984c0d172ba04462e651e26d7712da5.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000041/EC001629"
+                    }, {
+                        "name": "Блок питания (сетевой адаптер) для бытовой электроники",
+                        "nameTranslit": "blok-pitaniya-setevoy-adapter-dlya-bytovoy-elektroniki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000053/EC001781/photos/2e9f505c8d3c595f8796a630752c280d.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000041/EC001781"
+                    }, {
+                        "name": "Док-станция",
+                        "nameTranslit": "dok-stanciya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000041/EC002834/photos/8a1d3583877bebe2d6f2c83687653a81.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000041/EC002834"
+                    }, {
+                        "name": "AV-адаптер",
+                        "nameTranslit": "av-adapter",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000041/EC002937/photos/2f01217a68360958066d1ef78bba5787.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000041/EC002937"
+                    }]
+            },
+            "bytovaya-tehnika-malaya": {
+                "name": "Бытовая техника малая",
+                "nameTranslit": "bytovaya-tehnika-malaya",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/photos/8ff0042120ef6f2b5c367367c20bb734.jpg",
+                "items":
+                    [{
+                        "name": "Карманный калькулятор",
+                        "nameTranslit": "karmannyy-kalkulyator",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000544/photos/c1d8cb11bc5eda76c8ee85f31aecba0d.png",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000544"
+                    }, {
+                        "name": "Настенные часы",
+                        "nameTranslit": "nastennye-chasy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000338/photos/34a4fee0cdbc6ed9459498542b2cdb81.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000338"
+                    }, {
+                        "name": "Вентилятор бытовой (напольный/ настольный/ потолочный/ настенный)",
+                        "nameTranslit": "ventilyator-bytovoy-napolnyy-nastolnyy-potolochnyy-nastennyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000532/photos/1da64dd9984723907534c5d046929a9f.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000532"
+                    }, {
+                        "name": "Прибор для ухода за полостью рта",
+                        "nameTranslit": "pribor-dlya-uhoda-za-polostyu-rta",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000558/photos/b4861380122dedab3da60e9be5c91d0e.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000558"
+                    }, {
+                        "name": "Фен для сушки и укладки волос",
+                        "nameTranslit": "fen-dlya-sushki-i-ukladki-volos",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000546/photos/c520f896ee6bdb46fb14fe65f9706cd8.png",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000546"
+                    }, {
+                        "name": "Бритва",
+                        "nameTranslit": "britva",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000551/photos/4fd3b77c209e5b244630025aea283198.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000551"
+                    }, {
+                        "name": "Эпилятор",
+                        "nameTranslit": "epilyator",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000607/photos/94e09f46e163bbce0fe585f59ab6eca4.png",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000607"
+                    }, {
+                        "name": "Машинка для стрижки волос",
+                        "nameTranslit": "mashinka-dlya-strizhki-volos",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000553/photos/bbe96d874600cfb1f8d1e9a05ee8d430.png",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000553"
+                    }, {
+                        "name": "Персональные весы",
+                        "nameTranslit": "personalnye-vesy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000555/photos/2c88df84cb76c7c0ef45848c4440cbe3.png",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000555"
+                    }, {
+                        "name": "Электрический чайник",
+                        "nameTranslit": "elektricheskiy-chaynik",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000587/photos/bc3d230b4ddaada11fefddd89bb3b75d.png",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000587"
+                    }, {
+                        "name": "Кофе машина",
+                        "nameTranslit": "kofe-mashina",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000598/photos/0406fd423b4bf8658e02658edce0f7c3.png",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000598"
+                    }, {
+                        "name": "Гриль",
+                        "nameTranslit": "gril",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000575/photos/fa0ea6219ba324c3a810f2cbc0077565.png",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000575"
+                    }, {
+                        "name": "Настольная духовка/печь/гриль",
+                        "nameTranslit": "nastolnaya-duhovka-pech-gril",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000582/photos/8aa10d9b4e7937e631b8d6443f53eb0f.png",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000582"
+                    }, {
+                        "name": "Кухонный комбайн",
+                        "nameTranslit": "kuhonnyy-kombayn",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000571/photos/a4f8d0e102e869a270cc3b873a7556b9.png",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000571"
+                    }, {
+                        "name": "Миксер/блендер",
+                        "nameTranslit": "mikser-blender",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000560/photos/77b7a54110d47ef43420b691909fcd7a.png",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000560"
+                    }, {
+                        "name": "Тостер",
+                        "nameTranslit": "toster",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000588/photos/9a5718ee992956f4d4f0d6173ef7e9d6.png",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000588"
+                    }, {
+                        "name": "Вафельница",
+                        "nameTranslit": "vafelnica",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000590/photos/0b64aad9fb72ee3fcac8703544070f06.png",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000590"
+                    }, {
+                        "name": "Аксессуары для мелкой бытовой техники",
+                        "nameTranslit": "aksessuary-dlya-melkoy-bytovoy-tehniki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC002679/photos/d36f1c1ec6e0e348c6f1b9deeb897a3b.png",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC002679"
+                    }, {
+                        "name": "Кухонные весы",
+                        "nameTranslit": "kuhonnye-vesy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000564/photos/3638be95d53059ebc9766ed8de8aa990.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000564"
+                    }, {
+                        "name": "Прибор для ухода за телом",
+                        "nameTranslit": "pribor-dlya-uhoda-za-telom",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000552/photos/e7d7f76f48ca5f27690717751f41eb32.png",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000552"
+                    }, {
+                        "name": "Кофемолка",
+                        "nameTranslit": "kofemolka",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000585/photos/1f3357cf2157a734461aa2a57a6ac5df.png",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000585"
+                    }, {
+                        "name": "Пароочиститель",
+                        "nameTranslit": "paroochistitel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000541/photos/55e68ab93798958ebc68654f3fe2441a.png",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000541"
+                    }, {
+                        "name": "Коврик/ Одеяло/ Подушка/ Ножная грелка с электрообогревом",
+                        "nameTranslit": "kovrik-odeyalo-podushka-nozhnaya-grelka-s-elektroobogrevom",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000043/EC000405/photos/802868a5a05e6c51caed66f9ee9eca88.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000556"
+                    }, {
+                        "name": "Мороженица",
+                        "nameTranslit": "morozhenica",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000569/photos/ef65fac02218e144f465c82cff71c293.png",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000569"
+                    }, {
+                        "name": "Погружной нагреватель/кипятильник (электрический)",
+                        "nameTranslit": "pogruzhnoy-nagrevatel-kipyatilnik-elektricheskiy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000583/photos/b5b40d7950bd8c2125c8a1a51fef6fa4.jpg",
+                        "URL": "https://etipro.ru/catalogs/EG000040/EC000583"
+                    }]
+            },
+            "bytovaya-tehnika-krupnaya": {
+                "name": "Бытовая техника крупная",
+                "nameTranslit": "bytovaya-tehnika-krupnaya",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/EG000039/photos/aa165fa84ba19ecbbc0f3c072d97dec7.jpg",
+                "items":
+                    [{
+                        "name": "Электрическая плита",
+                        "nameTranslit": "elektricheskaya-plita",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000039/EC000662/photos/6db280c3dccb29b9cc1570e3bec1f58a.png",
+                        "URL": "https://etipro.ru/catalogs/EG000039/EC000662"
+                    }, {
+                        "name": "Принадлежности для готовки/запекания",
+                        "nameTranslit": "prinadlezhnosti-dlya-gotovki-zapekaniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000039/EC001879/photos/75b74eb3b890ccc2eb6d193426fdae7f.png",
+                        "URL": "https://etipro.ru/catalogs/EG000039/EC001879"
+                    }, {
+                        "name": "Микроволновая печь (СВЧ)",
+                        "nameTranslit": "mikrovolnovaya-pech-svch",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000039/EC000661/photos/2cbc49298f7c940dec54516adf67b6de.png",
+                        "URL": "https://etipro.ru/catalogs/EG000039/EC000661"
+                    }]
+            }
+        },
+    },
+    "Office-supplies": {
+        "name": "Канцелярские товары",
+        "items": {
+            "bumaga-dlya-orgtehniki": {
+                "name": "Бумага для оргтехники",
+                "nameTranslit": "bumaga-dlya-orgtehniki",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/SG000020/photos/c3c109e3d12f230fae42ecb61d95d4dd.jpeg",
+                "items":
+                    [{
+                        "name": "Бумага белая классов А, В, С",
+                        "nameTranslit": "bumaga-belaya-klassov-a-v-s",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000020/SC000023/photos/11cb950b456fa5bea66058ab4ac8b577.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000020/SC000023"
+                    }, {
+                        "name": "Бумага цветная офисная",
+                        "nameTranslit": "bumaga-cvetnaya-ofisnaya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000020/SC000025/photos/988192d53108593b676c04a8d41eb46c.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000020/SC000025"
+                    }, {
+                        "name": "Бумага для чертежных и копировальных работ",
+                        "nameTranslit": "bumaga-dlya-chertezhnyh-i-kopirovalnyh-rabot",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000020/SC000028/photos/eb2d9ff898b31b00c57d53f8a501bda7.png",
+                        "URL": "https://etipro.ru/catalogs/SG000020/SC000028"
+                    }, {
+                        "name": "Рулоны для факсов",
+                        "nameTranslit": "rulony-dlya-faksov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000020/SC000031/photos/328e74b5cf514c061a3e9cae49f62b0b.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000020/SC000031"
+                    }, {
+                        "name": "Фотобумага",
+                        "nameTranslit": "fotobumaga",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000020/SC000033/photos/17aca04d607dde8ff0e63190db1a204d.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000020/SC000033"
+                    }, {
+                        "name": "Бумага для широкоформатной печати",
+                        "nameTranslit": "bumaga-dlya-shirokoformatnoy-pechati",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000020/SC000029/photos/263cd30c18f6ddc86512515230b635a4.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000020/SC000029"
+                    }, {
+                        "name": "Дизайн- и сертификат-бумага",
+                        "nameTranslit": "dizayn-i-sertifikat-bumaga",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000020/SC000032/photos/72f7a488f4eeed8127205cea9da13512.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000020/SC000032"
+                    }]
+            },
+            "pismennye-i-chertezhnye-prinadlezhnosti": {
+                "name": "Письменные и чертежные принадлежности",
+                "nameTranslit": "pismennye-i-chertezhnye-prinadlezhnosti",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/SG000024/photos/5d3275e89d06a1a8fc67d8590ea5288e.jpeg",
+                "items":
+                    [{
+                        "name": "Ручки",
+                        "nameTranslit": "ruchki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000024/SC000054/photos/23283ea602d656600f1a98e4e10c94f3.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000024/SC000054"
+                    }, {
+                        "name": "Карандаши чернографитные",
+                        "nameTranslit": "karandashi-chernografitnye",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000024/SC000059/photos/288e7d746e3b46efa5ce83bcd94189e8.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000024/SC000059"
+                    }, {
+                        "name": "Карандаши механические и запасные грифели",
+                        "nameTranslit": "karandashi-mehanicheskie-i-zapasnye-grifeli",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000024/SC000060/photos/7491bae1bbd1f6ddd46fa8b051a0adb6.png",
+                        "URL": "https://etipro.ru/catalogs/SG000024/SC000060"
+                    }, {
+                        "name": "Наборы письменных принадлежностей",
+                        "nameTranslit": "nabory-pismennyh-prinadlezhnostey",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000024/SC000056/photos/f50b02fc8acd8b025c6b55aa6c7a0dd1.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000024/SC000056"
+                    }, {
+                        "name": "Карандаши специальные",
+                        "nameTranslit": "karandashi-specialnye",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000024/SC000061/photos/d9bc02f89a418d29da119180161f98a3.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000024/SC000061"
+                    }, {
+                        "name": "Маркеры",
+                        "nameTranslit": "markery",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000024/SC000058/photos/94ac8f25959e4e95d157ebebdbd23b27.jpeg",
+                        "URL": "https://etipro.ru/catalogs/SG000024/SC000058"
+                    }, {
+                        "name": "Принадлежности для черчения",
+                        "nameTranslit": "prinadlezhnosti-dlya-chercheniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000024/SC000064/photos/e16a9859ccab835bb41f694a2938e2c0.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000024/SC000064"
+                    }, {
+                        "name": "Стержни, чернила, тушь",
+                        "nameTranslit": "sterzhni-chernila-tush",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000024/SC000057/photos/33d4546f1fbcf1525f7543dc4ed25a7b.png",
+                        "URL": "https://etipro.ru/catalogs/SG000024/SC000057"
+                    }, {
+                        "name": "Клейкие ленты канцелярские",
+                        "nameTranslit": "kleykie-lenty-kancelyarskie",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000024/SC000067/photos/ebaa94f4721383b49a2720f29cfa03e9.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000024/SC000067"
+                    }, {
+                        "name": "Диспенсеры для канцелярской ленты",
+                        "nameTranslit": "dispensery-dlya-kancelyarskoy-lenty",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000024/SC000066/photos/daf2e064faab8079fe1ae6e1049539b1.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000024/SC000066"
+                    }, {
+                        "name": "Корректирующие средства",
+                        "nameTranslit": "korrektiruyuschie-sredstva",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000024/SC000065/photos/8bf6f1ecec87828e5c516ff902caa054.png",
+                        "URL": "https://etipro.ru/catalogs/SG000024/SC000065"
+                    }, {
+                        "name": "Ластики, резинки стирательные",
+                        "nameTranslit": "lastiki-rezinki-stiratelnye",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000024/SC000063/photos/7797990d73ff08ed384e1d6c80d91cd2.png",
+                        "URL": "https://etipro.ru/catalogs/SG000024/SC000063"
+                    }, {
+                        "name": "Точилки",
+                        "nameTranslit": "tochilki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000024/SC000062/photos/917a0526606f80fdff87256b1ccead62.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000024/SC000062"
+                    }, {
+                        "name": "Клей",
+                        "nameTranslit": "kley",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000024/SC000097/photos/74a55196540582b64d58994c143448c1.png",
+                        "URL": "https://etipro.ru/catalogs/SG000024/SC000097"
+                    }]
+            },
+            "papki-i-sistemy-arhivacii": {
+                "name": "Папки и системы архивации",
+                "nameTranslit": "papki-i-sistemy-arhivacii",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/SG000025/photos/2908ee4d2f00fb49f6f6dbc834f77d18.jpeg",
+                "items":
+                    [{
+                        "name": "Папки-регистраторы с арочным механизмом",
+                        "nameTranslit": "papki-registratory-s-arochnym-mehanizmom",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000025/SC000068/photos/14043cec25b63a5766c5044b3d58b7c0.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000025/SC000068"
+                    }, {
+                        "name": "Папки на кольцах",
+                        "nameTranslit": "papki-na-kolcah",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000025/SC000070/photos/4d3e9d55098255242bc05994641d9e3a.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000025/SC000070"
+                    }, {
+                        "name": "Папки с вкладышами (файлами)",
+                        "nameTranslit": "papki-s-vkladyshami-faylami",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000025/SC000071/photos/7282c1c7e968fd68830951470435dc56.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000025/SC000071"
+                    }, {
+                        "name": "Папки-файлы перфорированные пластиковые",
+                        "nameTranslit": "papki-fayly-perforirovannye-plastikovye",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000025/SC000069/photos/9eed134a9308cbb4c4f26379abf935c6.png",
+                        "URL": "https://etipro.ru/catalogs/SG000025/SC000069"
+                    }, {
+                        "name": "Папки пластиковые с прижимом и доски-клипборды",
+                        "nameTranslit": "papki-plastikovye-s-prizhimom-i-doski-klipbordy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000025/SC000072/photos/ead2d08b2ec75b27c21d2d2bf9993d90.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000025/SC000072"
+                    }, {
+                        "name": "Папки на резинках пластиковые",
+                        "nameTranslit": "papki-na-rezinkah-plastikovye",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000025/SC000073/photos/ec22a9784720b3e09fa5cf8547e2d10f.png",
+                        "URL": "https://etipro.ru/catalogs/SG000025/SC000073"
+                    }, {
+                        "name": "Папки-конверты пластиковые",
+                        "nameTranslit": "papki-konverty-plastikovye",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000025/SC000074/photos/6d939669daed19f23af2ddbd67811e0e.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000025/SC000074"
+                    }, {
+                        "name": "Папки-уголки пластиковые",
+                        "nameTranslit": "papki-ugolki-plastikovye",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000025/SC000075/photos/8e17ee5a302d60c2d44122e43fa161a1.png",
+                        "URL": "https://etipro.ru/catalogs/SG000025/SC000075"
+                    }, {
+                        "name": "Скоросшиватели пластиковые",
+                        "nameTranslit": "skorosshivateli-plastikovye",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000025/SC000076/photos/324301d93d2e8bd9174a3353e8d87462.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000025/SC000076"
+                    }, {
+                        "name": "Папки и скоросшиватели картонные",
+                        "nameTranslit": "papki-i-skorosshivateli-kartonnye",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000025/SC000077/photos/7fc4dfc00be6c90cf9a454a4e843d211.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000025/SC000077"
+                    }, {
+                        "name": "Короба и архивные системы картонные",
+                        "nameTranslit": "koroba-i-arhivnye-sistemy-kartonnye",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000025/SC000078/photos/133dc0fa44bc5009fe7e341eb38fd5f6.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000025/SC000078"
+                    }, {
+                        "name": "Аксессуары для документов и папок",
+                        "nameTranslit": "aksessuary-dlya-dokumentov-i-papok",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000025/SC000081/photos/214e76c443a2bb5c57a7ed791005a104.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000025/SC000081"
+                    }, {
+                        "name": "Механизмы для скоросшивания",
+                        "nameTranslit": "mehanizmy-dlya-skorosshivaniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000025/SC000079/photos/e9e628ea8977b0bf875c28295d1b5b65.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000025/SC000079"
+                    }, {
+                        "name": "Нити, шпагаты, шило",
+                        "nameTranslit": "niti-shpagaty-shilo",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000025/SC000080/photos/c32db7a12461261bac62b36a38334ff3.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000025/SC000080"
+                    }]
+            },
+            "bumazhnaya-produkciya-dlya-ofisa": {
+                "name": "Бумажная продукция для офиса",
+                "nameTranslit": "bumazhnaya-produkciya-dlya-ofisa",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/SG000026/photos/9cbc46e98c2f8880e6cc429f84673d89.jpg",
+                "items":
+                    [{
+                        "name": "Ежедневники с твердой обложкой",
+                        "nameTranslit": "ezhednevniki-s-tverdoy-oblozhkoy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000026/SC000087/photos/68da4f11c7054c61e2988edff30951c7.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000026/SC000087"
+                    }, {
+                        "name": "Телефонные и записные книжки",
+                        "nameTranslit": "telefonnye-i-zapisnye-knizhki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000026/SC000084/photos/f941f00a1a74a9131228e51f0dccbdd0.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000026/SC000084"
+                    }, {
+                        "name": "Еженедельники",
+                        "nameTranslit": "ezhenedelniki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000026/SC000088/photos/2eadd1f9f80b5bebf97ffa0d71f25c33.png",
+                        "URL": "https://etipro.ru/catalogs/SG000026/SC000088"
+                    }, {
+                        "name": "Планинги",
+                        "nameTranslit": "planingi",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000026/SC000089/photos/14a5b17d59c6cc41ccbf1ca4e4dab0e2.png",
+                        "URL": "https://etipro.ru/catalogs/SG000026/SC000089"
+                    }, {
+                        "name": "Блокноты",
+                        "nameTranslit": "bloknoty",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000026/SC000082/photos/2ca4d330c99380d1c6b136d95c3278b9.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000026/SC000082"
+                    }, {
+                        "name": "Визитницы",
+                        "nameTranslit": "vizitnicy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000026/SC000090/photos/702612e404c3ee7217a2369f4adedf97.png",
+                        "URL": "https://etipro.ru/catalogs/SG000026/SC000090"
+                    }, {
+                        "name": "Блоки для записей, закладки",
+                        "nameTranslit": "bloki-dlya-zapisey-zakladki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000026/SC000083/photos/a630a96157c7a5ce610e76567e892467.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000026/SC000083"
+                    }, {
+                        "name": "Конверты и пакеты",
+                        "nameTranslit": "konverty-i-pakety",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000026/SC000098/photos/5570cba0d4976d0d5662609c793a5e01.png",
+                        "URL": "https://etipro.ru/catalogs/SG000026/SC000098"
+                    }]
+            },
+            "kontorskoe-oborudovanie": {
+                "name": "Конторское оборудование",
+                "nameTranslit": "kontorskoe-oborudovanie",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/SG000021/photos/b9521abfd639f03accbdcaaffc0a0bf0.png",
+                "items":
+                    [{
+                        "name": "Степлеры, скобы, антистеплеры",
+                        "nameTranslit": "steplery-skoby-antisteplery",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000021/SC000034/photos/74fa36811dc10b6e342607da1d9e2322.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000021/SC000034"
+                    }, {
+                        "name": "Дыроколы",
+                        "nameTranslit": "dyrokoly",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000021/SC000035/photos/5bccedb2a1182d5ccf4b0fd741dc011f.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000021/SC000035"
+                    }, {
+                        "name": "Ножи и коврики для резки",
+                        "nameTranslit": "nozhi-i-kovriki-dlya-rezki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000021/SC000037/photos/82812725d7d78ae6c922b25f1cbe85cb.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000021/SC000037"
+                    }, {
+                        "name": "Ножницы",
+                        "nameTranslit": "nozhnicy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000021/SC000036/photos/2681155711d0dea28eb1e2ea74704cd9.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000021/SC000036"
+                    }, {
+                        "name": "Корзины для бумаг",
+                        "nameTranslit": "korziny-dlya-bumag",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000021/SC000038/photos/8892e3b9dd051b59904f38cf70483bf1.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000021/SC000038"
+                    }]
+            },
+            "kancelyarskie-melochi": {
+                "name": "Канцелярские мелочи",
+                "nameTranslit": "kancelyarskie-melochi",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/SG000023/photos/1b74ac56bca2c72d4845b3be27242039.jpg",
+                "items":
+                    [{
+                        "name": "Булавки",
+                        "nameTranslit": "bulavki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000023/SC000049/photos/6eb8681d1f8835f8621cec7b256cc11b.png",
+                        "URL": "https://etipro.ru/catalogs/SG000023/SC000049"
+                    }, {
+                        "name": "Зажимы для бумаг",
+                        "nameTranslit": "zazhimy-dlya-bumag",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000023/SC000044/photos/7d7fab9ab356dd0ed40073ca60ea2677.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000023/SC000044"
+                    }, {
+                        "name": "Кнопки канцелярские",
+                        "nameTranslit": "knopki-kancelyarskie",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000023/SC000048/photos/207a7f15e8e5a4298477ec8d2ca51486.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000023/SC000048"
+                    }, {
+                        "name": "Скрепки канцелярские",
+                        "nameTranslit": "skrepki-kancelyarskie",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000023/SC000046/photos/160c73d0426ae743a97082cc159a32c3.png",
+                        "URL": "https://etipro.ru/catalogs/SG000023/SC000046"
+                    }, {
+                        "name": "Наборы канцелярских мелочей",
+                        "nameTranslit": "nabory-kancelyarskih-melochey",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000023/SC000045/photos/7f12aef26618a5f863a9202951f97d03.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000023/SC000045"
+                    }, {
+                        "name": "Диспенсеры для скрепок",
+                        "nameTranslit": "dispensery-dlya-skrepok",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000023/SC000047/photos/7ba289f6201f8385635f6efc8f9bf405.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000023/SC000047"
+                    }, {
+                        "name": "Шило канцелярское",
+                        "nameTranslit": "shilo-kancelyarskoe",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000023/SC000051/photos/2b166495f3a2d210ac9856acf0da4de7.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000023/SC000051"
+                    }, {
+                        "name": "Лупы",
+                        "nameTranslit": "lupy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000023/SC000050/photos/4b6b624f3b7bc7f6df191dc1656126de.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000023/SC000050"
+                    }, {
+                        "name": "Звонки настольные",
+                        "nameTranslit": "zvonki-nastolnye",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000023/SC000052/photos/abe6864e55e265ca4605436ef61cce27.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000023/SC000052"
+                    }]
+            },
+            "nastolnye-aksessuary": {
+                "name": "Настольные аксессуары",
+                "nameTranslit": "nastolnye-aksessuary",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/SG000022/photos/492f8278907a75597cbfb249530dc749.jpg",
+                "items":
+                    [{
+                        "name": "Канцелярские наборы пластиковые с наполнением",
+                        "nameTranslit": "kancelyarskie-nabory-plastikovye-s-napolneniem",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000022/SC000041/photos/fdb15c4983e853c97a582eeff4d8ffe0.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000022/SC000041"
+                    }, {
+                        "name": "Лотки для бумаг",
+                        "nameTranslit": "lotki-dlya-bumag",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000022/SC000042/photos/2d51a5456ae888613325d8fb91d0d39c.png",
+                        "URL": "https://etipro.ru/catalogs/SG000022/SC000042"
+                    }, {
+                        "name": "Подставки настольные без наполнения",
+                        "nameTranslit": "podstavki-nastolnye-bez-napolneniya",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000022/SC000040/photos/1720a21867337f4a55b7b1f981f3ade9.png",
+                        "URL": "https://etipro.ru/catalogs/SG000022/SC000040"
+                    }, {
+                        "name": "Коврики настольные",
+                        "nameTranslit": "kovriki-nastolnye",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000022/SC000043/photos/4424889b7e062c01e2e63395edaab255.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000022/SC000043"
+                    }]
+            }
+        },
+    },
+    "Cleanliness-and-order": {
+        "name": "Чистота и порядок",
+        "items": {
+            "bumazhno-gigienicheskaya-produkciya": {
+                "name": "Бумажно-гигиеническая продукция",
+                "nameTranslit": "bumazhno-gigienicheskaya-produkciya",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/SG000019/photos/77eb49014ca7bbb7402c930e83155552.jpeg",
+                "items":
+                    [{
+                        "name": "Туалетная бумага",
+                        "nameTranslit": "tualetnaya-bumaga",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000019/SC000015/photos/bfb6752386b0693eaa3f8c4b05dfa7d8.png",
+                        "URL": "https://etipro.ru/catalogs/SG000019/SC000015"
+                    }, {
+                        "name": "Салфетки универсальные (вискоза+полиэстер)",
+                        "nameTranslit": "salfetki-universalnye-viskoza-poliester",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000019/SC000017/photos/5e38fdebb0da74816f6dc157b836fdab.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000019/SC000017"
+                    }, {
+                        "name": "Салфетки бумажные",
+                        "nameTranslit": "salfetki-bumazhnye",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000019/SC000018/photos/46103ba4654035e14cc562717c744012.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000019/SC000018"
+                    }, {
+                        "name": "Носовые платки",
+                        "nameTranslit": "nosovye-platki",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000019/SC000019/photos/b0724d16cdd15d00b3e4651789395152.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000019/SC000019"
+                    }]
+            }
+        },
+    },
+    "Garden-and-cottage-products": {
+        "name": "Товары для сада и дачи",
+        "items": {
+            "sadovyy-instrument-i-aksessuary": {
+                "name": "Садовый инструмент и аксессуары",
+                "nameTranslit": "sadovyy-instrument-i-aksessuary",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/SG000002/photos/69062b2cfaca1982306ddc42e5d9802d.jpg",
+                "items":
+                    [{
+                        "name": "Лопата",
+                        "nameTranslit": "lopata",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002208/photos/06e2bfafbe4663a2b5338e46f325ee1e.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000002/EC002208"
+                    }, {
+                        "name": "Топор/колун",
+                        "nameTranslit": "topor-kolun",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000050/EC002112/photos/6d96780357a83f1509b452732beca0d8.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000002/EC002112"
+                    }, {
+                        "name": "Грабли",
+                        "nameTranslit": "grabli",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020000/EC003386/photos/7bdb17cc588b6be50b897265a97bf63c.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000002/EC003386"
+                    }, {
+                        "name": "Ножницы для подрезания живой изгороди (ручные)",
+                        "nameTranslit": "nozhnicy-dlya-podrezaniya-zhivoy-izgorodi-ruchnye",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG020000/EC003385/photos/234b1f969beeb5608f7bc182e99be749.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000002/EC003385"
+                    }, {
+                        "name": "Мелкий садовый инвентарь",
+                        "nameTranslit": "melkiy-sadovyy-inventar",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000002/SC000004/photos/d6994b3fa77d194893de059ce903ff32.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000002/SC000004"
+                    }]
+            },
+            "oborudovanie-dlya-poliva": {
+                "name": "Оборудование для полива",
+                "nameTranslit": "oborudovanie-dlya-poliva",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/SG000033/photos/09e01ec036f124710ba3248ed6e7e4aa.jpg",
+                "items":
+                    [{
+                        "name": "Шланг",
+                        "nameTranslit": "shlang",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG015510/EC011314/photos/62462963828804bd77a1b11f66acc45e.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000033/EC011314"
+                    }, {
+                        "name": "Насадки для полива",
+                        "nameTranslit": "nasadki-dlya-poliva",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000033/SC000129/photos/ef8b1bf6add55783ab5238a5a591e1b7.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000033/SC000129"
+                    }, {
+                        "name": "Дождеватель ороситель",
+                        "nameTranslit": "dozhdevatel-orositel",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000033/SC000130/photos/3b2cc917b0c48368437251d7391c5416.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000033/SC000130"
+                    }, {
+                        "name": "Аксессуары для полива",
+                        "nameTranslit": "aksessuary-dlya-poliva",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000033/SC000005/photos/6aad54d8a4f21d9cba043cd26e6e9d21.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000033/SC000005"
+                    }, {
+                        "name": "Тележки и катушки для шлангов",
+                        "nameTranslit": "telezhki-i-katushki-dlya-shlangov",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000033/EC010439/photos/4e8500c5280dfc62b86caca88d971841.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000033/EC010439"
+                    }]
+            },
+            "svetilniki-i-lampy": {
+                "name": "Светильники и лампы",
+                "nameTranslit": "svetilniki-i-lampy",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/SG000034/photos/13764e1c4640aaf8502755303fd6d6d3.jpg",
+                "items":
+                    [{
+                        "name": "Светильник садовый",
+                        "nameTranslit": "svetilnik-sadovyy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000027/EC000301/photos/059c874cae680d151098cb296fbff013.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000034/EC000301"
+                    }, {
+                        "name": "Светильник для растений",
+                        "nameTranslit": "svetilnik-dlya-rasteniy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000034/SC000131/photos/32dc8e5cd828d1d4e8b3d4a6dbae912f.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000034/SC000131"
+                    }, {
+                        "name": "Лампа для растений",
+                        "nameTranslit": "lampa-dlya-rasteniy",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000034/SC000132/photos/18b53be89302a024e176996f7fada5b2.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000034/SC000132"
+                    }]
+            },
+            "uhod-za-sadom": {
+                "name": "Уход за садом",
+                "nameTranslit": "uhod-za-sadom",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/SG000035/photos/89a263f9dc0b58c8a6e5355020c90901.jpg",
+                "items":
+                    [{
+                        "name": "Устройство для отпугивания насекомых, репеллент",
+                        "nameTranslit": "ustroystvo-dlya-otpugivaniya-nasekomyh-repellent",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EG000040/EC000691/photos/fa9cfec948ccd29d96126003ba4c74bf.png",
+                        "URL": "https://etipro.ru/catalogs/SG000035/EC000691"
+                    }, {
+                        "name": "Одежда для сада",
+                        "nameTranslit": "odezhda-dlya-sada",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000035/SC000133/photos/b0f90c0052e206764bd8cc388c4a7ea3.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000035/SC000133"
+                    }, {
+                        "name": "Поддержки, защита и аксессуары",
+                        "nameTranslit": "podderzhki-zaschita-i-aksessuary",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/SG000035/SC000134/photos/2cf5f14aba231dc33fefc4d86a4ee546.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000035/SC000134"
+                    }]
+            },
+            "sadovyy-dekor": {
+                "name": "Садовый декор",
+                "nameTranslit": "sadovyy-dekor",
+                "img": "https://vendor-catalog.smart-shop.pro/storage/SG000036/photos/619de7e3098725be9fee524a84858a7b.jpg",
+                "items":
+                    [{
+                        "name": "Фонтаны",
+                        "nameTranslit": "fontany",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EKG000006/EK000006/photos/fd1d3408219844f5d0058674a4c0d3e0.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000036/SC000006"
+                    }, {
+                        "name": "Фигуры декоративные",
+                        "nameTranslit": "figury-dekorativnye",
+                        "img": "https://vendor-catalog.smart-shop.pro/storage/EKG000007/EK000007/photos/5d815173c4735902af5fb2597db47f69.jpg",
+                        "URL": "https://etipro.ru/catalogs/SG000036/SC000007"
+                    }]
+            }
+        },
+    },
 
 
     // шаблон
@@ -6148,4 +9219,5 @@ const dataDb = {
             },
         },
     },
+
 }

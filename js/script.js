@@ -1,7 +1,5 @@
 'use strict';
 
-console.log('скрипт подключен');
-
 let bottomUpArrow = document.querySelector('.bottomUpArrow'),
     main = document.querySelector('.main'),
     itemCard = main.querySelectorAll('.item-card'),
@@ -24,6 +22,15 @@ const searchElemP = () => {
     }
 };
 
+// скролл плавный работает по id
+const scrollbar = (item) => {
+
+    document.getElementById(item).scrollIntoView({
+        behavior: 'smooth',
+        block: 'start'
+    });
+
+};
 
 
 // проверка на наличеие
@@ -86,7 +93,7 @@ const render = (naimId, sbros = false) => {
 
     let breadCrumsHome = document.createElement('div');
     breadCrumsHome.innerHTML = `
-            <div class="breadcrumbs-home container"><a href="index.html">Все товары</a></div>
+            <div class="breadcrumbs-home container" id="breadcrumbs-home"><a href="index.html">Все товары</a></div>
             `;
 
     let conteainer = document.createElement('div');
@@ -141,6 +148,7 @@ const render = (naimId, sbros = false) => {
     conteainer.append(row);
     main.append(breadCrumsHome);
     main.append(conteainer);
+    scrollbar('breadcrumbs-home');
     if (ahref === '#') addEventCart();
     addEventP();
 };
@@ -161,16 +169,13 @@ document.addEventListener('scroll', () => {
     }
 });
 
-// плавное прокручивание кнопки до якоря
+// плавное прокручивание кнопки до якоря слушатель
 bottomUpArrow.addEventListener('click', function (e) {
     e.preventDefault();
 
     const blockID = 'sumb';
 
-    document.getElementById(blockID).scrollIntoView({
-        behavior: 'smooth',
-        block: 'start'
-    });
+    scrollbar(blockID);
 });
 
 // функция запуска слушателя на карточку
