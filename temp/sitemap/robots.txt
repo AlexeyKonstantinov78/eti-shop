@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Allow: /sitemap.htm
-Sitemap: https://eti-shop.alekseykonstantinov.ru/sitemap.xml
+Sitemap: https://eti-shop.su/sitemap.xml
